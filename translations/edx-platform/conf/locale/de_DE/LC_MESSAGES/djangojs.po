@@ -7861,10 +7861,6 @@ msgstr "Automatisierte Transkripte"
 msgid "Transcript Provider"
 msgstr "Transkriptanbieter"
 
-#: cms/templates/js/course-video-transcript-provider-selected.underscore:5
-msgid "Change"
-msgstr "Änderung"
-
 #: cms/templates/js/course-video-transcript-provider-selected.underscore:6
 msgid "Press change to change selected transcript provider."
 msgstr ""
@@ -10374,10 +10370,6 @@ msgstr "Zuweisungsmethode der Cohorte"
 msgid "Automatic"
 msgstr "automatisch"
 
-#: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:50
-msgid "Manual"
-msgstr "Handbuch"
-
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:56
 msgid ""
 "There must be one cohort to which students can automatically be assigned."
@@ -11744,3 +11736,1434 @@ msgstr[1] "Nächste {num_items} -Ergebnisse laden"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Es wurden leider keine Ergebnisse gefunden."
+
+#Added by Mahendra
+msgid "Forgot password?"
+msgstr "Passwort vergessen?"
+
+msgid "Please enter your email address below and we will send you instructions for setting a new password."
+msgstr "Bitte geben Sie unten Ihre E-Mail-Adresse ein und wir senden Ihnen Anweisungen zum Festlegen eines neuen Passworts."
+
+msgid "S001"
+msgstr "S001"
+
+
+msgid "5S"
+msgstr "5S"
+
+
+msgid "S002"
+msgstr "S002"
+
+
+msgid "Alcohol"
+msgstr "Alkohol"
+
+
+msgid "Drugs"
+msgstr "Drogen"
+
+
+msgid "S003"
+msgstr "S003"
+
+
+msgid "Asbestos"
+msgstr "Asbestos"
+
+
+msgid "workshop"
+msgstr "Werkstatt"
+
+
+msgid "S004"
+msgstr "S004"
+
+
+msgid "Manual"
+msgstr "Manuelle"
+
+
+msgid "Handling"
+msgstr "Lasten"
+
+
+msgid "warehouse"
+msgstr "Lager"
+
+
+msgid "production"
+msgstr "Produktion"
+
+
+msgid "electroplating"
+msgstr "galvanik"
+
+
+msgid "S006"
+msgstr "S006"
+
+
+msgid "Managers"
+msgstr "Managers"
+
+
+msgid "office"
+msgstr "Büro"
+
+
+msgid "culture"
+msgstr "Sicherheitskultur"
+
+
+msgid "S007"
+msgstr "S007"
+
+
+msgid "Labeling"
+msgstr "Labeling"
+
+
+msgid "laboratory"
+msgstr "Labor"
+
+
+msgid "S008"
+msgstr "S008"
+
+
+msgid "Solvents"
+msgstr "Solvents"
+
+
+msgid "S011"
+msgstr "S011"
+
+
+msgid "Slips"
+msgstr "Stolperunfälle"
+
+
+msgid "Trips"
+msgstr "Rutschen"
+
+
+msgid "Falls"
+msgstr "Sturzunfälle"
+
+
+msgid "S012"
+msgstr "S012"
+
+
+msgid "Stress"
+msgstr "Stress"
+
+
+msgid "S013"
+msgstr "S013"
+
+
+msgid "Laser"
+msgstr "Laser"
+
+
+msgid "S015"
+msgstr "S015"
+
+
+msgid "Spill"
+msgstr "Spillkit"
+
+
+msgid "Kit"
+msgstr "Leckage"
+
+
+msgid "emergency"
+msgstr "Notfallset"
+
+
+msgid "paint"
+msgstr "Lackiererei"
+
+
+msgid "S018"
+msgstr "S018"
+
+
+msgid "utility"
+msgstr "Handwerkzeuge"
+
+
+msgid "Knive"
+msgstr "Sicherheitsmesser"
+
+
+msgid "S019"
+msgstr "S019"
+
+
+msgid "Bullying"
+msgstr "Mobbing"
+
+
+msgid "S021"
+msgstr "S021"
+
+
+msgid "Electricity"
+msgstr "Elektrizität"
+
+
+msgid "S022"
+msgstr "S022"
+
+
+msgid "Fire"
+msgstr "Brandschutz"
+
+
+msgid "S023"
+msgstr "S023"
+
+
+msgid "Pasive"
+msgstr "Baulicher"
+
+
+msgid "Protection"
+msgstr "Anlagentechnischer"
+
+
+msgid "S024"
+msgstr "S024"
+
+
+msgid "Emmergency"
+msgstr "Notfall"
+
+
+msgid "Evacuation"
+msgstr "Gebäuderäumung"
+
+
+msgid "S025"
+msgstr "S025"
+
+
+msgid "Extinguishers"
+msgstr "Feuerlöscher"
+
+
+msgid "S026"
+msgstr "S026"
+
+
+msgid "First"
+msgstr "Erste"
+
+
+msgid "Aid"
+msgstr "Hilfe"
+
+
+msgid "Chemicals"
+msgstr "Chemikalienunfälle"
+
+
+msgid "S027"
+msgstr "S027"
+
+
+msgid "S031"
+msgstr "S031"
+
+
+msgid "Gas"
+msgstr "Gas"
+
+
+msgid "Cylinders"
+msgstr "Druckgasflaschen"
+
+
+msgid "S035"
+msgstr "S035"
+
+
+msgid "noise"
+msgstr "Lärm"
+
+
+msgid "hearing"
+msgstr "Lärmschwerhörigkeit"
+
+
+msgid "S036"
+msgstr "S036"
+
+
+msgid "Hexavalent"
+msgstr "Chromsäure"
+
+
+msgid "Chromium"
+msgstr "Chrom"
+
+
+msgid "S037"
+msgstr "S037"
+
+
+msgid "history"
+msgstr "Geschichte"
+
+
+msgid "S039"
+msgstr "S039"
+
+
+msgid "Glassware"
+msgstr "Laborglas"
+
+
+msgid "S040"
+msgstr "S040"
+
+
+msgid "Ladder"
+msgstr "Leitern"
+
+
+msgid "S042"
+msgstr "S042"
+
+
+msgid "Lockout"
+msgstr "Lockout"
+
+
+msgid "tagout"
+msgstr "tagout"
+
+
+msgid "LOTO"
+msgstr "LOTO"
+
+
+msgid "S045"
+msgstr "S045"
+
+
+msgid "Personal"
+msgstr "Persönliche"
+
+
+msgid "Protective"
+msgstr "Schutzausrüstung"
+
+
+msgid "PPE"
+msgstr "PSA"
+
+
+msgid "S046"
+msgstr "S046"
+
+
+msgid "Risk"
+msgstr "Risk"
+
+
+msgid "Assessment"
+msgstr "Assessment"
+
+
+msgid "Hazard"
+msgstr "Hazard"
+
+
+msgid "S047"
+msgstr "S047"
+
+
+msgid "Safety"
+msgstr "Sicherheitskultur"
+
+
+msgid "S048"
+msgstr "S048"
+
+
+msgid "Data"
+msgstr "Sicherheitsdatenblatt"
+
+
+msgid "Sheets"
+msgstr "SDS"
+
+
+msgid "SDS"
+msgstr "SDB"
+
+
+msgid "SDBlaboratory"
+msgstr "Labor"
+
+
+msgid "S049"
+msgstr "S049"
+
+
+msgid "Unsafe"
+msgstr "Unsichere"
+
+
+msgid "Acts"
+msgstr "Handlungen"
+
+
+msgid "S050"
+msgstr "S050"
+
+
+msgid "Sexual"
+msgstr "Sexuelle"
+
+
+msgid "Harassment"
+msgstr "Belästigung"
+
+
+msgid "S053"
+msgstr "S053"
+
+
+msgid "Office"
+msgstr "Ergonomie"
+
+
+msgid "Ergonomics"
+msgstr "Büro"
+
+
+msgid "S054"
+msgstr "S054"
+
+
+msgid "Hazards"
+msgstr "Arbeitsschutz"
+
+
+msgid "S057"
+msgstr "S057"
+
+
+msgid "Dangerous"
+msgstr "Gefahrgut"
+
+
+msgid "Goods"
+msgstr "ADR"
+
+
+msgid "S060"
+msgstr "S060"
+
+
+msgid "Flammable"
+msgstr "Entzündbare"
+
+
+msgid "Liquids"
+msgstr "Flüssigkeiten"
+
+
+msgid "S062"
+msgstr "S062"
+
+
+msgid "Cyanides"
+msgstr "Cyanide"
+
+
+msgid "S064"
+msgstr "S064"
+
+
+msgid "Respiratory"
+msgstr "Atemschutz"
+
+
+msgid "protective"
+msgstr "FFP2"
+
+
+msgid "RPE"
+msgstr "Anpassungsüberprüfung"
+
+
+msgid "S065"
+msgstr "S065"
+
+
+msgid "Carcinogenic"
+msgstr "Krebserregende"
+
+
+msgid "S066"
+msgstr "S066"
+
+
+msgid "Hazardous"
+msgstr "Umgang"
+
+
+msgid "Materials"
+msgstr "Gefahrstoffe"
+
+
+msgid "chemicals"
+msgstr "Chemikalien"
+
+
+msgid "S067"
+msgstr "S067"
+
+
+msgid "Hydrofluoric"
+msgstr "Flusssäure"
+
+
+msgid "Acid"
+msgstr "Labor"
+
+
+msgid "HF"
+msgstr "HF"
+
+
+msgid "S069"
+msgstr "S069"
+
+
+msgid "Acute"
+msgstr "Akut"
+
+
+msgid "Toxicity"
+msgstr "Toxische"
+
+
+msgid "S077"
+msgstr "S077"
+
+
+msgid "Corrosives"
+msgstr "Umgang"
+
+
+msgid "hydroxide"
+msgstr "ätzende"
+
+
+msgid "acid"
+msgstr "Säuren"
+
+
+msgid "S084"
+msgstr "S084"
+
+
+msgid "Explosion"
+msgstr "Explosionsschutz"
+
+
+msgid "ATEX"
+msgstr "ATEX"
+
+
+msgid "S087"
+msgstr "S087"
+
+
+msgid "Storage"
+msgstr "Lagerung"
+
+
+msgid "S090"
+msgstr "S090"
+
+
+msgid "Chemical"
+msgstr "Exposition"
+
+
+msgid "Exposure"
+msgstr "Gefahrstoffe"
+
+
+msgid "S091"
+msgstr "S091"
+
+
+msgid "Refresher"
+msgstr "Auffrischungsschulung"
+
+
+msgid "S094"
+msgstr "S094"
+
+
+msgid "Sheet"
+msgstr "Begriffe"
+
+
+msgid "SDB"
+msgstr "SDB"
+
+
+msgid "S095"
+msgstr "S095"
+
+
+msgid "International"
+msgstr "Sicherheit"
+
+
+msgid "Travel"
+msgstr "Dienstreise"
+
+
+msgid "S096"
+msgstr "S096"
+
+
+msgid "Road"
+msgstr "Fahrsicherheit"
+
+
+msgid "Traffic"
+msgstr "Auto"
+
+
+msgid "S097"
+msgstr "S097"
+
+
+msgid "Spray"
+msgstr "Lackierräume"
+
+
+msgid "S098"
+msgstr "S098"
+
+
+msgid "Radiation"
+msgstr "Röntgenstrahlung"
+
+
+msgid "XRay"
+msgstr "Strahlenschutz"
+
+
+msgid "S099"
+msgstr "S099"
+
+
+msgid "Remote"
+msgstr "Mobiles"
+
+
+msgid "Homeoffice"
+msgstr "Homeoffice"
+
+
+msgid "S201"
+msgstr "S201"
+
+
+msgid "Lead"
+msgstr "Blei"
+
+
+msgid "S202"
+msgstr "S202"
+
+
+msgid "Responsibilities"
+msgstr "Verantwortung"
+
+
+msgid "Health"
+msgstr "Arbeitsschutz"
+
+
+msgid "S203"
+msgstr "S203"
+
+
+msgid "Keys"
+msgstr "Schlüssel"
+
+
+msgid "Defensive"
+msgstr "defensiven"
+
+
+msgid "Driving"
+msgstr "Fahrsicherheit"
+
+
+msgid "S204"
+msgstr "S204"
+
+
+msgid "Drums"
+msgstr "Fässern"
+
+
+msgid "S206"
+msgstr "S206"
+
+
+msgid "Pedestrians"
+msgstr "Fußgänger"
+
+
+msgid "Forklifts"
+msgstr "Gabelstapler"
+
+
+msgid "S0001"
+msgstr "S0001"
+
+
+msgid "S0002"
+msgstr "S0002"
+
+
+msgid "Telecommuting"
+msgstr "Telearbeitsplätze"
+
+
+msgid "agile"
+msgstr "Homeoffice"
+
+
+msgid "S0003"
+msgstr "S0003"
+
+
+msgid "Secondary"
+msgstr "Auffangvorrichtungen"
+
+
+msgid "Containment"
+msgstr "Auffangwanne"
+
+
+msgid "S0004"
+msgstr "S0004"
+
+
+msgid "Protecting"
+msgstr "Leitfaden"
+
+
+msgid "mothers"
+msgstr "Mutterschutz"
+
+
+msgid "Pregnancy"
+msgstr "Schwangerschaft"
+
+
+msgid "S0006"
+msgstr "S0006"
+
+
+msgid "Job"
+msgstr "Job"
+
+
+msgid "Analysis"
+msgstr "Analysis"
+
+
+msgid "JSA"
+msgstr "JSA"
+
+
+msgid "S0007"
+msgstr "S0007"
+
+
+msgid "Carbon"
+msgstr "Kohlenmonoxid"
+
+
+msgid "Monoxide"
+msgstr "Kohlenstoffmonoxid"
+
+
+msgid "CO"
+msgstr "CO"
+
+
+msgid "S0008"
+msgstr "S0008"
+
+
+msgid "Hydrogen"
+msgstr "Schwefelwasserstoff"
+
+
+msgid "Sulfide"
+msgstr "Gas"
+
+
+msgid "H2S"
+msgstr "H2S"
+
+
+msgid "S0009"
+msgstr "S0009"
+
+
+msgid "Electromagnetic"
+msgstr "Elektromagnetische"
+
+
+msgid "fields"
+msgstr "Felder"
+
+
+msgid "S00011"
+msgstr "S00011"
+
+
+msgid "Silicosis"
+msgstr "Silikose"
+
+
+msgid "S00012"
+msgstr "S00012"
+
+
+msgid "Mercury"
+msgstr "Quecksilber"
+
+
+msgid "S00013"
+msgstr "S00013"
+
+
+msgid "Oxidizing"
+msgstr "Brandfördernd"
+
+
+msgid "S00014"
+msgstr "S00014"
+
+
+msgid "Nanomaterials"
+msgstr "Nanomaterialien"
+
+
+msgid "S00017"
+msgstr "S00017"
+
+
+msgid "Outdoor"
+msgstr "Beschäftigte"
+
+
+msgid "Workers"
+msgstr "Freien"
+
+
+msgid "Sun"
+msgstr "Sonnenexposition"
+
+
+msgid "S00022"
+msgstr "S00022"
+
+
+msgid "Oxygen"
+msgstr "Sauerstoff"
+
+
+msgid "S00024"
+msgstr "S00024"
+
+
+msgid "Liquid"
+msgstr "Flüssiger"
+
+
+msgid "S00025"
+msgstr "S00025"
+
+
+msgid "Hand"
+msgstr "Hand"
+
+
+msgid "Vibration"
+msgstr "Arm"
+
+
+msgid "Syndrome"
+msgstr "Vibrationssyndrom"
+
+
+msgid "HAVS"
+msgstr "HAVS"
+
+
+msgid "S00027"
+msgstr "S00027"
+
+
+msgid "Benzene"
+msgstr "Benzol"
+
+
+msgid "S00028"
+msgstr "S00028"
+
+
+msgid "Operating"
+msgstr "Betriebsanweisungen"
+
+
+msgid "Instructions"
+msgstr "BA"
+
+
+msgid "S00029"
+msgstr "S00029"
+
+
+msgid "Applicable"
+msgstr "GHS"
+
+
+msgid "Law"
+msgstr "REACH"
+
+
+msgid "S00030"
+msgstr "S00030"
+
+
+msgid "Gases"
+msgstr "Gase"
+
+
+msgid "S00031"
+msgstr "S00031"
+
+
+msgid "Isocyanates"
+msgstr "Isocyanate"
+
+
+msgid "S00032"
+msgstr "S00032"
+
+
+msgid "Ammonia"
+msgstr "Ammoniak"
+
+
+msgid "S00033"
+msgstr "S00033"
+
+
+msgid "Environmental"
+msgstr "Umweltschutz"
+
+
+msgid "S00034"
+msgstr "S00034"
+
+
+msgid "Confined"
+msgstr "Enge"
+
+
+msgid "Spaces"
+msgstr "Räume"
+
+
+msgid "S00035"
+msgstr "S00035"
+
+
+msgid "Cadmium"
+msgstr "Cadmium"
+
+
+msgid "S00036"
+msgstr "S00036"
+
+
+msgid "Methanol"
+msgstr "Methanol"
+
+
+msgid "S00037"
+msgstr "S00037"
+
+
+msgid "Dioxide"
+msgstr "Kohlenstoffdioxid"
+
+
+msgid "CO2"
+msgstr "CO2"
+
+
+msgid "S00038"
+msgstr "S00038"
+
+
+msgid "Cyanide"
+msgstr "Cyanide"
+
+
+msgid "HCN"
+msgstr "HCN"
+
+
+msgid "S00039"
+msgstr "S00039"
+
+
+msgid "Formaldehyde"
+msgstr "Formaldehyd"
+
+
+msgid "S00040"
+msgstr "S00040"
+
+
+msgid "Pallet"
+msgstr "Handhubwagen"
+
+
+msgid "Jack"
+msgstr "Flurförderzeuge"
+
+
+msgid "S00042"
+msgstr "S00042"
+
+
+msgid "Nitrogen"
+msgstr "Stickstoff"
+
+
+msgid "S00043"
+msgstr "S00043"
+
+
+msgid "Signs"
+msgstr "Sicherheitskennzeichnung"
+
+
+msgid "S00045"
+msgstr "S00045"
+
+
+msgid "ISO"
+msgstr "ISO"
+
+
+msgid "ISO45001"
+msgstr "ISO45001"
+
+
+msgid "S00046"
+msgstr "S00046"
+
+
+msgid "Management"
+msgstr "Änderungsmanagement"
+
+
+msgid "Change"
+msgstr "MOC"
+
+
+msgid "S00047"
+msgstr "S00047"
+
+
+msgid "Shift"
+msgstr "Schichtarbeit"
+
+
+msgid "Work"
+msgstr "Nachtarbeit"
+
+
+msgid "S00048"
+msgstr "S00048"
+
+
+msgid "Laboratory"
+msgstr "Laborzentrifugen"
+
+
+msgid "Centrifuges"
+msgstr "Labor"
+
+
+msgid "S00049"
+msgstr "S00049"
+
+
+msgid "Emergency"
+msgstr "Notduschen"
+
+
+msgid "Showers"
+msgstr "Augenduschen"
+
+
+msgid "Eyewash"
+msgstr "Notfall"
+
+
+msgid "Stations"
+msgstr "Körpernotduschen"
+
+
+msgid "S00050"
+msgstr "S00050"
+
+
+msgid "Biohazards"
+msgstr "Biostoffe"
+
+
+msgid "S00051"
+msgstr "S00051"
+
+
+msgid "Fall"
+msgstr "Arbeiten"
+
+
+msgid "S00052"
+msgstr "S00052"
+
+
+msgid "Sulfuric"
+msgstr "Schwefelsäure"
+
+
+msgid "S00053"
+msgstr "S00053"
+
+
+msgid "Sodium"
+msgstr "Natriumhydroxid"
+
+
+msgid "Hydroxide"
+msgstr "Laugen"
+
+
+msgid "S00054"
+msgstr "S00054"
+
+
+msgid "Nitric"
+msgstr "Salpetersäure"
+
+
+msgid "S00055"
+msgstr "S00055"
+
+
+msgid "Hydrochloric"
+msgstr "Salzsäure"
+
+
+msgid "S00060"
+msgstr "S00060"
+
+
+msgid "Globally"
+msgstr "Globally"
+
+
+msgid "Harmonized"
+msgstr "Harmonized"
+
+
+msgid "System"
+msgstr "System"
+
+
+msgid "GHS"
+msgstr "GHS"
+
+
+msgid "S00061"
+msgstr "S00061"
+
+
+msgid "Understanding"
+msgstr "REACH"
+
+
+msgid "REACH"
+msgstr "Verordnung"
+
+
+msgid "S00065"
+msgstr "S00065"
+
+
+msgid "Eye"
+msgstr "Augenschutz"
+
+
+msgid "protection"
+msgstr "PSA"
+
+
+msgid "S00066"
+msgstr "S00066"
+
+
+msgid "S00067"
+msgstr "S00067"
+
+
+msgid "Head"
+msgstr "Kopfschutz"
+
+
+msgid "S00068"
+msgstr "S00068"
+
+
+msgid "Foot"
+msgstr "Fußschutz"
+
+
+msgid "S00069"
+msgstr "S00069"
+
+
+msgid "Hearing"
+msgstr "Gehörschutz"
+
+
+msgid "S00070"
+msgstr "S00070"
+
+
+msgid "racks"
+msgstr "Regale"
+
+
+msgid "S00071"
+msgstr "S00071"
+
+
+msgid "waste"
+msgstr "Abfälle"
+
+
+msgid "S00072"
+msgstr "S00072"
+
+
+msgid "Compressed"
+msgstr "Druckluft"
+
+
+msgid "Air"
+msgstr "Druckluftpistole"
+
+
+msgid "S00073"
+msgstr "S00073"
+
+
+msgid "Lone"
+msgstr "Alleinarbeit"
+
+
+msgid "working"
+msgstr "Einzelarbeitsplätze"
+
+
+msgid "S00074"
+msgstr "S00074"
+
+
+msgid "Safe"
+msgstr "Arbeitsgenehmigungsverfahren"
+
+
+msgid "Permit"
+msgstr "Erlaubnisschein"
+
+
+msgid "Program"
+msgstr "Arbeitsfreigabe"
+
+
+msgid "S00075"
+msgstr "S00075"
+
+
+msgid "Hygiene"
+msgstr "Hygienemaßnahmen"
+
+
+msgid "S00076"
+msgstr "S00076"
+
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+
+msgid "COVID"
+msgstr "COVID"
+
+
+msgid "S00077"
+msgstr "S00077"
+
+
+msgid "Disposable"
+msgstr "Filtrierende"
+
+
+msgid "mask"
+msgstr "Halbmasken"
+
+
+msgid "FFP2"
+msgstr "FFP2"
+
+
+msgid "FFP3"
+msgstr "FFP3"
+
+
+msgid "S00078"
+msgstr "S00078"
+
+
+msgid "COVID19"
+msgstr "COVID19"
+
+
+msgid "Returning"
+msgstr "Zurück"
+
+
+msgid "S00079"
+msgstr "S00079"
+
+
+msgid "S00080"
+msgstr "S00080"
+
+
+msgid "S00081"
+msgstr "S00081"
+
+
+msgid "S00082"
+msgstr "S00082"
+
+
+msgid "S00083"
+msgstr "S00083"
+
+msgid "No credit card required"
+msgstr "Keine Zahlungsinformationen nötig"
+
+msgid "No obligations"
+msgstr "Keine Verpflichtungen"
+
+msgid "Register within second"
+msgstr "Blitzschnelle Registrierung"
+
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+msgid "Show less"
+msgstr "Weniger anzeigen"
+
+#: FAQ - 19Q  - General
+msgid "Will this free trial automatically become a paid membership?"
+msgstr "Wird dieser kostenlose Demo-Zugang nach einiger Zeit automatisch in eine kostenpflichtige Mitgliedschaft umgewandelt?"
+
+#: FAQ - 19A  - General
+msgid "No! The demo is completely free."
+msgstr "Nein, der Demo-Zugang ist kostenlos."
+
+#: FAQ - 20Q  - General
+msgid "How long can I use the demo account?"
+msgstr "Wie lange kann ich den Demo-Zugang nutzen?"
+
+#: FAQ - 21Q  - General
+msgid "Can I open multiple demo accounts?"
+msgstr "Kann ich mehrere Demo-Zugänge gleichzeitig beantragen?"
+
+#: FAQ - 21A  - General
+msgid "Yes, but please limit the total number of demo accounts to 5 per site."
+msgstr "Ja, aber bitte beschränken Sie die Gesamtzahl der Demo-Zugänge auf 5 pro Betrieb."
+
+#: FAQ - 22Q  - General
+msgid "Can I switch from the free demo account to a paid account easily?"
+msgstr "Kann ich problemlos von einem kostenlosen Demo-Zugang zu einem kostenpflichtigen Zugang wechseln?"
+
+#Sign in form - register - FAQ - part 1 of 2
+msgid "The demo account is provided for individuals while the membership is provided for companies. However, the process is quite simple. Click "
+msgstr "Der Demo-Zugang ist für Einzelpersonen konzipiert, während die Mitgliedschaft für Unternehmen angeboten wird. Das Verfahren ist jedoch recht einfach. Klicken Sie " 
+
+#Sign in form - register - FAQ - part 2 of 2
+msgid " to subscribe."
+msgstr " um Mitglied zu werden."
+
+#: FAQ - 20A  - General
+msgid "Three months. Contact us if you wish to extend or simply create a new one after it expires."
+msgstr "Drei Monate. Kontaktieren Sie uns, wenn Sie den Zugang verlängern möchten oder eröffnen Sie nach Ablauf einfach ein neues Kundenkonto."
+
+#: Pricing table
+msgid "here"
+msgstr "hier"
+
+msgid "FREQUENTLY ASKED QUESTIONS"
+msgstr "FRAGEN UND ANTWORTEN (FAQ)"
+
+msgid "Try our courses for free! Complete the form below to experience why our customers love us! The demo includes a preview of about 50 training courses in English and German. Subtitles in other languages are not included. The demo also does not provide access to admin-tools such as course editing tool and user progress reporting. Would you like to see more? No problem. Contact our customer service."
+msgstr "Jetzt kostenlos testen! Füllen Sie das untenstehende Formular aus und erfahren Sie selbst, warum unsere Kunden uns so hoch bewerten! Rund 50 Kurse in deutscher und englischer Sprache stehen Ihnen im Demo-Zugang in gekürzter Form zur Verfügung. Die Sprachauswahl der Untertitel ist auf Deutsch und Englisch beschränkt. Die Demoversion bietet auch keine Admin-Funktionen und erlaubt daher nicht das Bearbeiten von Kursinhalten oder den Zugriff auf unser Reporting-Tool. Wenn Sie weitere Inhalte und Funktionen testen wollen, wenden Sie sich bitte an unseren Kundenservice."
+
+msgid "Create a free demo account"
+msgstr "Fordern Sie einen kostenlosen Demozugang an"
+
+msgid "Create a free demo account."
+msgstr "Fordern Sie einen kostenlosen Demozugang an."
+
+msgid "Already have an account?"
+msgstr "Haben Sie bereits ein Benutzerkonto?"
+
+msgid "Create a free Account"
+msgstr "Kostenloses Benutzerkonto erstellen"
