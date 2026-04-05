@@ -31683,6 +31683,21 @@ msgstr "MITGLIED WERDEN"
 msgid "Subscribe"
 msgstr "Mitglied werden"
 
+#: Frontend footer
+msgid "Membership Cancelation"
+msgstr "Mitgliedschaft kündigen"
+
+#: Frontend footer
+msgid "Cancel membership"
+msgstr "Mitgliedschaft kündigen"
+
+#: Frontend footer
+msgid "Consulting"
+msgstr "Beratung"
+
+msgid "Webinars"
+msgstr "Webinare"
+
 #: Footer - all pages
 msgid "All rights reserved."
 msgstr "Alle Rechte vorbehalten."
@@ -34291,3 +34306,773 @@ msgstr "Informieren Sie mich über Neuigkeiten und Angebote."
 
 msgid "Specific Student..."
 msgstr "Spezifischer Student..."
+
+#: ZFU-Zulassung page
+msgid "Why is ZFU-certification important?"
+msgstr "Warum ist die ZFU-Zertifizierung wichtig?"
+
+#: ZFU-Zulassung page
+msgid "Our e-learning courses have been government-approved and certified by the ZFU."
+msgstr "Unsere E-Learning-Kurse sind staatlich geprüft und von der ZFU zertifiziert."
+
+msgid "The ZFU {agency_name} is a German government agency. It reviews online courses based on the Distance Learning Protection Act (FernUSG)."
+msgstr "Die ZFU {agency_name} ist eine Behörde, die Fernlehrgänge in Deutschland auf Grundlage des Fernunterrichtsschutzgesetzes (FernUSG) prüft."
+
+
+#: ZFU-Zulassung page
+msgid "Its goal is to ensure the quality of distance learning and to protect participants from dubious or inadequate educational offerings."
+msgstr "Ihr Ziel ist es, die Qualität von Fernunterricht sicherzustellen und Teilnehmende vor unseriösen oder mangelhaftem  Bildungsangeboten zu schützen."
+
+#: ZFU-Zulassung page
+msgid "The approval is limited in time and is usually reviewed every three years to ensure continuous quality assurance."
+msgstr "Die Zulassung ist befristet und wird alle drei Jahre erneut überprüft, um eine kontinuierliche Qualitätssicherung zu gewährleisten."
+
+#: ZFU-Zulassung page
+msgid "The following criteria are the focus of the review:"
+msgstr "Folgende Kriterien stehen im Mittelpunkt der Prüfung:"
+
+#: ZFU-Zulassung page
+msgid "Content and Achievement of Objectives"
+msgstr "Inhalte und Zielerreichung"
+
+#: ZFU-Zulassung page
+msgid "Among other things, it is checked whether the teaching content provided matches the defined course objective and whether this objective is realistically and comprehensibly achievable."
+msgstr "Unter anderem wird geprüft, ob die vermittelten Lehrinhalte mit dem definierten Lehrgangsziel übereinstimmen und ob dieses Ziel realistisch sowie nachvollziehbar erreichbar ist."
+
+#: ZFU-Zulassung page
+msgid "The content review is carried out on a random basis, with the ZFU involving independent external experts."
+msgstr "Die inhaltliche Überprüfung erfolgt stichprobenartig, wobei die ZFU unabhängige externe Gutachter hinzuzieht."
+
+#: ZFU-Zulassung page
+msgid "Didactics and Methodology"
+msgstr "Didaktik und Methodik"
+
+#: ZFU-Zulassung page
+msgid "Do the teaching methods meet the requirements for distance learning?"
+msgstr "Entsprechen die Lehrmethoden den Anforderungen an Fernunterricht?"
+
+#: ZFU-Zulassung page
+msgid "Are the materials understandable, structured, and conducive to learning?"
+msgstr "Sind die Kursinhalte verständlich, strukturiert und lernfördernd gestaltet?"
+
+#: ZFU-Zulassung page
+msgid "Customer Support"
+msgstr "Kundenbetreuung"
+
+#: ZFU-Zulassung page
+msgid "Is sufficient support offered by qualified personnel?"
+msgstr "Wird eine ausreichende und qualifizierte Kundenbetreuung gewährleistet?"
+
+#: ZFU-Zulassung page
+msgid "Are there individual feedback, contact options, and learning support?"
+msgstr "Gibt es individuelle Rückmeldungen, Kontaktmöglichkeiten und Lernbegleitung?"
+
+#: ZFU-Zulassung page
+msgid "Learning Success Control"
+msgstr "Lernerfolgskontrolle"
+
+#: ZFU-Zulassung page
+msgid "Are regular, individual exams carried out?"
+msgstr "Werden regelmäßige, individuelle Lernerfolgskontrollen durchgeführt?"
+
+#: ZFU-Zulassung page
+msgid "Are corrections or feedback provided?"
+msgstr "Werden Korrekturen oder Feedback gewährleistet?"
+
+#: ZFU-Zulassung page
+msgid "Consumer Protection"
+msgstr "Verbraucherschutz"
+
+#: ZFU-Zulassung page
+msgid "Are the contract terms transparent and legally correct?"
+msgstr "Sind die Vertragsbedingungen transparent und rechtlich korrekt?"
+
+#: ZFU-Zulassung page
+msgid "Are rights such as the right of withdrawal and fair notice periods respected?"
+msgstr "Werden Rechte wie Widerrufsrecht und faire Kündigungsfristen gewahrt?"
+
+#: ZFU-Zulassung page
+msgid "Are all costs and contract terms clearly and understandably stated?"
+msgstr "Sind alle Kosten und Vertragslaufzeiten klar und verständlich ausgewiesen?"
+
+#: ZFU-Zulassung page
+msgid "Qualification of Course Authors"
+msgstr "Qualifikation der Lehrkräfte"
+
+#: ZFU-Zulassung page
+msgid "Are the lecturers professionally and pedagogically qualified?"
+msgstr "Sind die Lehrkräfte fachlich und pädagogisch qualifiziert?"
+
+#: ZFU-Zulassung page
+msgid "Is their suitability for the respective subject area proven and documented?"
+msgstr "Ist ihre Eignung für das jeweilige Fachgebiet nachgewiesen und dokumentiert?"
+
+#: ZFU-Zulassung page
+msgid "Bottom Line"
+msgstr "Fazit"
+
+#: ZFU-Zulassung page
+msgid "The ZFU approval is a reliable quality feature for distance learning courses. It confirms that a course is professionally sound, didactically sensible, and consumer-friendly."
+msgstr "Die ZFU-Zulassung ist ein verlässliches Qualitätsmerkmal für Anbieter von Online-Schulungen. Sie bestätigt, dass ein Kurs fachlich fundiert, didaktisch sinnvoll und verbraucherfreundlich gestaltet ist."
+
+
+#: Consulting page
+msgid "FinishingX: Your competent partner for occupational safety consulting"
+msgstr "FinishingX: Ihr kompetenter Partner für Arbeitsschutzberatung"
+
+#: Consulting page
+msgid "Free Initial Consultation"
+msgstr "Kostenlose Erstberatung"
+
+#: Consulting page
+msgid "Occupational safety consulting is an important part of business management to ensure that employees are protected from health and safety risks. Effective occupational safety consulting can help prevent workplace accidents and health problems, thereby reducing costs and downtime."
+msgstr "Arbeitsschutzberatung ist ein wichtiger Bestandteil der Unternehmensführung, um sicherzustellen, dass Mitarbeiter vor gesundheitlichen und sicherheitstechnischen Risiken geschützt sind. Eine effektive Arbeitsschutzberatung kann dazu beitragen, Arbeitsunfälle und gesundheitliche Probleme zu vermeiden und somit Kosten und Ausfallzeiten zu reduzieren."
+
+#: Consulting page
+msgid "One method of occupational safety consulting is the analysis of risks in work processes. By analyzing workflows, workplaces, and working conditions, potential risks can be identified and measures taken to prevent accidents and health problems."
+msgstr "Eine Methode der Arbeitsschutzberatung ist die Analyse von Risiken in den Arbeitsprozessen. Durch die Analyse von Arbeitsplätzen, Arbeitsabläufen und Arbeitsbedingungen können mögliche Risiken erkannt und Maßnahmen zur Vermeidung von Unfällen und gesundheitlichen Problemen ergriffen werden."
+
+#: Consulting page
+msgid "Another important aspect is the training and continuing education of employees. By imparting knowledge about occupational safety and applying safety precautions, employees can help minimize risks and create a safe working environment."
+msgstr "Ein weiterer wichtiger Aspekt ist die Schulung und Weiterbildung der Mitarbeiter. Durch die Vermittlung von Kenntnissen über Arbeitsschutz und die Anwendung von Sicherheitsvorkehrungen können Mitarbeiter dazu beitragen, Risiken zu minimieren und ein sicheres Arbeitsumfeld zu schaffen."
+
+#: Consulting page
+msgid "Our services at a glance"
+msgstr "Unsere Leistungen im Überblick"
+
+#: Consulting page
+msgid "Support as an fire safety specialist (Brandschutzbeauftragter)"
+msgstr "Bestellung eines Brandschutzbeauftragten"
+
+#: Consulting page
+msgid "Hazardous substance management from A to Z"
+msgstr "Gefahrstoffmanagement von A bis Z"
+
+#: Consulting page
+msgid "Creation of risk assessments"
+msgstr "Erstellung von Gefährdungsbeurteilungen"
+
+#: Consulting page
+msgid "Preparation of operating instructions and safety documentation"
+msgstr "Erstellung von Betriebsanweisungen und Sicherheitsdokumentationen"
+
+#: Consulting page
+msgid "Conducting training and instruction in accordance with DGUV regulations"
+msgstr "Durchführung von Schulungen und Unterweisungen gemäß DGUV-Vorschriften"
+
+#: Consulting page
+msgid "Support in the selection of personal protective equipment (PPE)"
+msgstr "Unterstützung bei der Auswahl persönlicher Schutzausrüstung (PSA)"
+
+#: Consulting page
+msgid "Assistance with official inspections and audits"
+msgstr "Begleitung bei behördlichen Prüfungen und Audits"
+
+#: Consulting page
+msgid "Integration of occupational safety into business processes and management systems"
+msgstr "Integration des Arbeitsschutzes in betriebliche Abläufe und Managementsysteme"
+
+#: Consulting page
+msgid "Ongoing support as an external occupational safety specialist"
+msgstr "Laufende Betreuung als externe Fachkraft für Arbeitssicherheit"
+
+#: Consulting page
+msgid "Popular Service Packages"
+msgstr "Beliebte Leistungspakete"
+
+#: Consulting page
+msgid "Comprehensive gap analysis"
+msgstr "Umfangreiche Gap-Analyse"
+
+#: Consulting page
+msgid "Analysis and Documentation"
+msgstr "Dokumentation und Auswertung"
+
+#: ZVO membership discount info page 
+msgid "Offer for ZVO Members" 
+msgstr "Angebot für ZVO-Mitglieder"
+
+#: ZVO membership discount info page 
+msgid "Online Training" 
+msgstr "Online-Schulungen"
+
+#: ZVO membership discount info page
+msgid "ZVO members benefit from six months of free access to the FinishingX platform, as well as attractive discounts when continuing with the 'STUDIO' subscription." 
+msgstr "ZVO-Mitglieder profitieren bei FinishingX von einer sechsmonatigen kostenlosen Nutzung der Plattform sowie von attraktiven Rabatten bei der weiteren Nutzung des Abonnements „STUDIO”."
+
+#: ZVO membership discount info page 
+msgid "6 months of free use for new customers" 
+msgstr "6 Monate kostenfreie Nutzung für Neukunden"
+
+#: ZVO membership discount info page 
+msgid "Industry-specific" 
+msgstr "Branchenspezifisch"
+
+#: ZVO membership discount info page 
+msgid "No restrictions on the choice of e-learning courses." 
+msgstr "Keine Beschränkungen hinsichtlich der Auswahl der E-Learning-Module."
+
+
+#: ZVO membership discount info page 
+msgid "All benefits of the 'STUDIO' subscription" 
+msgstr "Alle Vorteile des Abonnements „STUDIO”"
+
+#: ZVO membership discount info page 
+msgid "Free for ZVO members" 
+msgstr "Kostenlos für ZVO-Mitglieder"
+
+#: ZVO membership discount info page 
+msgid "We reserve the right to limit the number of seats available to ZVO members for each event date." 
+msgstr "Wir behalten uns vor, die Anzahl der Plätze für ZVO-Mitglieder bei jedem Veranstaltungstermin zu begrenzen."
+
+#: ZVO membership discount info page
+ msgid "This offer is valid until January 1, 2027" 
+msgstr "Dieses Angebot ist gültig bis zum 1.1.2027"
+
+#: News
+msgid "FinishingX has achieved ISO 9001:2015 certification, demonstrating the highest quality standards."
+msgstr "FinishingX ist nach ISO 9001:2015 zertifiziert und setzt somit höchste Qualitätsstandards um."
+
+#: News
+msgid "FinishingX is a member of the Association for Safety, Health and Environmental Protection at Work as of January 1, 2025, and looks forward to future collaboration."
+msgstr "FinishingX ist ab 1.1.2025 Mitglied im Verband für Sicherheit, Gesundheit und Umweltschutz bei der Arbeit und freut sich auf die zukünftige Zusammenarbeit."
+
+#: News
+msgid "Member"
+msgstr "Mitglied"
+
+#: News
+msgid "The Zentralverband Oberflaechentechnik (ZVO) is the association representing the interests of companies in the electroplating and surface technology industry."
+msgstr "Der Zentralverband Oberflächentechnik (ZVO) ist die Interessenvertretung von Unternehmen der Galvano- und Oberflächentechnik."
+
+#: News: Announcement of ISO certification
+msgid "FinishingX is now ISO 9001:2015 certified!"
+msgstr "FinishingX ist ein zertifiziertes Unternehmen nach ISO 9001:2015"
+
+#: News:Announcement of ISO certification
+msgid "We are happy to announce that FinishingX has been successfully certified under ISO 9001:2015. This internationally recognized standard stands for the highest quality management standards and confirms that our internal processes are consistently focused on quality, efficiency, and continuous improvement."
+msgstr "Wir freuen uns, bekannt geben zu dürfen, dass FinishingX erfolgreich nach ISO 9001:2015 zertifiziert wurde. Die international anerkannte Norm steht für höchste Qualitätsmanagement-Standards und bestätigt, dass unsere internen Prozesse konsequent auf Qualität, Effizienz und kontinuierliche Verbesserung ausgerichtet sind."
+
+#: News: Announcement of ISO certification
+msgid "What does this mean for our customers? Quite simply, even greater reliability, transparency, and consistently high quality in our products and services. ISO 9001:2015 focuses not only on optimized processes, but also on customer satisfaction and trust. Both of these are core values for us at FinishingX."
+msgstr "Was bedeutet das für unsere Kunden? Ganz einfach: noch mehr Verlässlichkeit, Transparenz und eine gleichbleibend hohe Qualität unserer Produkte und Dienstleistungen. Die ISO 9001:2015 legt den Fokus nämlich nicht nur auf optimierte Abläufe, sondern auch auf die Zufriedenheit und das Vertrauen unserer Kunden. Beides sind für uns bei FinishingX zentrale Werte."
+
+#: News
+msgid "Our ISO certificate on the official IAF website"
+msgstr "ISO-Zertifikat – Offizielle IAF-Website"
+
+#: News
+msgid "Our ISO 9001 certification was issued by Staunchly Management And System Services Limited, originally a British certification body with a strong global reach. They are officially accredited by the International Accreditation Forum (IAF), ensuring their certifications meet global standards."
+msgstr "Wir haben unsere ISO-9001-Zertifizierung von Staunchly Management and System Services erhalten. Das Unternehmen ist ursprünglich eine britische Zertifizierungsstelle mit starker globaler Reichweite. Staunchly Management and System Services ist offiziell vom International Accreditation Forum (IAF) anerkannt, sodass sichergestellt ist, dass seine Zertifizierungen globalen Standards entsprechen."
+
+#: News AWS
+msgid "FinishingX selected as an innovative Amazon AWS Startup Showcase"
+msgstr "FinishingX als innovativer Amazon-AWS-Startup-Showcase-Teilnehmer ausgewählt"
+
+#: News AWS
+msgid "FinishingX has been selected as an innovative AWS Startup Showcase and is now officially featured on the Amazon Web Services Startup Showcase page. This makes FinishingX part of an exclusive group of particularly innovative startups that are successfully implementing projects with AWS. FinishingX impresses with its modern, interactive online training courses in the areas of occupational safety and compliance. Being included in the AWS Startup Showcase is a significant milestone for us and confirmation of our approach to rethinking e-learning."
+msgstr "FinishingX wurde als innovativer AWS-Startup-Showcase-Teilnehmer ausgewählt und präsentiert sich nun offiziell auf der Startup-Showcase-Seite von Amazon Web Services. Damit gehört FinishingX zu einer exklusiven Gruppe besonders innovativer Startups, die mit AWS erfolgreich Projekte umsetzen. FinishingX überzeugt durch seine modernen, interaktiven Online-Unterweisungen in den Bereichen Arbeitsschutz und Compliance. Die Aufnahme ins AWS Startup Showcase ist für uns ein bedeutender Meilenstein und eine Bestätigung unseres Ansatzes, E-Learning neu zu denken."
+
+#: News - trademark
+msgid "FinishingX is now a registered trademark!"
+msgstr "FinishingX ist jetzt eine eingetragene Marke!"
+
+#:  News - trademark
+msgid "We are pleased to announce that the name FinishingX has been officially registered with the European Union Intellectual Property Office (EUIPO). The trademark was registered under registration number 018862478. This lays the foundation for positioning our offering professionally and recognizably in the long term, with a name that stands for quality and reliability."
+msgstr "Wir freuen uns, bekannt geben zu dürfen, dass der Name „FinishingX” beim Amt der Europäischen Union für geistiges Eigentum (EUIPO) offiziell registriert wurde. Die Marke wurde unter der Registrierungsnummer 018862478 eingetragen. Damit schaffen wir die Grundlage, unser Angebot langfristig professionell und wiedererkennbar zu positionieren – mit einem Namen, der für Qualität und Verlässlichkeit steht."
+
+#: QUMsult 
+msgid "The FinishingX-QUMsult Ecosystem"
+msgstr "Das FinishingX-QUMsult-Ökosystem"
+
+
+#: QUMsult 
+msgid "20% Discount"
+msgstr "20% Rabatt"
+
+
+#: QUMsult 
+msgid "Discover a world full of new possibilities!"
+msgstr "Entdecken Sie eine Welt voller neuer Möglichkeiten!"
+
+
+#: QUMsult 
+msgid "With the FinishingX-QUMsult ecosystem, your documents are intelligently linked so that important changes are reliably and easily integrated into the entire occupational safety management. This includes not only training documents, but also risk assessments, operating instructions, safety data sheets, the legal register, and the hazardous substance register. For example, a change in the risk assessment can be integrated into employee training with just a few clicks."
+msgstr "Mit dem FinishingX-QUMsult-Ökosystem sind Ihre Dokumente intelligent verknüpft, sodass wichtige Änderungen in das gesamte Arbeitsschutzmanagement zuverlässig und unkompliziert integriert werden. Dazu gehören nicht nur Unterweisungsunterlagen, sondern auch Gefährdungsbeurteilungen, Betriebsanweisungen, Sicherheitsdatenblätter, das Rechtskataster und das Gefahrstoffkataster. Somit kann beispielsweise eine Änderung in der Gefährdungsbeurteilung mit wenigen Klicks in die Mitarbeiterunterweisung integriert werden."
+
+
+#: QUMsult 
+msgid "Intelligent linking of documents"
+msgstr "Intelligente Verknüpfung von Dokumenten"
+
+
+#: QUMsult 
+msgid "Creation of operating instructions and training documents"
+msgstr "Erstellung von Betriebsanweisungen und Unterweisungsunterlagen"
+
+
+#: QUMsult 
+msgid "Flexible integration into your existing software"
+msgstr "Flexible Integration in Ihre bestehende Software"
+
+
+#: QUMsult 
+msgid "Revision-proof and contradiction-free documentation"
+msgstr "Revisionssichere und widerspruchsfreie Dokumentation"
+
+
+#: QUMsult 
+msgid "Import of existing documents (e.g., for new customers)"
+msgstr "Import von bestehenden Dokumenten (z. B. für Neukunden)"
+
+
+#: QUMsult 
+msgid "What does the QUMsult software offer?"
+msgstr "Was bietet die QUMsult-Software?"
+
+
+#: QUMsult 
+msgid "The platform offers comprehensive EHS software with various modules, including:"
+msgstr "Die Plattform bietet eine umfassende EHS-Software mit verschiedenen Modulen, darunter:"
+
+
+#: QUMsult 
+msgid "Hazardous substance directory"
+msgstr "Gefahrstoffverzeichnis"
+
+
+#: QUMsult 
+msgid "Operating instructions"
+msgstr "Betriebsanweisungen"
+
+
+#: QUMsult 
+msgid "Risk assessments"
+msgstr "Gefährdungsbeurteilungen"
+
+
+#: QUMsult 
+msgid "Import of safety data sheets"
+msgstr "Import von Sicherheitsdatenblättern"
+
+
+#: QUMsult 
+msgid "Legal register"
+msgstr "Rechtskataster"
+
+
+#: QUMsult 
+msgid "Other available modules for EHS management include AwSV, facilities, waste, SGA incidents, and measures."
+msgstr "Weitere verfügbare Module für das EHS-Management sind AwSV, Anlagen, Abfall, SGA-Vorfälle und Maßnahmen."
+
+
+#: QUMsult 
+msgid "What does FinishingX offer?"
+msgstr "Was bietet FinishingX?"
+
+
+#: QUMsult 
+msgid "High-quality training templates"
+msgstr "Hochwertige Unterweisungsvorlagen"
+
+
+#: QUMsult 
+msgid "Powerful LMS (AI tools, online scenarios, etc.)"
+msgstr "Leistungsstarkes LMS (KI-Tools, Online-Szenarien usw.)"
+
+
+#: QUMsult 
+msgid "Digital training plans and certificates of participation"
+msgstr "Digitale Schulungspläne und Teilnahmebescheinigungen"
+
+
+#: QUMsult 
+msgid "Integration into your existing software, e.g., EHS, DMS, or HCM software"
+msgstr "Integration in Ihre bestehende Software, z. B. EHS-, DMS- oder HCM-Software"
+
+
+#: QUMsult 
+msgid "Use of your existing training documents (e.g., pptx, SCORM, mp4)"
+msgstr "Verwendung Ihrer bestehenden Unterweisungsunterlagen (z. B. pptx, SCORM, mp4)"
+
+
+#: QUMsult 
+msgid "Exclusive for FinishingX customers"
+msgstr "Exklusiv für FinishingX-Kunden"
+
+
+#: QUMsult 
+msgid "When you order from QUMsult, you will receive a 20% discount on the list price!"
+msgstr "Bei Ihrer Bestellung bei QUMsult erhalten Sie 20 % Rabatt auf den Listenpreis!"
+
+
+#: QUMsult 
+msgid "This offer is only valid for new customers. In this case, the contract is exclusively between QUMsult and the end customer."
+msgstr "Dieses Angebot gilt nur für Neukunden. Der Vertrag kommt in diesem Fall ausschließlich zwischen QUMsult und dem Endkunden zustande."
+
+
+#: QUMsult 
+msgid "To the partner website"
+msgstr "Zur Partner-Website"
+
+
+#: QUMsult 
+msgid "Example 1: A new training is required"
+msgstr "Beispiel 1: Eine neue Unterweisung ist erforderlich"
+
+
+#: QUMsult 
+msgid "Step 1: Update the risk assessment on the QUMsult platform"
+msgstr "Schritt 1:  Aktualisieren der Gefährdungsbeurteilung auf der QUMsult-Plattform"
+
+
+#: QUMsult 
+msgid "Every significant change must be carefully documented. First, it must be checked whether an adjustment of the risk assessment is necessary, e.g., because the formulation of a hazardous substance has changed. Based on the updated risk assessment, further steps can then be initiated."
+msgstr "Jede wesentliche Änderung muss sorgfältig dokumentiert werden. Zunächst ist zu prüfen, ob eine Anpassung der Gefährdungsbeurteilung erforderlich ist, z. B. weil sich die Rezeptur eines Gefahrstoffs geändert hat. Auf Basis der aktualisierten Gefährdungsbeurteilung können anschließend weitere Schritte eingeleitet werden."
+
+
+#: QUMsult 
+msgid "Step 2: Update the operating instructions for hazardous substances (QUMsult platform)"
+msgstr "Schritt 2: Aktualisierung der Betriebsanweisung für Gefahrstoffe (QUMsult-Plattform)"
+
+
+#: QUMsult 
+msgid "The risk assessments are linked to relevant documents. The risk assessment is first adjusted, and the data for the hazardous substance is updated. The associated operating instructions can then also be updated with very little effort. Before using the hazardous substance, approval is granted, and this process is also mapped by the platform."
+msgstr "Die Gefährdungsbeurteilungen sind mit relevanten Dokumenten verknüpft. Die Gefährdungsbeurteilung wird zunächst angepasst und die Daten für den Gefahrstoff werden aktualisiert.  Die dazugehörige Betriebsanweisung kann dann mit sehr geringem Aufwand ebenfalls aktualisiert werden.  Vor dem Einsatz des Gefahrstoffs erfolgt die Freigabe, auch diesen Prozess bildet die Plattform ab."
+
+
+#: QUMsult 
+msgid "Step 3: Update the training at FinishingX"
+msgstr "Schritt 3: Aktualisierung der Unterweisung bei FinishingX"
+
+
+#: QUMsult 
+msgid "Let's first assume that your training is based on operating instructions. In this step, the operating instructions must be updated accordingly in our system. The relevant changes are integrated into our digital training plan. Your employees then receive the updated training. It is important to include a comprehension test and to conduct a safety talk with the employee in a timely manner (personal instruction according to GefStoffV). Moderated discussions help to get feedback from the supervisor and thus answer the most common questions in advance. All of this is well documented via our platform."
+
+msgstr "Gehen wir zunächst davon aus, dass Ihre Schulungen auf Betriebsanweisungen basieren. In diesem Schritt muss die Betriebsanweisung dementsprechend in unserem System aktualisiert werden. Die relevanten Änderungen werden in unseren digitalen Schulungsplan integriert. Anschließend erhalten Ihre Mitarbeiter die aktualisierte Schulung. Dabei ist es wichtig, eine Verständnisprüfung zu hinterlegen und zeitnah ein Sicherheitsgespräch mit dem Mitarbeiter zu führen (mündliche Unterweisung gem. § 14 GefStoffV). Moderierte Diskussionen unterstützen dabei, Feedback vom Vorgesetzten zu bekommen und somit bereits vorab die häufigsten Fragen zu beantworten. All dies wird über unsere Plattform rechtssicher dokumentiert."
+
+
+#: QUMsult 
+msgid "Tip: If you already maintain a training plan with other software, it can usually be connected via an API."
+msgstr "Tipp: Wenn Sie bereits einen Schulungsplan mit einer anderen Software pflegen, kann diese in der Regel über eine API angebunden werden."
+
+
+#: QUMsult 
+msgid "Integration of additional training materials"
+msgstr "Einbindung weiterer Schulungsunterlagen"
+
+
+#: QUMsult 
+msgid "Of course, you can use your company documents, such as PowerPoint slides, for training and conduct them using the FinishingX platform as part of the update of the training. You can also use our existing sample templates. However, the update of such training materials is not automatic. This means that the intelligent linking between risk assessment and training materials is not given in this case."
+msgstr "Selbstverständlich können Sie im Rahmen der Aktualisierung der Unterweisungen Ihre betrieblichen Unterlagen, beispielsweise PowerPoint-Folien, verwenden Schulungen und mithilfe der FinishingX-Plattform durchführen. Dabei können Sie auch unsere bestehenden Mustervorlagen nutzen. Die Aktualisierung solcher Schulungsmaterialien erfolgt jedoch nicht automatisch. Das heißt, die intelligente Verknüpfung zwischen Gefährdungsbeurteilung und Schulungsunterlagen ist in diesem Fall nicht gegeben."
+
+
+#: QUMsult 
+msgid "Employees are trained according to the updated regulations. There is a consistent update of risk assessment, operating instructions, and employee training. The entire documentation is revision-proof and contradiction-free."
+msgstr "Die Mitarbeiter werden gemäß den aktualisierten Vorschriften geschult. Es findet eine konsequente Aktualisierung von Gefährdungsbeurteilung, Betriebsanweisung und Mitarbeiterschulung statt. Die gesamte Dokumentation ist revisionssicher und widerspruchsfrei."
+
+
+#: QUMsult 
+msgid "Example 2: A new legal requirement comes into force"
+msgstr "Beispiel 2: Eine neue gesetzliche Anforderung tritt in Kraft"
+
+
+#: QUMsult 
+msgid "The software ensures that all EHS documents are linked together. A change triggers a series of updates in the associated documents."
+msgstr "Die Software sorgt dafür, dass alle EHS-Dokumente miteinander verknüpft sind. Eine Änderung löst eine Reihe von Updates in den zugehörigen Dokumenten aus."
+
+
+#: QUMsult 
+msgid "Step 1: Identify the change (QUMsult)"
+msgstr "Schritt 1: Identifizierung der Änderung (QUMsult)"
+
+
+#: QUMsult 
+msgid "The legal register provides all regulations relevant to the company, which are updated quarterly by QUMsult. In the event of changes, measures can be derived, and responsibilities and deadlines can be set, this also applies to changes in hazardous substance law. The software helps the user to precisely identify which documents or processes are affected and what changes are necessary."
+msgstr "Das Rechtskataster liefert alle für das Unternehmen relevanten Vorschriften, die durch QUMsult quartalsweise aktualisiert werden. Bei Änderungen können Maßnahmen abgeleitet sowie Verantwortlichkeiten und Termine festgelegt werden, dies gilt auch für Änderungen im Gefahrstoffrecht. Die Software hilft dem Benutzer also dabei, genau zu identifizieren, welche Dokumente oder Prozesse betroffen sind und welche Änderungen erforderlich sind."
+
+
+#: QUMsult 
+msgid "Step 2: Implement measures (QUMsult)"
+msgstr "Schritt 2: Maßnahmen umsetzen (QUMsult)"
+
+
+#: QUMsult 
+msgid "If, for example, regulations in hazardous substance law are changed or new ones are added, they are implemented on the QUMsult platform, e.g., by updating the candidate list (SVHC substances), the CMR list, or the simple measures concept for hazardous substances (EMKG). If, for example, the classification of a hazardous substance changes as a result, users can easily recognize this and update the necessary documents, such as the operating instructions, at the push of a button."
+msgstr "Werden z. B. Vorschriften im Gefahrstoffrecht geändert oder kommen neue hinzu, so werden sie in der QUMsult-Plattform umgesetzt, z. B. durch Aktualisieren der Kandidatenliste (SVHC-Stoffe), der KMR-Liste oder des Einfachen Maßnahmenkonzepts Gefahrstoffe (EMKG). Ändert sich z. B. dadurch die Einstufung eines Gefahrstoffs, so können Benutzer:innen dies einfach erkennen und erforderliche Dokumente, z. B. die Betriebsanweisung auf Knopfdruck aktualisieren."
+
+
+#: QUMsult 
+msgid "Step 3: Update and conduct training (FinishingX)"
+msgstr "Schritt 3: Aktualisierung und Durchführung der Schulungen (FinishingX)"
+
+
+#: QUMsult 
+msgid "The FinishingX training content is automatically updated in the event of legal changes. Depending on the result of the risk assessment, adjustments in employee training may also be necessary. How this works has already been described in Example 1."
+msgstr "Die FinishingX-Schulungsinhalte werden bei gesetzlichen Änderungen automatisch aktualisiert. Je nach Ergebnis der Gefährdungsbeurteilung können auch Anpassungen in der Mitarbeiterschulung erforderlich sein. Wie das funktioniert, wurde bereits in Beispiel 1 geschildert."
+
+
+#: QUMsult 
+msgid "The legal change is reliably and efficiently implemented in all documents. This includes risk assessments, operating instructions, the hazardous substance directory, and training for employees."
+msgstr "Die gesetzliche Änderung wird zuverlässig und effizient in allen Dokumenten implementiert. Dazu zählen Gefährdungsbeurteilungen, Betriebsanweisungen, das Gefahrstoffverzeichnis sowie Schulungen für Mitarbeiter."
+
+
+#: QUMsult 
+msgid "Example 3: A new hazardous substance"
+msgstr "Beispiel 3: Ein neuer Gefahrstoff"
+
+
+#: QUMsult 
+msgid "Step 1: Upload the safety data sheet (QUMsult)"
+msgstr "Schritt 1: Hochladen des Sicherheitsdatenblatts (QUMsult)"
+
+
+#: QUMsult 
+msgid "First, the new safety data sheet is uploaded to the QUMsult platform. The QUMsult software analyzes the document and extracts the relevant information."
+msgstr "Zunächst wird das neue Sicherheitsdatenblatt in die QUMsult-Plattform hochgeladen. Die QUMsult-Software analysiert das Dokument und extrahiert die relevanten Informationen."
+
+
+#: QUMsult 
+msgid "Step 2: Plausibility check by the user"
+msgstr "Schritt 2: Plausibilitätsprüfung durch den Benutzer"
+
+
+#: QUMsult 
+msgid "The QUMsult software helps both in creating new and updating existing operating instructions and risk assessments. A plausibility check by the user must be carried out. In addition, the hazardous substance directory is also updated."
+msgstr "Die QUMsult-Software hilft sowohl bei der Erstellung neuer als auch bei der Aktualisierung bestehender Betriebsanweisungen und Gefährdungsbeurteilungen. Dabei muss eine Plausibilitätsprüfung durch den Benutzer erfolgen. Darüber hinaus wird auch das Gefahrstoffverzeichnis aktualisiert."
+
+
+#: QUMsult 
+msgid "Step 3: Update the training (FinishingX)"
+msgstr "Schritt 3: Aktualisierung der Schulungen (FinishingX)"
+
+
+#: QUMsult 
+msgid "Once the new operating instructions are available, the training for employees can also be adjusted accordingly (see Example 1). Often, the training templates from FinishingX can also be used to increase safety awareness when introducing new substances."
+msgstr "Sobald die neue Betriebsanweisung vorliegt, können auch die Schulungen für die Mitarbeiter entsprechend angepasst werden (siehe Beispiel 1). Häufig können auch die Unterweisungsvorlagen von FinishingX verwendet werden, um das Sicherheitsbewusstsein bei der Einführung neuer Stoffe zu erhöhen."
+
+
+#: QUMsult 
+msgid "The complete hazardous substance documentation and employee training are reliably and efficiently adjusted based on the data from the safety data sheet."
+msgstr "Die komplette Gefahrstoffdokumentation sowie die Mitarbeiterschulungen werden auf Basis der Daten aus dem Sicherheitsdatenblatt zuverlässig und effizient angepasst."
+
+
+#: QUMsult 
+msgid "Example 4: Adjustment of the risk assessment / New or changed safety measures"
+msgstr "Beispiel 4: Anpassung der Gefährdungsbeurteilung / Neue oder geänderte Sicherheitsmaßnahmen"
+
+
+#: QUMsult 
+msgid "Similar to Example 1, the risk assessment is first adjusted on the QUMsult platform. Then a plausibility check is carried out by the user, and all relevant documents are updated. Finally, the training for employees is also updated on the FinishingX platform. All this with minimal effort and excellent consistency of all documents."
+msgstr "Ähnlich wie in Beispiel 1 wird zunächst die Gefährdungsbeurteilung auf der QUMsult-Plattform angepasst. Danach erfolgt eine Plausibilitätsprüfung durch den Benutzer sowie die Aktualisierung aller relevanten Dokumente. Schließlich werden auch die Schulungen für Mitarbeiter auf der FinishingX-Plattform aktualisiert. All dies mit minimalem Aufwand und einer ausgezeichneten Übereinstimmung aller Dokumente."
+
+
+#: QUMsult 
+msgid "QUESTIONS AND ANSWERS (FAQ)"
+msgstr "FRAGEN UND ANTWORTEN (FAQ)"
+
+
+#: QUMsult 
+msgid "Are updates due to SDS changes automatically triggered in other documents?"
+msgstr "Werden Aktualisierungen aufgrund von SDS-Änderungen in anderen Dokumenten vollständig automatisch ausgelöst?"
+
+
+#: QUMsult 
+msgid "No, not automatically. However, the QUMsult software minimizes the effort for updating the hazardous substance register as well as the operating instructions or collective operating instructions. A final plausibility check must be carried out by the users. Thus, the user always has full control."
+msgstr "Nein, nicht automatisch. Die QUMsult-Software minimiert jedoch den Aufwand, sowohl für die Aktualisierung des Gefahrstoffkatasters als auch der Betriebsanweisungen bzw. Sammelbetriebsanweisungen. Eine abschließende Plausibilitätsprüfung muss jedoch von den Benutzer:innen durchgeführt werden. Somit hat der Nutzer stets die volle Kontrolle."
+
+
+#: QUMsult 
+msgid "Is version control available for all documents?"
+msgstr "Ist die Versionsverwaltung für alle Dokumente verfügbar?"
+
+
+#: QUMsult 
+msgid "But of course. All QUMsult documents as well as FinishingX training are versioned."
+msgstr "Aber selbstverständlich. Alle QUMsult-Dokumente sowie FinishingX-Schulungen werden versioniert."
+
+
+#: QUMsult 
+msgid "Does the QUMsult platform offer new customers the import of existing documents?"
+msgstr "Bietet die QUMsult-Plattform Neukunden den Import bestehender Dokumente an?"
+
+
+#: QUMsult 
+msgid "Yes! For more information, please contact QUMsult customer support."
+msgstr "Ja! Weitere Informationen erhalten Sie vom QUMsult-Kundensupport."
+
+
+#: QUMsult 
+msgid "Is there a database with operating instructions?"
+msgstr "Gibt es eine Datenbank mit Betriebsanweisungen?"
+
+
+#: QUMsult 
+msgid "There is something better. Each operating instruction is created based on the data read from the SDS. This process is very fast and intuitive, making it easier to update operating instructions."
+msgstr "Es gibt etwas Besseres. Jede Betriebsanweisung wird auf Basis der eingelesenen Daten aus dem SDS erstellt. Dieser Vorgang ist sehr schnell und intuitiv, die Aktualisierung von Betriebsanweisungen wird so ebenfalls erleichtert."
+
+
+#: QUMsult 
+msgid "Is there a database with risk assessments?"
+msgstr "Gibt es eine Datenbank mit Gefährdungsbeurteilungen?"
+
+
+#: QUMsult 
+msgid "Risk assessments for handling hazardous substances can be quickly created based on safety data sheets. This also works if you use multiple hazardous substances at a workplace. Upon request, your existing risk assessments can be implemented using QUMsult. For more information, please contact QUMsult customer support."
+msgstr "Gefährdungsbeurteilungen für den Umgang mit Gefahrstoffen können auf der Grundlage von Sicherheitsdatenblättern schnell erstellt werden. Dies funktioniert auch, wenn Sie mehrere Gefahrstoffe an einem Arbeitsplatz verwenden. Auf Anfrage können Ihre vorhandenen Gefährdungsbeurteilungen mithilfe von QUMsult implementiert werden. Weitere Informationen erhalten Sie vom QUMsult-Kundensupport."
+
+
+#: QUMsult 
+msgid "Can participation in training be automatically linked to our existing training plan / existing software?"
+msgstr "Kann die Teilnahme an Schulungen automatisch mit unserem bestehenden Schulungsplan / vorhandener Software verknüpft werden?"
+
+
+#: QUMsult 
+msgid "Usually yes. FinishingX offers robust integration options via API that allow synchronization with common HCM platforms."
+msgstr "In der Regel ja. FinishingX bietet robuste Integrationsoptionen über API, die eine Synchronisierung mit gängigen HCM-Plattformen ermöglichen."
+
+
+#: QUMsult 
+msgid "Do licenses for both platforms have to be purchased separately?"
+msgstr "Müssen die Lizenzen für beide Plattformen separat erworben werden?"
+
+
+#: QUMsult 
+msgid "Yes, currently the respective licenses must be purchased separately. However, this does not affect performance. Please note the provider's terms and conditions."
+msgstr "Ja, derzeit müssen die jeweiligen Lizenzen separat erworben werden. Dies hat jedoch keinen Einfluss auf die Leistung. Beachten Sie dabei bitte die AGB des Anbieters."
+
+#: QUMsult homepage
+msgid "Integrations allow you to seamlessly connect our e-learning platform with your existing software. A good example of this is the QUMsult software."
+msgstr "Integrationen ermöglichen es Ihnen, unsere E-Learning-Plattform nahtlos mit Ihrer bestehenden EHS-Software zu verbinden. Ein gutes Beispiel hierfür ist die QUMsult-Software."
+
+
+#: QUMsult homepage
+msgid "Intelligent alignment of documents"
+msgstr "Intelligente Verknüpfung von Dokumenten"
+
+
+#: QUMsult homepage
+msgid "Audit-proof and consistent documentation"
+msgstr "Revisionssichere und widerspruchsfreie Dokumentation"
+
+
+#: QUMsult homepage
+msgid "Import of existing documents (e.g. for new customers)"
+msgstr "Import von bestehenden Dokumenten (z. B. für Neukunden)"
+
+
+#: key-features integrations - connected page
+msgid "Integrations"
+msgstr "Integrationen"
+
+
+#: key-features integrations - connected page
+msgid "Discover a world of new possibilities!"
+msgstr "Entdecken Sie eine Welt voller neuer Möglichkeiten!"
+
+
+#: key-features integrations - connected page
+msgid "Integrations allow you to seamlessly connect our e-learning platform with your existing software. These integrations expand your existing EHS system and enable more efficient processes, better supplier relationships, and stronger engagement with your customers."
+msgstr "Integrationen ermöglichen es Ihnen, unsere E-Learning-Plattform nahtlos mit Ihrer bestehenden Software zu verbinden. Diese Integrationen erweitern Ihr bestehendes EHS-System und ermöglichen effizientere Prozesse, bessere Lieferantenbeziehungen und eine stärkere Einbindung Ihrer Kunden."
+
+
+#: key-features integrations - connected page
+msgid "Popular Applications"
+msgstr "Beliebte Anwendungen"
+
+
+#: key-features integrations - connected page
+msgid "Use Your Existing Documentation"
+msgstr "Nutzen Sie Ihre bestehende Dokumentation"
+
+
+#: key-features integrations - connected page
+msgid "Easily integrate documents such as PowerPoint presentations, PDF files, Excel spreadsheets, and much more into your courses. The most efficient approach is to connect your OneDrive or Google Drive directly to our system, enabling optimized access and automatic updates. This allows you, for example, to add your current safety trainings, operating instructions, or SOPs to our courses."
+msgstr "Integrieren Sie Dokumente wie PowerPoint-Präsentationen, PDF-Dateien, Excel-Tabellen und vieles mehr ganz einfach in Ihre Kurse. Der effizienteste Ansatz ist die direkte Anbindung Ihres OneDrive oder Google Drive an unser System, wodurch optimierter Zugriff und automatische Aktualisierungen ermöglicht werden. So können Sie beispielsweise Ihre aktuellen Sicherheitsschulungen, Betriebsanweisungen oder SOPs in unsere Kurse einbinden."
+
+
+#: key-features integrations - connected page
+msgid "For an even simpler setup, you can optionally insert links instead of displaying individual documents in the training modules (e.g. via SharePoint or Google Drive). This ensures that learners always have access to the latest safety policies in your DMS."
+msgstr "Für eine noch einfachere Einrichtung können Sie optional Links einfügen, anstatt einzelne Dokumente in den Trainingsmodulen anzuzeigen (z. B. über SharePoint oder Google Drive). So wird sichergestellt, dass Lernende jederzeit Zugriff auf die aktuellen Sicherheitsrichtlinien in Ihrem DMS haben."
+
+
+#: key-features integrations - connected page
+msgid "Online Videos"
+msgstr "Online-Videos"
+
+
+#: key-features integrations - connected page
+msgid "Enhance your online training by uploading your own videos or integrating videos available on the internet, such as from YouTube. This flexibility allows you to create engaging multimedia learning content."
+msgstr "Erweitern Sie Ihr Online-Training, indem Sie eigene Videos hochladen oder im Internet verfügbare Videos, z. B. von YouTube, integrieren. Diese Flexibilität ermöglicht es Ihnen, ansprechende multimediale Lerninhalte zu erstellen."
+
+
+#: key-features integrations - connected page
+msgid "Risk Assessments"
+msgstr "Gefährdungsbeurteilungen"
+
+
+#: key-features integrations - connected page
+msgid "Make a change in one place and see it reflected everywhere."
+msgstr "Nehmen Sie eine Änderung an einer Stelle vor – und sehen Sie sie überall umgesetzt."
+
+
+#: key-features integrations - connected page
+msgid "By integrating our platform with your existing risk assessment tools, all updates to your risk assessments are automatically reflected in your safety training materials. This ensures that your instructions are always up to date with the latest safety protocols."
+msgstr "Durch die Integration unserer Plattform mit Ihren bestehenden Tools für Gefährdungsbeurteilungen werden alle Aktualisierungen automatisch in Ihren Sicherheitsschulungen übernommen. So stellen Sie sicher, dass Ihre Unterweisungen stets dem aktuellen Stand der Sicherheitsvorgaben entsprechen."
+
+
+#: key-features integrations - connected page
+msgid "To implement this, you must use training courses based on operating instructions. This type of integration ensures one-way communication (risk assessment, operating instructions, online training). Two-way communication is also possible but requires the installation of a custom API. Please note that we do not provide software for creating risk assessments or operating instructions. You must use your own EHS software for this purpose."
+msgstr "Zur Umsetzung müssen Schulungen verwendet werden, die auf Betriebsanweisungen basieren. Diese Art der Integration stellt eine Einweg-Kommunikation sicher (Gefährdungsbeurteilung → Betriebsanweisung → Online-Training). Eine bidirektionale Kommunikation ist ebenfalls möglich, erfordert jedoch die Installation einer individuellen API. Bitte beachten Sie, dass wir keine Software zur Erstellung von Gefährdungsbeurteilungen oder Betriebsanweisungen bereitstellen. Hierfür müssen Sie Ihre eigene EHS-Software verwenden."
+
+
+#: key-features integrations - connected page
+msgid "EHS Software & HCM Software API"
+msgstr "EHS-Software- & HCM-Software-API"
+
+
+#: key-features integrations - connected page
+msgid "We offer a robust tool for tracking user progress. However, if you already have a tracking system in place, you can integrate it into our platform. A custom API facilitates continuous data uploads into your system and enables managers to track the team progress of each learner."
+msgstr "Wir bieten ein leistungsstarkes Tool zur Nachverfolgung des Lernfortschritts. Wenn Sie jedoch bereits ein bestehendes Tracking-System nutzen, können Sie dieses in unsere Plattform integrieren. Eine individuelle API ermöglicht den kontinuierlichen Datentransfer in Ihr System und erlaubt es Führungskräften, den Team-Fortschritt jedes einzelnen Lernenden zu verfolgen."
+
+
+#: key-features integrations - connected page
+msgid "Examples of HCM software include:"
+msgstr "Beispiele für HCM-Software sind:"
+
+
+#: key-features integrations - connected page
+msgid "Oracle HCM Cloud"
+msgstr "Oracle HCM Cloud"
+
+
+#: key-features integrations - connected page
+msgid "Examples of EHS software include:"
+msgstr "Beispiele für EHS-Software sind:"
+
+
+#: key-features integrations - connected page
+msgid "To ensure that these API integrations fulfill their intended purpose, we strongly recommend contacting us at an early stage. Each integration is handled on a case-by-case basis, as there is no one-size-fits-all solution."
+msgstr "Um sicherzustellen, dass diese API-Integrationen ihren Zweck erfüllen, empfehlen wir dringend, frühzeitig Kontakt mit uns aufzunehmen. Jede Integration wird individuell betrachtet, da es keine Standardlösung gibt."
+
+
+#: key-features integrations - connected page
+msgid "SCORM Upload"
+msgstr "SCORM-Upload"
+
+
+#: key-features integrations - connected page
+msgid "Our modern platform offers comprehensive options for creating and delivering online courses, including quizzes, online scenarios, and other interactive content."
+msgstr "Unsere moderne Plattform bietet umfassende Möglichkeiten zur Erstellung und Bereitstellung von Online-Kursen, einschließlich Quizzen, Online-Szenarien und weiteren interaktiven Inhalten."
+
+
+#: key-features integrations - connected page
+msgid "If you already have SCORM courses, you can easily integrate them into our platform. This feature is also useful for those working with e-learning software such as Articulate 360, Adobe Captivate, or iSpring Suite."
+msgstr "Wenn Sie bereits über SCORM-Kurse verfügen, können Sie diese problemlos in unsere Plattform integrieren. Diese Funktion ist auch für Nutzer von E-Learning-Software wie Articulate 360, Adobe Captivate oder iSpring Suite besonders hilfreich."
+
+
+#: key-features integrations - connected page
+msgid "Did you not find the integration you were looking for? That does not mean it is not possible. This article only presents popular examples. If you have further questions, feel free to contact our customer support at any time."
+msgstr "Haben Sie die gesuchte Integration nicht gefunden? Das bedeutet nicht, dass sie nicht möglich ist. Dieser Artikel zeigt lediglich einige gängige Beispiele. Bei weiteren Fragen können Sie sich jederzeit an unseren Kundensupport wenden."
+
+
