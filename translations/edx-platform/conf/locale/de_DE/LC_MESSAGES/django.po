@@ -20665,7 +20665,7 @@ msgstr "Alle Kurse anzeigen"
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr "Meine Kurse"
+msgstr "Meine Unterweisungen"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -25091,6 +25091,9 @@ msgstr "Kostenlos registrieren"
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Account Settings"
+msgstr "Einstellungen"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
