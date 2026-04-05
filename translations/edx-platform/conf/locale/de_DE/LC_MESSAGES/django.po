@@ -27945,6 +27945,18 @@ msgid "REPORTING"
 msgstr "DOKUMENTIERT"
 
 #: Key features
+msgid "CONNECTED"
+msgstr "INTEGRIERBAR"
+
+#: Key features
+msgid "Connected"
+msgstr "Integrierbar"
+
+#: Key features
+msgid "Seamless integration with your existing EHS, HCM and DMS software ensures maximum compliance, including updated EHS documentation and training."
+msgstr "Eine nahtlose Anbindung an Ihre bestehenden EHS-, HCM- und DMS-Systeme ermöglicht stets aktuelle Unterweisungen, EHS-Dokumentation und maximale Compliance."
+
+#: Key features
 msgid "Get enhanced progress reports. Know the exact progress of each learner."
 msgstr "Die Teilnahme Ihrer Mitarbeiter kann durch erweiterte Fortschrittsberichte im Verwaltungsbereich nachvollzogen werden."
 
@@ -28027,6 +28039,9 @@ msgstr "Unverbindliche Preisanfrage"
 msgid "Free training courses"
 msgstr "Kostenlose Unterweisungen"
 
+#: Frontend - Footer
+msgid "Revocation"
+msgstr "Widerrufsrecht"
 
 msgid "Access to 6 courses per year"
 msgstr "6 Unterweisungen pro Jahr"
@@ -31117,6 +31132,10 @@ msgstr "Unsere Lernvideos wurden in über 20 Sprachen übersetzt. Auf Anfrage k�
 msgid "HEALTH + SAFETY eLEARNING"
 msgstr "ONLINE-UNTERWEISUNGEN ARBEITSSCHUTZ"
 
+#: key features - index - frontend
+msgid "Awareness training to complement your internal training."
+msgstr "Zusätzlich zu Ihrer mündlichen Unterweisung"
+
 #: index - frontend
 msgid "MOST POPULAR COURSES"
 msgstr "BELIEBTE KURSE"
@@ -31291,9 +31310,13 @@ msgstr "E-LEARNING AUF ANFRAGE"
 msgid "ON-DEMAND"
 msgstr "AUF ANFRAGE"
 
-#: About pages sub-header
+#: Course about pages
+msgid "e-learning"
+msgstr "Online-Unterweisungen"
+
+#: Course about pages
 msgid "e-Learning"
-msgstr "E-Learning"
+msgstr "Online-Unterweisungen"
 
 #: About pages
 msgid "NOTE: This is a on-demand training. As of now it is not available in our course database."
@@ -31646,6 +31669,10 @@ msgid "from"
 msgstr "ab"
 
 #: pricing index - frontend
+msgid "From"
+msgstr "Ab"
+
+#: pricing index - frontend
 msgid "Unrestricted course enrollment"
 msgstr "Zuordnung von Unterweisungen zu Benutzergruppen"
 
@@ -31705,6 +31732,10 @@ msgstr "Webinare"
 msgid "All rights reserved."
 msgstr "Alle Rechte vorbehalten."
 
+#: Footer - all pages
+msgid "German government-approved online training courses"
+msgstr "Staatlich zugelassene Online-Schulungen"
+
 #: Footer - all pages; emails
 msgid "All rights reserved"
 msgstr "Alle Rechte vorbehalten"
@@ -31746,6 +31777,10 @@ msgstr "INHALTE"
 msgid "Access to the entire course library"
 msgstr "Zugriff auf alle E-Learning-Module"
 
+#: index - frontend
+msgid "Exclusive Offers"
+msgstr "Exklusive Angebote"
+
 
 #: index
 msgid "Access to 110+ courses"
@@ -31758,6 +31793,10 @@ msgstr "110+ E-Learning-Modulen"
 #: index
 msgid "30+ courses"
 msgstr "30+ E-Learning-Module"
+
+#: index 
+msgid "60+ courses"
+msgstr "60+ E-Learning-Modulen"
 
 #: subscribe form
 msgid "First name"
@@ -33699,6 +33738,10 @@ msgid "blended or inhouse"
 msgstr "Hybrid oder In-House"
 
 #: Gefahrstoffbeauftragte
+msgid "Blended or inhouse"
+msgstr "Hybrid oder In-House"
+
+#: Gefahrstoffbeauftragte
 msgid "The training can be completed within 3 years."
 msgstr "Die Module können innerhalb von 3 Jahren absolviert werden."
 
@@ -34593,6 +34636,8 @@ msgstr "Das FinishingX-QUMsult-Ökosystem"
 msgid "20% Discount"
 msgstr "20% Rabatt"
 
+msgid "% Discount"
+msgstr "% Rabatt"
 
 #: QUMsult 
 msgid "Discover a world full of new possibilities!"
