@@ -4633,7 +4633,7 @@ msgstr "Lehrplan"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Daten"
+msgstr "Terminübersicht"
 
 #: lms/djangoapps/courseware/views/views.py:178
 msgid "Your enrollment: Audit track"
@@ -31330,9 +31330,14 @@ msgstr "Gesamtdauer: E-Learning + Test"
 msgid " minutes"
 msgstr " Minuten"
 
-#: index page
+#: index page OLD DELETE
 msgid "110+ HIGH QUALITY COURSES: Browse library"
 msgstr "ALLE 110+ UNTERWEISUNGEN IM ÜBERBLICK"
+
+#: index page 
+msgid "Browse entire course library"
+msgstr "Alle unsere E-Learning-Module im Überblick"
+
 
 #: meta tag description - all courses - course list
 msgid "110+ high quality courses: Browse library"
