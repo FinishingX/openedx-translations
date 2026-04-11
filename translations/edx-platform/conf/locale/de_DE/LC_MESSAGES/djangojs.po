@@ -797,7 +797,7 @@ msgstr "Dateien anzeigen"
 #: cms/static/js/views/pages/container.js:457
 #: cms/static/js/views/utils/xblock_utils.js:134
 msgid "Dismiss"
-msgstr "Tour Beenden"
+msgstr "Ausblenden"
 
 #: cms/static/js/views/course_rerun.js:53
 msgid "Create Re-run"

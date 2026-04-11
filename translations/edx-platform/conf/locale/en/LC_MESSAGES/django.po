@@ -8328,7 +8328,7 @@ msgstr ""
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:18
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:25
 msgid "Updates"
-msgstr ""
+msgstr "Info & Updates"
 
 #: openedx/core/djangoapps/notifications/email/utils.py:442
 msgid "Grades"

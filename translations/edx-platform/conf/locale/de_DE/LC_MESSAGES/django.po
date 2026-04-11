@@ -4726,9 +4726,7 @@ msgstr ""
 #: lms/djangoapps/courseware/views/views.py:574
 #, python-brace-format
 msgid "To see course content, {sign_in_link} or {register_link}."
-msgstr ""
-"Um den Inhalt des Kurses sehen zu können, müssen Sie sich erst "
-"{sign_in_link} oder {register_link}."
+msgstr "Um die Kursinhalte einzusehen, müssen Sie sich bitte {sign_in_link} oder {register_link}."
 
 #: lms/djangoapps/courseware/views/views.py:576
 #: xmodule/discussion_block.py:187
@@ -4766,8 +4764,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/views/views.py:618
 msgid "You must be enrolled in the course to see course content."
-msgstr ""
-"Sie müssen im Kurs eingeschrieben sein, um den Inhalt sehen zu können."
+msgstr "Um Zugriff auf die Inhalte zu erhalten, muss Ihnen das Kurs zugeordnet werden."
 
 #: lms/djangoapps/courseware/views/views.py:1240
 #: lms/djangoapps/instructor/views/api.py:171
@@ -9331,7 +9328,7 @@ msgstr "Heute"
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:18
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:25
 msgid "Updates"
-msgstr "Aktuelles"
+msgstr "Info & Updates"
 
 #: openedx/core/djangoapps/notifications/email/utils.py:442
 msgid "Grades"
@@ -10882,7 +10879,7 @@ msgstr "{header_open}{title}{header_close}"
 #: cms/templates/course_outline.html:61 cms/templates/course_outline.html:99
 #: cms/templates/index.html:319
 msgid "Dismiss"
-msgstr "Abgewiesen"
+msgstr "Ausblenden"
 
 #: openedx/core/djangoapps/video_pipeline/models.py:33
 msgid "Oauth client name of VEM service."
