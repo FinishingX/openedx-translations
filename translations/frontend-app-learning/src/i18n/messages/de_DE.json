@@ -413,7 +413,7 @@
   "cert.alert.notPassing.button": "Noten anzeigen",
   "learning.outline.alert.end.short": "Dieser Kurs endet in {timeRemaining} um {courseEndTime}.",
   "learning.outline.alert.end.long": "Dieser Kurs endet am {courseEndDate} {timeRemaining}.",
-  "learning.privateCourse.signInOrRegister": "Melden Sie sich zunächst {signIn} oder {register} an, und prüfen Sie Ihre Zugriffsberechtigung.",
+  "learning.privateCourse.signInOrRegister": "Um die Kursinhalte einzusehen, müssen Sie sich bitte {signIn} oder {register}.",
   "alert.enroll": "um auf den vollständigen Kurs zuzugreifen.",
   "learning.outline.alert.scheduled-content.heading": "Weitere Inhalte folgen in Kürze!",
   "learning.outline.alert.scheduled-content.body": "Für diesen Kurs werden zu einem späteren Zeitpunkt weitere Inhalte veröffentlicht. Achten Sie auf E-Mail-Updates oder schauen Sie in diesem Kurs für Updates.",
