@@ -31369,6 +31369,93 @@ msgstr "Sicherheitskultur im Unternehmen"
 msgid "Safety culture and leadership"
 msgstr "Sicherheitskultur"
 
+#: Course about pages
+msgid "Our training courses are organized by work activity. This includes courses for work in laboratories, production, and warehouses. We also offer a wide range of general courses for administrative staff."
+msgstr "Unsere Kurse sind nach Tätigkeitsbereichen gegliedert. Dazu gehören Kurse für die Arbeitsbereiche Labor, Produktion und Lager. Darüber hinaus bieten wir eine Vielzahl allgemeiner Kurse für Mitarbeitende der Verwaltung an. "
+
+
+#: Course about pages
+msgid "Our courses provide an excellent foundation for improving fire safety in the workplace. The content is generally applicable to cover a wide range of industries and work activities."
+msgstr "Unsere Kurse bieten die ideale Grundlage, um den betrieblichen Brandschutz zu verbessern. Die Inhalte sind allgemein gehalten, um ein breites Spektrum an Branchen und Tätigkeitsfeldern abzudecken."
+
+
+#: Course about pages
+msgid "Our courses provide an excellent foundation for improving the management of hazardous materials in the workplace. The content is broadly applicable across a wide range of industries and work activities."
+msgstr "Unsere Kurse bieten die ideale Grundlage, um das betriebliche Gefahrstoffmanagement zu verbessern. Die Inhalte sind allgemein gehalten, um ein breites Spektrum an Branchen und Tätigkeitsfeldern abzudecken."
+
+
+#: Course about pages
+msgid "We offer comprehensive online courses on the safe storage of hazardous substances and TRGS 510 compliance. Improve occupational safety in your chemical warehouse."
+msgstr "Wir bieten Online-Kurse zur sicheren Lagerung von Gefahrstoffen gemäß TRGS 510 an. Steigern Sie die Arbeitssicherheit in Ihrem Chemikalienlager!"
+
+
+#: Course about pages
+msgid "We provide in-depth online training courses on safe laboratory practices. Enhance occupational safety and ensure workplace compliance. Implement the DGUV Information 213-850 and TRGS 526 in your workplace."
+msgstr "Wir bieten Online-Kurse zum Thema „Sicheres Arbeiten im Labor” an. Steigern Sie die Arbeitssicherheit an Ihrem Arbeitsplatz, indem Sie die Laborrichtlinie (DGUV Information 213-850) und die TRGS 526 umsetzen."
+
+
+#: Course about pages
+msgid "What is the legislative basis for these training courses?"
+msgstr "Auf welcher rechtlichen Grundlage sind die Kurse aufgebaut?"
+
+
+#: Course about pages
+msgid "Our training courses are designed to meet the requirements of German legislation. In particular, this includes the Hazardous Substances Ordinance (GefStoffV), TRGS 510 and DGUV Information 213-084."
+msgstr "Unsere Unterweisungen sind so konzipiert, dass sie den Anforderungen der deutschen Gesetzgebung entsprechen. Dazu gehören insbesondere die Gefahrstoffverordnung sowie die „TRGS 510 Lagerung von Gefahrstoffen in ortsbeweglichen Behältern“ und die „DGUV Information 213-084: Lagerung von Gefahrstoffen“."
+
+
+#: Course about pages
+msgid "Our online-training courses on the storage of chemicals offer practical guidance on legal requirements under the Hazardous Substances Ordinance, TRGS 510, and dangerous goods legislation. You will learn about labelling and packaging, the storage of incompatible chemicals and the special requirements for handling acutely toxic materials, gases and flammable substances. Topics covered include fire protection, personal protective equipment (PPE), and manual handling. The courses are aimed at anyone involved in storing hazardous materials, including those responsible for conducting hazard and risk assessment. Although our courses primarily focus on chemical warehouses, the content is general enough to be applicable to smaller chemical storage facilities as well. Those who actively work with chemicals in warehouse areas will also benefit from our training on the handling of hazardous chemicals (see the Related Courses list)."
+msgstr "In unseren Schulungen zur Lagerung von Gefahrstoffen vermitteln wir Ihnen praxisnah die rechtlichen Vorgaben gemäß Gefahrstoffverordnung, TRGS 510 und Gefahrgutrecht, die beim Betrieb eines Chemikalienlagers zu beachten sind. Sie lernen unter anderem die Anforderungen an Verpackungen und ihre Kennzeichnung, Zusammenlagerungsverbote sowie die besonderen Anforderungen beim Umgang mit akut toxischen, gasförmigen oder entzündbaren Stoffen kennen. Die Kurse richten sich an alle, die mit der Lagerung von Gefahrstoffen betraut sind, einschließlich derjenigen, die Gefährdungsbeurteilungen erstellen. Es muss sich dabei nicht um Großlager handeln, denn die Inhalte sind so konzipiert, dass sie auch in kleineren Betrieben anwendbar sind. Wer in aktiven Lagern mit dem Umfüllen von Gefahrstoffen beschäftigt ist, profitiert von unseren ergänzenden Gefahrstoffunterweisungen (siehe Kursliste „Ähnliche Themenbereiche”)."
+
+
+#: Course about pages
+msgid "FinishingX is the first and so far only online platform in Germany that offers specialised online safety courses for electroplating shops with this level of technical depth. The hazards in electroplating, such as cyanides, corrosive substances and carcinogenic materials, require advanced knowledge of occupational safety. The training courses listed below are aimed primarily at employees working in electroplating lines and production areas."
+msgstr "FinishingX ist die erste und bislang einzige Plattform in Deutschland, die branchenspezifische Online-Sicherheitskurse für Galvanikbetriebe in diesem Umfang anbietet. Die Gefährdungen in der Galvanotechnik – etwa durch Cyanide, ätzende, oder krebserregende Stoffe – sind komplex und erfordern erweitertes arbeits- und sicherheitstechnisches Wissen. Die unten aufgeführten Schulungen richten sich in erster Linie an Mitarbeitende in Galvaniklinien und Produktionsbereichen der Oberflächentechnik."
+
+#: Course about pages
+msgid "Our webinars and training programmes offer an alternative to our monthly subscription. They offer a more personal experience than online training courses. Participants receive certificates upon completion."
+msgstr "Unsere Webinare und Weiterbildungen sind eine Alternative zu unserem Monats-Abo. Sie bieten eine persönlichere Erfahrung als reine Online-Schulungen. Nach erfolgreichem Abschluss erhalten die Teilnehmer anerkannte Zertifikate."
+
+#: Course about pages
+msgid "Warehouse Safety"
+msgstr "Lagerung von Gefahrstoffen"
+
+
+#: Course about pages
+msgid "Chemical Manufacturing Safety"
+msgstr "Arbeitsschutz in der Chemieproduktion"
+
+
+#: Course about pages
+msgid "Office Safety"
+msgstr "Büro und Verwaltung"
+
+
+#: Course about pages
+msgid "Laboratory Safety"
+msgstr "Sicheres Arbeiten im Labor"
+
+
+#: Course about pages
+msgid "Handling of Hazardous Chemicals"
+msgstr "Tätigkeiten mit Gefahrstoffen"
+
+
+#: Course about pages
+msgid "Occupational Safety in Surface Finishing"
+msgstr "Arbeitssicherheit in der Galvanotechnik"
+
+
+#: Course about pages
+msgid "Many different hazardous substances are used in laboratories, which places special demands on occupational safety. In our online training courses, you will learn practical knowledge about the safe handling and storage of hazardous substances, fire safety in laboratories, and the safe handling of gas cylinders."
+msgstr "Bei Labortätigkeiten kommen viele verschiedene Gefahrstoffe zum Einsatz, woraus sich besondere Anforderungen an den Arbeitsschutz ergeben. In unseren Online-Kursen vermitteln wir praxisnahes Wissen über den sicheren Umgang mit Gefahrstoffen und deren Lagerung, den betrieblichen Brandschutz bei Labortätigkeiten sowie den sicheren Umgang mit Druckgasflaschen."
+
+
+#: Course about pages
+msgid "Safe handling of hazardous substances, recognising hazards and responding appropriately in the event of an incident are key components of occupational safety in production areas. Our online courses provide practical knowledge. The training courses listed here are aimed primarily at employees in the chemical industry. Additional courses are available for laboratory and administrative staff."
+msgstr "Der sichere Umgang mit Gefahrstoffen, das Erkennen von Risiken und das richtige Verhalten im Störfall sind zentrale Bestandteile des Arbeitsschutzes in Produktionsbereichen. Unsere Online-Kurse vermitteln praxisnahes und rechtssicheres Wissen für den betrieblichen Alltag. Die hier aufgeführten Schulungen richten sich in erster Linie an Mitarbeitende in der Produktion der chemischen Industrie. Für Labor- oder Verwaltungspersonal stehen weitere Kurse zur Verfügung."
+
 #: course name - on demand 
 msgid "Data Protection"
 msgstr "Datenschutz"
