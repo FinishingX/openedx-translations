@@ -32006,6 +32006,14 @@ msgstr "Die deutsche Gesetzgebung – die umfangreichste Gesetzgebung der Welt z
 msgid "Our courses are designed to meet German regulatory requirements. Among others, these include the BetrSichV, GefStoffV, and respective TRBS and TRGS regulations. In addition, international standards such as the European CLP and REACH regulations and the Globally Harmonised System (GHS) must be observed in Germany. Our training courses contain many best-practice examples. These are designed to promote safe working practices and contribute to the progressive achievement of the zero accidents vision."
 msgstr "Unsere Unterweisungen sind so konzipiert, dass sie den Anforderungen der deutschen Gesetzgebung entsprechen. Dazu gehören unter anderem die Betriebssicherheitsverordnung und die Gefahrstoffverordnung sowie die zugehörigen Technischen Regeln TRBS und TRGS. Auch in Deutschland sind internationale Standards wie beispielsweise die europäischen CLP- und REACH-Verordnungen sowie das Global Harmonisierte System (GHS) zu beachten. Darüber hinaus enthalten unsere E-Learning-Module viele Praxisbeispiele. Die Praxisbeispiele sind darauf ausgelegt, sichere Arbeitsweisen zu entwickeln und damit der „Vision Zero“, dem Ziel von null Unfällen, Schritt für Schritt näherzukommen."
 
+#: Key features - details - compliance
+msgid "E-learning shall only be used to raise safety awareness"
+msgstr "Elektronische Medien sind als Hilfsmittel einsetzbar"
+
+#: Key features - details - compliance
+msgid "Online training courses help to raise safety awareness and are an important part of modern health and safety. Online training courses are not an adequate substitute for on-site safety training.  This is obvious for some topics. For example, it should go without saying that hands-on training with Category III PPE, fire extinguisher training and CPR-training cannot be fully replaced by online learning. In general, it remains the employer's responsibility to provide additional on-site training."
+msgstr "Online-Unterweisungen erhöhen das Sicherheitsbewusstsein der Beschäftigten und sind somit ein wichtiger Baustein modernen Arbeitsschutzes, stellen jedoch kein vollständiger Ersatz für eine persönliche Sicherheitsunterweisung dar. Bei einigen Themen ist dies offensichtlich. So sollte es selbstverständlich sein, dass praktische Übungen mit PSA der Kategorie III, Löschübungen, Reanimationsübungen nicht durch Online-Unterweisungen nicht vollständig ersetzt werden können. Die Durchführung der Unterweisung am Arbeitsplatz ist nach wie vor verpflichtend und liegt in der Verantwortung des Arbeitgebers."
+
 #: Key features - details - edit courses
 msgid "Together we are strong!"
 msgstr "Gemeinsam sind wir stark!"
@@ -35213,3 +35221,227 @@ msgid "Did you not find the integration you were looking for? That does not mean
 msgstr "Haben Sie die gesuchte Integration nicht gefunden? Das bedeutet nicht, dass sie nicht möglich ist. Dieser Artikel zeigt lediglich einige gängige Beispiele. Bei weiteren Fragen können Sie sich jederzeit an unseren Kundensupport wenden."
 
 
+#: Frontend - Cancel membership form
+msgid "This form can be used to cancel all our memberships: BASIC, STUDIO and 5-MONTHS-FREE. Alternatively, you can simply send us an email."
+msgstr "Mit diesem Formular können Sie Ihre Mitgliedschaft kündigen (BASIC, STUDIO und „5 MONATE GRATIS“). Alternativ können Sie uns auch einfach eine E-Mail senden."
+
+#: Frontend - Cancel membership form
+msgid "Customer ID"
+msgstr "Kundennummer"
+
+#: Frontend - Cancel membership form
+msgid "Please enter your customer ID"
+msgstr "Bitte geben Sie Ihre Kundennummer ein"
+
+#: Frontend - Cancel membership form
+msgid "Cancellation date"
+msgstr "Kündigungsdatum"
+
+#: Frontend - Cancel membership form
+msgid "As soon as possible"
+msgstr "Schnellstmöglich"
+
+#: Frontend - Cancel membership form
+msgid "Optional: Enter a date (YYYY-MM-DD)"
+msgstr "Optional: Geben Sie ein Datum (JJJJ-MM-TT) ein"
+
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "If you wish to cancel your order, please complete this form."
+msgstr "Wenn Sie Ihre Bestellung widerrufen möchten, füllen Sie bitte dieses Formular aus."
+
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Withdrawal form"
+msgstr "Widerrufsformular"
+
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Ordered on"
+msgstr "Bestellt am"
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Received on"
+msgstr "Erhalten am"
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Mandatory field"
+msgstr "Pflichtfeld"
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "YYYY-MM-DD"
+msgstr "JJJJ-MM-TT"
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Name of the consumer(s)"
+msgstr "Name des/der Verbraucher (s)"
+
+#: Frontend - Withdrawal form - Widerrufsformular
+msgid "Address of the consumer(s)"
+msgstr "Anschrift des/der Verbraucher (s)"
+
+
+msgid "Legal Compliance"
+msgstr "Rechtssicher"
+
+msgid "Edit Courses"
+msgstr "Flexibel"
+
+msgid "Reach Everyone"
+msgstr "Effizient"
+
+msgid "Reporting"
+msgstr "Dokumentiert"
+
+msgid "Interact"
+msgstr "Interaktiv"
+
+msgid "Simple"
+msgstr "Unkompliziert"
+
+msgid "Multilingual"
+msgstr "Mehrsprachig"
+
+msgid "ZVO members benefit from six months of free premium STUDIO membership. After that, they receive exclusive discounts."
+msgstr "ZVO-Mitglieder profitieren von einer sechsmonatigen kostenlosen Nutzung der Plattform sowie von attraktiven Rabatten bei der weiteren Nutzung des Abonnements „STUDIO”."
+
+msgid "The content of our website is further referred to as \"training\", or \"training material\", \"training course\" or such. An organization or individual purchasing our product is further referred to as \"Buyer\", \"you\", \"your\", or \"Customer\". An individual using our website is referred to as \"user\". These terms of use are also referred to as \"TOS\" or \"Terms of Use\" or \"this agreement\"."
+msgstr "Der Inhalt unserer Website wird im Folgenden als „Schulung“, „Schulungsmaterial“, „Schulungsunterlagen“, „Unterweisung“, „Unterweisungsinhalte“ oder Ähnliches bezeichnet. Eine juristische Person oder Privatperson, die unser Produkt erwirbt, wird im Folgenden als „Käufer“, „Kunde“, „Sie“ oder „Ihr“ bezeichnet. Eine Person, die unsere Website nutzt, wird als „Nutzer“ oder „Benutzer“ oder „User“ oder „Anwender“ bezeichnet. Diese allgemeinen Geschäftsbedingungen werden weiter auch als „AGB“ oder „Nutzungsbedingungen“ bezeichnet."
+
+msgid "CONTRACT TERMINATION"
+msgstr "KÜNDIGUNG"
+
+msgid "Either party is entitled to terminate this agreement for good cause, provided that such cause exists. Non-use of the platform does not constitute grounds for termination."
+msgstr "Jede Vertragspartei behält sich das Recht vor, den Vertrag aus wichtigem Grund außerordentlich zu kündigen.  Die Nichtnutzung der Plattform stellt dabei keinen Kündigungsgrund dar."
+
+msgid "FinishingX is entitled to block the Buyer's access to the Platform immediately after termination of the contract and to delete all customer data."
+msgstr "FinishingX ist berechtigt, den Zugang des Käufers zu der Plattform nach Beendigung des Vertrages unverzüglich zu sperren und sämtliche Kundendaten zu löschen."
+
+msgid "The contract can be terminated without giving reasons for the first time at the end of the first six months after conclusion of the contract with a notice period of 6 weeks."
+msgstr "Der Vertrag kann ohne Angaben von Gründen erstmals zum Ablauf des ersten Halbjahres nach Vertragsschluss mit einer Frist von 6 Wochen gekündigt werden."
+
+msgid "After the end of the first six months after conclusion of the contract, the contract can be terminated at any time with a notice period of 3 months."
+msgstr "Nach Ablauf des ersten Halbjahrs nach Vertragsschluss kann der Vertrag jederzeit mit einer Frist von 3 Monaten gekündigt werden."
+
+msgid "In the event of termination, the participant shall only pay the portion of the remuneration corresponding to the value of the organizer's services during the term of the contract. "
+msgstr "Im Falle der Kündigung hat der Teilnehmer nur den Anteil der Vergütung zu entrichten, der dem Wert der Leistungen des Veranstalters während der Laufzeit des Vertrags entspricht. "
+
+msgid "Once the customer-specific configuration of the platform has been completed and the platform accesses have been set up, the service shall be deemed to have been provided in full. From this point in time, there is no entitlement to reimbursement of payments already made."
+msgstr "Nach Abschluss der kundenspezifischen Konfiguration der Plattform und der Einrichtung der Plattformzugänge gilt die Leistung als vollständig erbracht. Ab diesem Zeitpunkt besteht kein Anspruch auf Rückzahlung bereits geleisteter Zahlungen."
+
+msgid "The following additional provisions apply"
+msgstr "Es gelten die folgenden zusätzlichen Bestimmungen"
+
+msgid "In the event of contract termination, no payments will be refunded."
+msgstr "Im Falle einer Kündigung werden keine Zahlungen zurückerstattet."
+
+msgid "The Buyer has the right to withdraw from this contract within fourteen days without giving any reason."
+msgstr "Der Käufer hat das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen."
+
+msgid "The period of withdrawal from the contract is fourteen days from the date of conclusion of the contract."
+msgstr "Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses."
+
+msgid "To withdraw from the contract, the Buyer must inform FinishingX in writing (e.g. by email or post).  Our online form can also be used for this purpose, but its use is not obligatory. In order to comply with the cancellation period, it is sufficient that the notification of the exercise of the right of cancellation is sent before the expiry of the cancellation period."
+msgstr "Um das Widerrufsrecht auszuüben, muss der Käufer FinishingX mittels einer eindeutigen Erklärung (z. B. per E-Mail, oder Post) über den Entschluss zum Widerruf dieses Vertrags informieren.  Hierfür kann auch unser Online-Formular verwendet werden, dessen Nutzung jedoch nicht verpflichtend ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist abgesendet wird."
+
+msgid "Consequences of contract withdrawal: If the buyer cancels this contract, FinishingX must refund all payments it has received from the buyer immediately and at the latest within fourteen days from the day on which FinishingX receives notification of cancellation of this contract. The same means of payment used by the buyer in the original transaction will be used for the repayment, unless expressly agreed otherwise. Under no circumstances will the buyer be charged any fees for this repayment."
+msgstr "Folgen des Widerrufs: Wenn der Käufer diesen Vertrag widerruft, hat FinishingX alle Zahlungen, die er vom Käufer erhalten hat, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über den Widerruf dieses Vertrags bei FinishingX eingegangen ist. Für die Rückzahlung wird dasselbe Zahlungsmittel verwendet, das der Käufer bei der ursprünglichen Transaktion eingesetzt hat, es sei denn, es wurde ausdrücklich etwas anderes vereinbart. In keinem Fall werden dem Käufer wegen dieser Rückzahlung Entgelte berechnet."
+
+msgid "Expiry of the right of cancellation: The right of cancellation expires in the case of a contract for the provision of services if the service has been provided in full and the performance of the service has only begun after the buyer has expressly agreed that FinishingX will begin with the service before the expiry of the withdrawal period and has confirmed his knowledge that he will lose his right of contract withdrawal upon complete fulfilment of the service."
+msgstr "Erlöschen des Widerrufsrechts: Das Widerrufsrecht erlischt bei einem Vertrag über die Erbringung von Dienstleistungen, wenn FinishingX die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Käufer ausdrücklich zugestimmt hat, dass FinishingX vor Ablauf der Widerrufsfrist mit der Ausführung beginnt, und seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung verliert."
+
+msgid "The minimum subscription period is 6 months."
+msgstr "Die Mindestlaufzeit für beträgt 6 Monate."
+
+msgid "Subscriptions 5-MONTHS- FREE, BASIC and STUDIO requires the Buyer to register at least five individual users."
+msgstr "Bei den Abonnements 5-MONATS- FREE, BASIC und STUDIO müssen mindestens fünf Benutzer registriert sein."
+
+msgid "CONTRACT PERIOD"
+msgstr "VERTRAGSLAUFZEIT"
+
+msgid "The subscription period is 3 months and cannot be extended."
+msgstr "Die Laufzeit beträgt 3 Monate und kann nicht verlängert werden."
+
+msgid "Subscription 5-MONTHS- FREE"
+msgstr "Abonnement 5-MONATE-GRATIS"
+
+msgid "Subscription BASIC and STUDIO"
+msgstr "Abonnements BASIC und STUDIO"
+
+msgid "The contract period depends on the customer's preferences and shall be specified in a separate agreement."
+msgstr "Die Vertragslaufzeit richtet sich nach den Präferenzen des Kunden und ist gesondert festzulegen."
+
+msgid "The training courses must be used within two years of payment of the training fees at the latest. After this period, the right to participate expires without the right to a refund."
+msgstr "Die Schulungen müssen spätestens innerhalb von zwei Jahren nach Zahlung der Schulungsgebühren in Anspruch genommen werden. Nach Ablauf dieser Frist verfällt der Anspruch auf Teilnahme, ohne dass ein Erstattungsanspruch besteht."
+
+msgid "Our website is provided \"as is\" and \"as available\" without any warranty of any kind. We do not warrant that our website will operate in an uninterrupted or error-free manner, that is free of viruses or other harmful components. The use of the website is on Buyer's own risk. Any potential Buyer is provided with the opportunity to get a free demo account, allowing them to assess its quality and performance prior to making a purchase."
+msgstr "Die Website wird „wie besehen“ und „wie verfügbar“ ohne jegliche Garantie zur Verfügung gestellt; wir garantieren nicht, dass die Website ununterbrochen oder fehlerfrei funktioniert und frei von Viren oder anderen schädlichen Komponenten ist. Die Nutzung der Website erfolgt auf eigenes Risiko des Käufers. Jeder potenzielle Käufer hat die Möglichkeit, unsere Website vor dem Kauf kostenlos zu testen, um sich ein Bild von der Qualität und Funktionsweise zu machen."
+
+msgid "All disputes arising from or in connection with this Agreement shall be settled at the domicile of the respective defendant. The jurisdiction of FinishingX is 110 00, Prague, Czech Republic."
+msgstr "Für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der jeweils beklagten Partei maßgeblich. Der Gerichtsstand von FinishingX ist 110 00, Prag, Tschechische Republik."
+
+msgid "If the Buyer is a business customer (B2B), the terms and conditions applicable to the 5-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 5-MONTHS-FREE subscription, unless otherwise explicitly stated."
+msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 5 MONTATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „5 MONTATE GRATIS”, sofern nicht ausdrücklich anders angegeben."
+
+msgid "If the Buyer is a consumer (B2C), the terms and conditions applicable to the 5-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 5-MONTHS-FREE subscription, unless otherwise explicitly stated. In such cases, however, the buyer retains all consumer rights under applicable law, including, but not limited to, the right of withdrawal under paragraph 6 of these Terms of Use."
+msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 5 MONATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „5 MONATE GRATIS”, sofern nicht ausdrücklich anders angegeben. In solchen Fällen behält der Käufer jedoch alle Verbraucherrechte gemäß geltendem Recht, einschließlich, aber nicht beschränkt auf das Widerrufsrecht gemäß § 6 dieser Nutzungsbedingungen."
+
+msgid "ZFU registration number"
+msgstr "ZFU-Zulassungsnummer"
+
+msgid "Personal data will be deleted after membership unless otherwise requested by the Buyer. In such cases, data will be kept for up to 24 months. This may be in order to comply with regulatory retention periods for occupational safety trainings. This is recommended e.g. by DGUV Information 211-005."
+msgstr "Nach Beendigung der Mitgliedschaft werden die personenbezogenen Daten gelöscht, es sei denn, es wird vom Käufer verlangt, diese zu behalten. In diesem Fall werden die Daten bis zu 24 Monate lang aufbewahrt. Dies kann erforderlich sein, um die gesetzlichen Aufbewahrungsfristen für Arbeitssicherheitsschulungen einzuhalten, siehe z.B. Empfehlungen der DGUV Information 211-005."
+
+msgid "We will send you a quote and offer personal guidance. Once you have accepted the quote and paid the membership fee, we will configure the platform according to your requirements. Our customer support team will guide you through the entire process."
+msgstr "Sie erhalten von uns ein Angebot und eine persönliche Beratung.  Sobald Sie das Angebot angenommen und den Mitgliedsbeitrag bezahlt haben, wird die Plattform für Sie kundenspezifisch konfiguriert. Dies dauert in der Regel 10–12 Arbeitstage. Unser Kundenservice steht Ihnen bei allen Fragen zur Verfügung."
+
+msgid "What are the course exams based on?"
+msgstr "Was ist Gegenstand der Prüfungen?"
+
+msgid "Course exams are based on the information provided in the course. The exam may also include questions designed to ensure that students have the basic knowledge required to enroll in the course. Information on both the course content and the required knowledge is listed on the course About page."
+msgstr "Der Schwerpunkt der Prüfung liegt auf den im Kurs vermittelten Informationen, es können aber auch Fragen zu den Grundkenntnissen enthalten sein, die als Vorkenntnisse für den Kurs erforderlich sind. Informationen zu den Kursinhalten und den erforderlichen Vorkenntnissen finden Sie auf den jeweiligen Kurswebseiten. "
+
+msgid "German government-approved online training courses | Occupational safety for the chemical and pharmaceutical industry | Webinars | Consulting"
+msgstr "Staatlich zugelassene Online-Schulungen | Arbeitsschutz für die Chemie- und Pharmaindustrie | Webinare und Weiterbildung | Beratung"
+
+msgid "We are excited to support you on your journey. A call confirmation has been sent to you via email."
+msgstr "Wir haben Ihnen eine Bestätigungs-E-Mail geschickt und freuen uns auf das Gespräch."
+
+msgid "Available from"
+msgstr "verfügbar ab"
+
+msgid "Approximately 60% of the training is delivered via live webinars, while the remaining 40% is completed through e-learning."
+msgstr "Ungefähr 60 % der Schulung findet in Form von Live-Webinaren statt, während die restlichen 40 % der Lerninhalte durch E-Learning vermittelt werden."
+
+msgid "Occupational safety representatives, managers, safety officers and anyone carrying out chemical risk assessment."
+msgstr "Fachkräfte für Arbeitssicherheit, Führungskräfte, Sicherheitsbeauftragte und alle, die an der Durchführung der Gefährdungsbeurteilung beteiligt sind"
+
+msgid "The course content is based on requirements of DGUV Grundsatz 313-003."
+msgstr "Die Inhalte dieser Schulung richten sich nach den Anforderungen des DGUV-Grundsatzes 313-003."
+
+msgid "Does every company have to appoint a hazardous substances officer (Gefahrstoffbeauftragter)?"
+msgstr "Hat jeder Betrieb einen Gefahrstoffbeauftragten zu bestellen?"
+
+msgid "The GefStoffV does not require or define a hazardous substances officer (Gefahrstoffbeauftragter)."
+msgstr "Die GefStoffV fordert bzw. definiert keinen Gefahrstoffbeauftragten."
+
+msgid "Is this training sufficient to conduct risk and hazard assessments independently?"
+msgstr "Vermittelt diese Fortbildungsmaßnahme die notwendigen Kenntnisse, Gefährdungsbeurteilungen eigenständig durchzuführen?"
+
+msgid "According to TRGS 400, those conducting a risk assessment must have the appropriate education and relevant past experience or recent professional activity in the relevant field, as well as competence in occupational safety. This training course covers all of this knowledge, however it lasts three days, and according to DGUV Grundsatz 313-003, such training (24 LE) is sufficient for completely independent information gathering and assessment, e.g. for certified occupational safety specialists. However, further industry-specific expertise may be required. If no such expertise is available, this training course will not prepare you to carry out a risk assessment independently."
+msgstr "Gemäß TRGS 400 umfasst die Fachkunde zur Durchführung der Gefährdungsbeurteilung eine geeignete Berufsausbildung oder entsprechende Berufserfahrung oder eine zeitnah ausgeübte, entsprechende berufliche Tätigkeit sowie Kompetenz im Arbeitsschutz, die Kenntnisse und Fähigkeiten umfasst. Diese Kenntnisse werden im Rahmen dieser Fortbildungsmaßnahme vermittelt. Laut DGUV Grundsatz 313-003 sind die in dieser  Fortbildungsmaßnahme  (24 LE) vermittelten Kenntnisse zur vollständig selbstständigen Informationsbeschaffung und Beurteilung ausreichend, beispielsweise für Fachkräfte für Arbeitssicherheit. In der Praxis können jedoch selbst dann weitere branchenspezifische Fachkenntnisse erforderlich sein. Falls keinerlei Vorkenntnisse vorhanden sind, reicht der Umfang dieser  Fortbildungsmaßnahme  demzufolge nicht aus, um eine Gefährdungsbeurteilung eigenständig durchzuführen."
+
+msgid "In most businesses, expertise comprises appropriate training or experience in the field, or at least having recently carried out comparable tasks, and general knowledge of occupational health and safety. For this reason, if no previous experience is available, this training alone is not sufficient to acquire the necessary expertise or to conduct a risk and hazard assessment independently."
+msgstr "Je nach Branche und Tätigkeit umfasst die Fachkunde im Wesentlichen eine geeignete Berufsausbildung, oder entsprechende Berufserfahrung oder eine kürzlich ausgeübte vergleichbare Tätigkeit. Darüber hinaus ist Kompetenz im Arbeitsschutz erforderlich. Falls keine Vorkenntnisse vorhanden sind, reicht diese Schulung demzufolge nicht aus, um die erforderliche Fachkunde zu erwerben oder eine Gefährdungsbeurteilung eigenständig durchzuführen."
+
+msgid "According to GefStoffV, risk assessments may only be carried out by competent personnel. If managers do not have the necessary knowledge, they must seek expert advice. In most businesses, this expertise comprises appropriate training or general experience in the field, or having recently carried out comparable work, as well as knowledge of occupational health and safety. For this reason, this training alone cannot provide the necessary expertise. However, this training can reinforce your existing expertise. It can also serve as a refresher."
+msgstr "Nach § 6 GefStoffV darf die Gefährdungsbeurteilung nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen. Je nach Branche und Tätigkeit umfasst die Fachkunde im Wesentlichen eine geeignete Berufsausbildung oder eine entsprechende Berufserfahrung oder eine zeitnah ausgeübte entsprechende Tätigkeit. Darüber hinaus ist Kompetenz im Arbeitsschutz erforderlich, die Kenntnisse und Fähigkeiten umfasst. Dementsprechend kann die erforderliche Fachkunde nicht allein durch die Teilnahme an einer Fortbildungsmaßnahme bescheinigt werden. Eine Teilnahme an einer Fortbildungsmaßnahme kann jedoch zum Erwerb der erforderlichen Kenntnisse zur Fachkunde oder deren Auffrischung dienen."
+
+msgid "Please contact our customer service for information on current course dates."
+msgstr "Informationen zu den aktuellen Terminen erhalten Sie bei unserem Kundenservice."
+
+msgid "Please enter Name of the consumer(s)"
+msgstr "Bitte geben Sie den Namen des/der Verbraucher(s) ein"
+
+msgid "Please enter Address of the consumer(s)"
+msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"
