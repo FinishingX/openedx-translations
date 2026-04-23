@@ -177,5 +177,8 @@
   "reset.server.rate.limit.error": "Too many requests.",
   "reset.password.success.heading": "Password reset complete.",
   "reset.password.success": "Your password has been reset. Sign in to your account.",
-  "rate.limit.error": "An error has occurred because of too many requests. Please try again after some time."
+  "rate.limit.error": "An error has occurred because of too many requests. Please try again after some time.",
+  "registration.finishingx.terms.agreement": "Durch die Erstellung eines Kontos stimmen Sie unseren {tosLink} und unseren {privacyLink} zu.",
+  "registration.terms.of.use": "Nutzungsbedingungen",
+  "registration.keep.me.informed.label": "Informieren Sie mich über neue Angebote und Funktionen."
 }
