@@ -2793,6 +2793,8 @@ msgstr "Benutzerkonto freischalten"
 msgid "Close"
 msgstr "Schließen"
 
+#  themes/ulmo-theme/lms/templates/student/edx_ace/accountactivation/email/body.html uses bilingual
+#  DE | EN copy aligned with the German msgstr strings in this block; update both when wording changes.
 #: common/templates/student/edx_ace/accountactivation/email/body.html:13
 #, python-format
 msgid ""
@@ -2978,8 +2980,7 @@ msgstr ""
 #: common/templates/student/edx_ace/emailchange/email/subject.txt:3
 #, python-format
 msgid "Request to change %(platform_name)s account e-mail"
-msgstr ""
-"Anfrage die E-Mail für das Konto auf der %(platform_name)szu wechseln."
+msgstr "Anfrage zum Wechsel der E-Mail-Adresse für das %(platform_name)s-Konto"
 
 #: common/templates/student/edx_ace/emailchangeconfirmation/email/body.html:11
 #: common/templates/student/edx_ace/emailchangeconfirmation/email/subject.txt:3
@@ -7115,7 +7116,7 @@ msgid ""
 msgstr ""
 "Um Ihre Registrierung zu vervollständigen, gehen Sie auf "
 "%(registration_url)s und füllen Sie alle erforderlichen Felder aus. "
-"Vergewissern Sie sich, dass Sie %(email_address)sim E-Mail-Adressfeld "
+"Vergewissern Sie sich, dass Sie %(email_address)s im E-Mail-Adressfeld "
 "benutzen."
 
 #: lms/templates/instructor/edx_ace/allowedenroll/email/body.txt:10
@@ -7153,7 +7154,7 @@ msgstr "Sie wurden eingeladen, sich für %(course_name)s zu registrieren."
 #: lms/templates/instructor/edx_ace/enrolledunenroll/push/title.txt:3
 #, python-format
 msgid "You have been unenrolled from %(course_name)s"
-msgstr "Sie haben sich aus %(course_name)sausgeschrieben."
+msgstr "Sie wurden aus %(course_name)s ausgeschrieben."
 
 #: lms/templates/instructor/edx_ace/allowedunenroll/email/body.html:19
 #: lms/templates/instructor/edx_ace/allowedunenroll/email/body.txt:3
