@@ -123,6 +123,8 @@
   "registration.username.label": "Öffentlicher Benutzername",
   "registration.password.label": "Passwort",
   "registration.country.label": "Land/Region",
+  "registration.finishingx.terms.agreement": "Durch die Erstellung eines Kontos erklären Sie sich mit den {tosLink} und den {privacyLink} einverstanden.",
+  "registration.keep.me.informed.label": "Ich möchte über neue Aktionen und Funktionen informiert werden.",
   "registration.opt.in.label": "Ich stimme zu, dass {siteName} mir Marketingmitteilungen senden darf.",
   "help.text.name": "Dieser Name wird von allen Zertifikaten verwendet, die Sie erwerben.",
   "help.text.username.1": "Der Name, der Sie in Ihren Kursen identifiziert.",
@@ -141,6 +143,7 @@
   "email.invalid.format.error": "Geben sie eine gültige E-Mail-Adresse an",
   "username.validation.message": "Der Benutzername muss zwischen 2 und 30 Zeichen lang sein",
   "name.validation.message": "Geben Sie einen gültigen Namen ein",
+  "registration.name.validation.length.message": "Der vollständige Name darf nicht länger als {limit} Zeichen sein",
   "username.format.validation.message": "Benutzernamen dürfen nur Buchstaben (AZ, az), Ziffern (0-9), Unterstriche (_) und Bindestriche (-) enthalten. Benutzernamen dürfen keine Leerzeichen enthalten",
   "registration.request.failure.header": "Wir konnten Ihr Konto leider nicht erstellen.",
   "registration.empty.form.submission.error": "Bitte überprüfen Sie Ihre Antworten und versuchen Sie es erneut.",
@@ -153,6 +156,7 @@
   "privacy.policy": "Datenschutzbestimmungen",
   "honor.code": "Verhaltenskodex",
   "terms.of.service": "Nutzungsbedingungen",
+  "registration.terms.of.use": "Nutzungsbedingungen",
   "registration.username.suggestion.label": "Empfohlen:",
   "did.you.mean.alert.text": "Meinten Sie",
   "sign.in": "Anmelden",
@@ -179,6 +183,5 @@
   "register.page.terms.of.service.and.honor.code": "by Erstellen eines Konto , Sie stimmen to dem {tosAndHonorCode} zu und Sie erkennen an, dass {platformName} und jeder Member Ihre persönlichen Daten verarbeiten in gemäß {privacyPolicy} .",
   "register.page.honor.code": "Ich stimme to dem {platformName} {tosAndHonorCode} zu",
   "register.page.terms.of.service": "Ich stimme to und {platformName} {termsOfService} zu",
-  "registration.terms.of.use": "Linktext für die Nutzungsbedingungen auf der Registrierungsseite",
-  "registration.keep.me.informed.label": "Bezeichnung für das optionale Kontrollkästchen zur Marketing-Anmeldung auf der Registrierungsseite"
+  "error.notfound.page.title": "Seite nicht gefunden | {siteName}"
 }
