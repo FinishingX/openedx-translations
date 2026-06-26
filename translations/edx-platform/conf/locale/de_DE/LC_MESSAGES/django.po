@@ -34298,6 +34298,10 @@ msgid "5 months FREE"
 msgstr "5 Monate GRATIS"
 
 #: 5 months free BACKUP
+msgid "3 months FREE"
+msgstr "3 Monate GRATIS"
+
+#: 5 months free BACKUP
 msgid "5 MONTHS FREE"
 msgstr "5 MONATE GRATIS"
 
@@ -35504,4 +35508,4 @@ msgid "Please enter Name of the consumer(s)"
 msgstr "Bitte geben Sie den Namen des/der Verbraucher(s) ein"
 
 msgid "Please enter Address of the consumer(s)"
-msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"d
+msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"
