@@ -32245,9 +32245,14 @@ msgstr "Die Mindestlaufzeit für die Abonnements BASIC und STUDIO beträgt 6 Mon
 msgid "The 5 MONTH FREE subscription period is 5 months and cannot be extended."
 msgstr "Die Laufzeit des Abonnements 5-MONATE-GRATIS beträgt 5 Monate und kann nicht verlängert werden."
 
-#: Terms of use
+#: Terms of use BACKUP
 msgid "This subscription is a special version of the 5 months free subscription and the same terms apply."
 msgstr "Dies ist eine Sonderversion des Abonnements 5-Monate-gratis und es gelten die gleichen Nutzungsbedingungen."
+
+
+#: Terms of use
+msgid "This subscription is a special version of the 3 months free subscription and the same terms apply."
+msgstr "Dies ist eine Sonderversion des Abonnements 3-Monate-gratis und es gelten die gleichen Nutzungsbedingungen."
 
 
 #: Safety culture - program - corporate subscription - also buy - forms
@@ -32311,22 +32316,38 @@ msgstr "BUSINESS-ONLY-RICHTLINIE"
 msgid "BASIC and STUDIO subscriptions"
 msgstr "Abonnements BASIC und STUDIO"
 
-#: Terms of use
+#: Terms of use BACKUP
 msgid "5-MONTHS-FREE, BASIC and STUDIO subscriptions"
 msgstr "Abonnements 5-MONATE-GRATIS, BASIC und STUDIO"
 
-#: Terms of use
+#: Terms of use 
+msgid "3-MONTHS-FREE, BASIC and STUDIO subscriptions"
+msgstr "Abonnements 3-MONATE-GRATIS, BASIC und STUDIO"
+
+#: Terms of use BACKUP
 msgid "The following additional provision applies to the 5-MONTHS-FREE, BASIC and STUDIO subscriptions"
 msgstr "Für die Abonnements 5-MONATE-GRATIS, BASIC und STUDIO gilt folgende zusätzliche Bestimmung"
 
-#: Terms of use
+#: Terms of use 
+msgid "The following additional provision applies to the 3-MONTHS-FREE, BASIC and STUDIO subscriptions"
+msgstr "Für die Abonnements 3-MONATE-GRATIS, BASIC und STUDIO gilt folgende zusätzliche Bestimmung"
+
+#: Terms of use BACKUP
 msgid "The following additional provisions apply to the 5-MONTHS-FREE, BASIC and STUDIO subscriptions"
 msgstr "Für die Abonnements 5-MONATE-GRATIS, BASIC und STUDIO gelten folgende zusätzliche Bestimmungen"
 
+#: Terms of use 
+msgid "The following additional provisions apply to the 3-MONTHS-FREE, BASIC and STUDIO subscriptions"
+msgstr "Für die Abonnements 3-MONATE-GRATIS, BASIC und STUDIO gelten folgende zusätzliche Bestimmungen"
 
-#: Terms of use
+#: Terms of use BACKUP
 msgid "The subscriptions 5-MONTHS-FREE, BASIC and STUDIO are intended solely for use by businesses and organizations. We do not conduct transactions with individuals or consumers. By accessing and using our website, you agree that you are representing a business or organization and have the authority to enter into transactions on behalf of that entity. Any individual who accesses or uses our website does so at their own risk and is solely responsible for any consequences or damages resulting from such use. We reserve the right to refuse service or terminate transactions with any user who does not meet our business-only policy requirements."
 msgstr "Die Abonnements 5-MONATE-GRATIS, BASIC und STUDIO sind ausschließlich für die Nutzung durch Unternehmen und Organisationen bestimmt. Wir tätigen keine Geschäfte mit Privatpersonen oder Verbrauchern. Indem Sie auf unsere Website zugreifen und sie nutzen, erklären Sie sich damit einverstanden, dass Sie ein Unternehmen oder eine Organisation vertreten und die Befugnis haben, im Namen dieses Unternehmens zu handeln. Jede Person, die auf unsere Website zugreift oder sie nutzt, tut dies auf eigenes Risiko und ist allein verantwortlich für alle Folgen oder Schäden, die sich aus einer solchen Nutzung ergeben. Wir behalten uns das Recht vor, den Service zu verweigern oder Geschäfte mit Nutzern zu beenden, die nicht den Anforderungen unserer Business-Only-Richtlinie entsprechen."
+
+
+#: Terms of use BACKUP
+msgid "The subscriptions 3-MONTHS-FREE, BASIC and STUDIO are intended solely for use by businesses and organizations. We do not conduct transactions with individuals or consumers. By accessing and using our website, you agree that you are representing a business or organization and have the authority to enter into transactions on behalf of that entity. Any individual who accesses or uses our website does so at their own risk and is solely responsible for any consequences or damages resulting from such use. We reserve the right to refuse service or terminate transactions with any user who does not meet our business-only policy requirements."
+msgstr "Die Abonnements 3-MONATE-GRATIS, BASIC und STUDIO sind ausschließlich für die Nutzung durch Unternehmen und Organisationen bestimmt. Wir tätigen keine Geschäfte mit Privatpersonen oder Verbrauchern. Indem Sie auf unsere Website zugreifen und sie nutzen, erklären Sie sich damit einverstanden, dass Sie ein Unternehmen oder eine Organisation vertreten und die Befugnis haben, im Namen dieses Unternehmens zu handeln. Jede Person, die auf unsere Website zugreift oder sie nutzt, tut dies auf eigenes Risiko und ist allein verantwortlich für alle Folgen oder Schäden, die sich aus einer solchen Nutzung ergeben. Wir behalten uns das Recht vor, den Service zu verweigern oder Geschäfte mit Nutzern zu beenden, die nicht den Anforderungen unserer Business-Only-Richtlinie entsprechen."
 
 #: Terms of use
 msgid "COMPLAIN PROCEDURE"
@@ -34264,22 +34285,29 @@ msgstr "FinishingX Kundenumfrage"
 msgid "If you were satisfied with our service, please spread the word. If not, please let us know directly at"
 msgstr "Wenn Sie zufrieden waren, sagen Sie es anderen. Wenn nicht, sagen Sie es uns - am besten direkt:"
 
-#: 5 months free
+#: 5 months free 
 msgid "Other Topics"
 msgstr "Weitere Themenbereiche"
 
-#: 5 months free
+#: 5 months free BACKUP
 msgid "Course list - 5 months FREE"
 msgstr "Themenübersicht -  5 Monate GRATIS"
 
-
-#: 5 months free
+#: 5 months free BACKUP
 msgid "5 months FREE"
 msgstr "5 Monate GRATIS"
 
-#: 5 months free
+#: 5 months free BACKUP
 msgid "5 MONTHS FREE"
 msgstr "5 MONATE GRATIS"
+
+#: 3 months free
+msgid "Course list - 3 months FREE"
+msgstr "Themenübersicht -  3 Monate GRATIS"
+
+#: 3 months free
+msgid "months FREE"
+msgstr "Monate GRATIS"
 
 #: 5 months free
 msgid "Course List"
@@ -35222,9 +35250,14 @@ msgid "Did you not find the integration you were looking for? That does not mean
 msgstr "Haben Sie die gesuchte Integration nicht gefunden? Das bedeutet nicht, dass sie nicht möglich ist. Dieser Artikel zeigt lediglich einige gängige Beispiele. Bei weiteren Fragen können Sie sich jederzeit an unseren Kundensupport wenden."
 
 
-#: Frontend - Cancel membership form
+#: Frontend - Cancel membership form BACKUP
 msgid "This form can be used to cancel all our memberships: BASIC, STUDIO and 5-MONTHS-FREE. Alternatively, you can simply send us an email."
 msgstr "Mit diesem Formular können Sie Ihre Mitgliedschaft kündigen (BASIC, STUDIO und „5 MONATE GRATIS“). Alternativ können Sie uns auch einfach eine E-Mail senden."
+
+#: Frontend - Cancel membership form 
+msgid "This form can be used to cancel all our memberships: BASIC, STUDIO and 3-MONTHS-FREE. Alternatively, you can simply send us an email."
+msgstr "Mit diesem Formular können Sie Ihre Mitgliedschaft kündigen (BASIC, STUDIO und „3 MONATE GRATIS“). Alternativ können Sie uns auch einfach eine E-Mail senden."
+
 
 #: Frontend - Cancel membership form
 msgid "Customer ID"
@@ -35354,8 +35387,14 @@ msgstr "Erlöschen des Widerrufsrechts: Das Widerrufsrecht erlischt bei einem Ve
 msgid "The minimum subscription period is 6 months."
 msgstr "Die Mindestlaufzeit für beträgt 6 Monate."
 
+
+#: TOS BACKUP 
 msgid "Subscriptions 5-MONTHS- FREE, BASIC and STUDIO requires the Buyer to register at least five individual users."
 msgstr "Bei den Abonnements 5-MONATS- FREE, BASIC und STUDIO müssen mindestens fünf Benutzer registriert sein."
+
+#: TOS 
+msgid "Subscriptions 3-MONTHS- FREE, BASIC and STUDIO requires the Buyer to register at least five individual users."
+msgstr "Bei den Abonnements 3-MONATE-GRATIS, BASIC und STUDIO müssen mindestens fünf Benutzer registriert sein."
 
 msgid "CONTRACT PERIOD"
 msgstr "VERTRAGSLAUFZEIT"
@@ -35363,8 +35402,13 @@ msgstr "VERTRAGSLAUFZEIT"
 msgid "The subscription period is 3 months and cannot be extended."
 msgstr "Die Laufzeit beträgt 3 Monate und kann nicht verlängert werden."
 
+#: BACKUP 
 msgid "Subscription 5-MONTHS- FREE"
 msgstr "Abonnement 5-MONATE-GRATIS"
+
+msgid "Subscription 3-MONTHS- FREE"
+msgstr "Abonnement 3-MONATE-GRATIS"
+
 
 msgid "Subscription BASIC and STUDIO"
 msgstr "Abonnements BASIC und STUDIO"
@@ -35381,11 +35425,22 @@ msgstr "Die Website wird „wie besehen“ und „wie verfügbar“ ohne jeglich
 msgid "All disputes arising from or in connection with this Agreement shall be settled at the domicile of the respective defendant. The jurisdiction of FinishingX is 110 00, Prague, Czech Republic."
 msgstr "Für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der jeweils beklagten Partei maßgeblich. Der Gerichtsstand von FinishingX ist 110 00, Prag, Tschechische Republik."
 
+#: TOS BACKUP
 msgid "If the Buyer is a business customer (B2B), the terms and conditions applicable to the 5-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 5-MONTHS-FREE subscription, unless otherwise explicitly stated."
 msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 5 MONTATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „5 MONTATE GRATIS”, sofern nicht ausdrücklich anders angegeben."
 
+#: TOS 
+msgid "If the Buyer is a business customer (B2B), the terms and conditions applicable to the 3-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 3-MONTHS-FREE subscription, unless otherwise explicitly stated."
+msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 3 MONTATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „3 MONTATE GRATIS”, sofern nicht ausdrücklich anders angegeben."
+
+#: TOS BACKUP
 msgid "If the Buyer is a consumer (B2C), the terms and conditions applicable to the 5-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 5-MONTHS-FREE subscription, unless otherwise explicitly stated. In such cases, however, the buyer retains all consumer rights under applicable law, including, but not limited to, the right of withdrawal under paragraph 6 of these Terms of Use."
 msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 5 MONATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „5 MONATE GRATIS”, sofern nicht ausdrücklich anders angegeben. In solchen Fällen behält der Käufer jedoch alle Verbraucherrechte gemäß geltendem Recht, einschließlich, aber nicht beschränkt auf das Widerrufsrecht gemäß § 6 dieser Nutzungsbedingungen."
+
+#: TOS 
+msgid "If the Buyer is a consumer (B2C), the terms and conditions applicable to the 3-MONTHS-FREE subscription shall apply correspondingly to the SAFETY CULTURE 3-MONTHS-FREE subscription, unless otherwise explicitly stated. In such cases, however, the buyer retains all consumer rights under applicable law, including, but not limited to, the right of withdrawal under paragraph 6 of these Terms of Use."
+msgstr "Für Geschäftskunden (B2B) gelten bei dem Abonnement „SICHERHEITSDENKEN 3 MONATE GRATIS” die gleichen Geschäftsbedingungen wie bei dem Abonnement „3 MONATE GRATIS”, sofern nicht ausdrücklich anders angegeben. In solchen Fällen behält der Käufer jedoch alle Verbraucherrechte gemäß geltendem Recht, einschließlich, aber nicht beschränkt auf das Widerrufsrecht gemäß § 6 dieser Nutzungsbedingungen."
+
 
 msgid "ZFU registration number"
 msgstr "ZFU-Zulassungsnummer"
@@ -35445,4 +35500,4 @@ msgid "Please enter Name of the consumer(s)"
 msgstr "Bitte geben Sie den Namen des/der Verbraucher(s) ein"
 
 msgid "Please enter Address of the consumer(s)"
-msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"
+msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"d
