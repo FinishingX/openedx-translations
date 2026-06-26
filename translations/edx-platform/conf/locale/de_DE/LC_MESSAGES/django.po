@@ -34309,6 +34309,10 @@ msgstr "Themenübersicht -  3 Monate GRATIS"
 msgid "months FREE"
 msgstr "Monate GRATIS"
 
+#: 3 months free
+msgid "months free"
+msgstr "Monate GRATIS"
+
 #: 5 months free
 msgid "Course List"
 msgstr "Themenübersicht"
