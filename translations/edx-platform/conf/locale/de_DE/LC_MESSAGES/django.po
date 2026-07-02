@@ -31754,6 +31754,23 @@ msgstr "Die angegebenen Preise sind gültig bis zum"
 msgid "USERS"
 msgstr "BENUTZER"
 
+#: pricing index - frontend - QUMsult
+msgid "employees"
+msgstr "Beschäftigte"
+
+
+#: Index - QUMsult
+msgid "Membership Komplett-BASIC"
+msgstr "Leistungspaket Komplett-BASIC"
+
+#: Index - QUMsult
+msgid "Company license"
+msgstr "Unternehmenslizenz"
+
+#: Index - QUMsult
+msgid "User license"
+msgstr "Benutzerlizenz"
+
 #: pricing index - frontend
 msgid "from"
 msgstr "ab"
@@ -31765,6 +31782,10 @@ msgstr "Ab"
 #: pricing index - frontend
 msgid "Unrestricted course enrollment"
 msgstr "Zuordnung von Unterweisungen zu Benutzergruppen"
+
+#: pricing index - frontend
+msgid "User roles"
+msgstr "Benutzergruppen"
 
 #: pricing index - frontend
 msgid "Restricted course enrollment"
@@ -32600,6 +32621,9 @@ msgstr "Wir behalten uns vor, diese Datenschutzrichtlinie regelmäßig zu aktual
 msgid "Duration of the membership"
 msgstr "Laufzeit"
 
+#: Index - QUMsult
+msgid "duration of the membership"
+msgstr "Laufzeit"
 
 #: Subscribe form
 msgid "OFFICE 6 courses per user"
@@ -33053,6 +33077,10 @@ msgstr "Integration eigener SCORM-Inhalte"
 #: Pricing table
 msgid "Simplified content management"
 msgstr "Vereinfachte Inhaltsverwaltung"
+
+#: Pricing table
+msgid "Content management"
+msgstr "Inhaltsverwaltung"
 
 #: Pricing table
 msgid "Delete selected content and add new content"
@@ -33604,6 +33632,10 @@ msgstr "Brandschutzhelfer-Ausbildung"
 
 #: Brandschutzhelfer
 msgid "Includes:"
+msgstr "inkl."
+
+#: Brandschutzhelfer
+msgid "Incl."
 msgstr "inkl."
 
 #: Fire safety officer training (Brandschutzhelfer)
@@ -34222,7 +34254,6 @@ msgid "The EMKG control banding is a useful tool for estimating exposure to haza
 msgstr "Das EMKG wird bei der Verwendung von Gefahrstoffen am Arbeitsplatz eingesetzt, um die Exposition abzuschätzen und Arbeitsschutzmaßnahmen abzuleiten."
 
 
-
 #: Brandschutzbefuftragte
 msgid "package STUDIO"
 msgstr "Abo STUDIO"
@@ -34765,7 +34796,6 @@ msgstr "Wir freuen uns, bekannt geben zu dürfen, dass der Name „FinishingX”
 msgid "The FinishingX-QUMsult Ecosystem"
 msgstr "Das FinishingX-QUMsult-Ökosystem"
 
-
 #: QUMsult 
 msgid "20% Discount"
 msgstr "20% Rabatt"
@@ -34777,41 +34807,42 @@ msgstr "% Rabatt"
 msgid "Discover a world full of new possibilities!"
 msgstr "Entdecken Sie eine Welt voller neuer Möglichkeiten!"
 
+#: QUMsult 
+msgid "The subscription PRO combines the subscription STUDIO for online training with the comprehensive EHS software solution from our business partner, QUMsult."
+msgstr "Abo PRO kombiniert das Abo STUDIO für Online-Schulungen mit der umfassenden EHS-Softwarelösung unseres Kooperationspartners QUMsult."
+
 
 #: QUMsult 
 msgid "With the FinishingX-QUMsult ecosystem, your documents are intelligently linked so that important changes are reliably and easily integrated into the entire occupational safety management. This includes not only training documents, but also risk assessments, operating instructions, safety data sheets, the legal register, and the hazardous substance register. For example, a change in the risk assessment can be integrated into employee training with just a few clicks."
 msgstr "Mit dem FinishingX-QUMsult-Ökosystem sind Ihre Dokumente intelligent verknüpft, sodass wichtige Änderungen in das gesamte Arbeitsschutzmanagement zuverlässig und unkompliziert integriert werden. Dazu gehören nicht nur Unterweisungsunterlagen, sondern auch Gefährdungsbeurteilungen, Betriebsanweisungen, Sicherheitsdatenblätter, das Rechtskataster und das Gefahrstoffkataster. Somit kann beispielsweise eine Änderung in der Gefährdungsbeurteilung mit wenigen Klicks in die Mitarbeiterunterweisung integriert werden."
 
-
 #: QUMsult 
 msgid "Intelligent linking of documents"
 msgstr "Intelligente Verknüpfung von Dokumenten"
-
 
 #: QUMsult 
 msgid "Creation of operating instructions and training documents"
 msgstr "Erstellung von Betriebsanweisungen und Unterweisungsunterlagen"
 
-
 #: QUMsult 
 msgid "Flexible integration into your existing software"
 msgstr "Flexible Integration in Ihre bestehende Software"
-
 
 #: QUMsult 
 msgid "Revision-proof and contradiction-free documentation"
 msgstr "Revisionssichere und widerspruchsfreie Dokumentation"
 
-
 #: QUMsult 
 msgid "Import of existing documents (e.g., for new customers)"
 msgstr "Import von bestehenden Dokumenten (z. B. für Neukunden)"
-
 
 #: QUMsult 
 msgid "What does the QUMsult software offer?"
 msgstr "Was bietet die QUMsult-Software?"
 
+#: QUMsult 
+msgid "Limitations"
+msgstr "Einschränkungen"
 
 #: QUMsult 
 msgid "The platform offers comprehensive EHS software with various modules, including:"
@@ -34842,6 +34873,18 @@ msgstr "Import von Sicherheitsdatenblättern"
 msgid "Legal register"
 msgstr "Rechtskataster"
 
+#: QUMsult 
+msgid "Waste Management"
+msgstr "Abfallmanagement"
+
+
+#: QUMsult 
+msgid "Asset Registry"
+msgstr "Anlagenkataster"
+
+#: QUMsult 
+msgid "Our business partner, QUMsult, provides a comprehensive EHS software."
+msgstr "Unser Kooperationspartner QUMsult stellt Ihnen eine umfassende EHS-Softwarelösung zur Verfügung."
 
 #: QUMsult 
 msgid "Other available modules for EHS management include AwSV, facilities, waste, SGA incidents, and measures."
