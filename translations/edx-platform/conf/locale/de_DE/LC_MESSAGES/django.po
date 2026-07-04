@@ -31768,6 +31768,10 @@ msgid "Company license"
 msgstr "Unternehmenslizenz"
 
 #: Index - QUMsult
+msgid "QUMsult-EHS-Software Features"
+msgstr "Die QUMsult-Funktionsmodule im Überblick"
+
+#: Index - QUMsult
 msgid "User license"
 msgstr "Benutzerlizenz"
 
