@@ -28021,6 +28021,7 @@ msgstr "KONTAKT"
 msgid "Schedule phone call"
 msgstr "Beratungstermin vereinbaren"
 
+
 #: Footer
 msgid "About us"
 msgstr "Impressum"
@@ -33521,10 +33522,18 @@ msgstr "Jetzt telefonischen "
 msgid "phone call"
 msgstr "Beratungstermin vereinbaren"
 
+#: QUMsult
+msgid "Schedule a free consultation now."
+msgstr "Jetzt einen kostenlosen Beratungstermin vereinbaren. "
+
 
 #: Contact us - phone call
 msgid "Select date and leave your phone number. We will call you back."
 msgstr "Wir rufen Sie zur vereinbarten Zeit an."
+
+#: Contact us - phone call
+msgid "As an alternative, you can arrange an online meeting."
+msgstr "Alternativ stehen wir Ihnen gerne in einem Ohlinegespräch zur Verfügung."
 
 #: Figures
 msgid "Users list"
