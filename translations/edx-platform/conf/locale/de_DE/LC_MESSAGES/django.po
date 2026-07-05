@@ -28022,6 +28022,10 @@ msgid "Schedule phone call"
 msgstr "Beratungstermin vereinbaren"
 
 
+#: Qumsult
+msgid "Schedule online meeting"
+msgstr "Jetzt Beratungstermin vereinbaren!"
+
 #: Footer
 msgid "About us"
 msgstr "Impressum"
@@ -33523,8 +33527,8 @@ msgid "phone call"
 msgstr "Beratungstermin vereinbaren"
 
 #: QUMsult
-msgid "Schedule a free consultation now."
-msgstr "Jetzt einen kostenlosen Beratungstermin vereinbaren. "
+msgid "Schedule a free consultation"
+msgstr "Beratungstermin vereinbaren"
 
 
 #: Contact us - phone call
@@ -33534,6 +33538,10 @@ msgstr "Wir rufen Sie zur vereinbarten Zeit an."
 #: Contact us - phone call
 msgid "As an alternative, you can arrange an online meeting."
 msgstr "Alternativ stehen wir Ihnen gerne in einem Ohlinegespräch zur Verfügung."
+
+#: Contact us - phone 
+msgid "Schedule an online call"
+msgstr "Jetzt Online-Beratungstermin vereinbaren!"
 
 #: Figures
 msgid "Users list"
@@ -34805,11 +34813,16 @@ msgstr "FinishingX ist jetzt eine eingetragene Marke!"
 msgid "We are pleased to announce that the name FinishingX has been officially registered with the European Union Intellectual Property Office (EUIPO). The trademark was registered under registration number 018862478. This lays the foundation for positioning our offering professionally and recognizably in the long term, with a name that stands for quality and reliability."
 msgstr "Wir freuen uns, bekannt geben zu dürfen, dass der Name „FinishingX” beim Amt der Europäischen Union für geistiges Eigentum (EUIPO) offiziell registriert wurde. Die Marke wurde unter der Registrierungsnummer 018862478 eingetragen. Damit schaffen wir die Grundlage, unser Angebot langfristig professionell und wiedererkennbar zu positionieren – mit einem Namen, der für Qualität und Verlässlichkeit steht."
 
+#: QUMsult - Book call Form
+msgid "Request a free online presentation with QUMsult and FinishingX. We will get back to you with a proposal of dates and times."
+msgstr "Gerne nehmen wir uns die Zeit für eine kostenlose Vorstellung der QUMsult-EHS-Software in einem Webmeeting mit FinishingX und QUMsult. Wir werden Ihnen zeitnah einen Terminvorschlag zukommen lassen."
+
+
 #: QUMsult 
 msgid "The FinishingX-QUMsult Ecosystem"
 msgstr "Das FinishingX-QUMsult-Ökosystem"
 
-#: QUMsult 
+#: QUMsult  - Delete - Backup
 msgid "20% Discount"
 msgstr "20% Rabatt"
 
