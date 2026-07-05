@@ -28026,6 +28026,10 @@ msgstr "Beratungstermin vereinbaren"
 msgid "Schedule online meeting"
 msgstr "Jetzt Beratungstermin vereinbaren!"
 
+#: Qumsult
+msgid "Free online meeting"
+msgstr "Kostenlose Vorführung"
+
 #: Footer
 msgid "About us"
 msgstr "Impressum"
