@@ -28030,6 +28030,12 @@ msgstr "Jetzt Beratungstermin vereinbaren!"
 msgid "Free online meeting"
 msgstr "Kostenlose Vorführung"
 
+
+#: Qumsult
+msgid "Free Expert Consultation"
+msgstr "Kostenlose Vorführung"
+
+
 #: Footer
 msgid "About us"
 msgstr "Impressum"
@@ -32698,7 +32704,7 @@ msgstr "Klicken Sie auf das Unterweisungsthema und erfahren Sie mehr!"
 
 #: Button - Try it for free
 msgid "Get your free demo"
-msgstr "Kostenlosen Demozugang anfordern"
+msgstr "Demozugang anfordern"
 
 #: Subscribe form
 msgid "Please enter your first name"
@@ -33555,7 +33561,7 @@ msgstr "Wir rufen Sie zur vereinbarten Zeit an."
 
 #: Contact us - phone call
 msgid "As an alternative, you can arrange an online meeting."
-msgstr "Alternativ stehen wir Ihnen gerne in einem Ohlinegespräch zur Verfügung."
+msgstr "Alternativ stehen wir Ihnen auch gerne in einem Online-Gespräch zur Verfügung."
 
 #: Contact us - phone 
 msgid "Schedule an online call"
@@ -34409,7 +34415,7 @@ msgstr "Bitte beachten Sie unsere Business-Only-Richtlinie. Unser Angebot richte
 
 #: 5 months free
 msgid "This offer is only valid for new customers."
-msgstr "Dieses Angebot gilt nur für Neukunden."
+msgstr "Dieses Angebot gilt ausschließlich  für Neukunden."
 
 #: 5 months free
 msgid "Available in English and German"
@@ -35023,7 +35029,7 @@ msgstr "Bei Ihrer Bestellung bei QUMsult erhalten Sie 20 % Rabatt auf den Listen
 
 #: QUMsult 
 msgid "This offer is only valid for new customers. In this case, the contract is exclusively between QUMsult and the end customer."
-msgstr "Dieses Angebot gilt nur für Neukunden. Der Vertrag kommt in diesem Fall ausschließlich zwischen QUMsult und dem Endkunden zustande."
+msgstr "Dieses Angebot gilt ausschließlich  für Neukunden. Der Vertrag kommt in diesem Fall ausschließlich zwischen QUMsult und dem Endkunden zustande."
 
 
 #: QUMsult 
