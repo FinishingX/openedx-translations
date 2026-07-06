@@ -31135,9 +31135,18 @@ msgstr " Strahlenschutz: Grundlagen"
 msgid "Available in 25 languages! We will be happy to provide further translations upon request."
 msgstr "Unsere Lernvideos wurden in über 20 Sprachen übersetzt. Auf Anfrage können wir gerne weitere Übersetzungen zur Verfügung stellen."
 
-#: key features - index - frontend
+#: key features - index - frontend - BACKUP delete
 msgid "HEALTH + SAFETY eLEARNING"
 msgstr "ONLINE-UNTERWEISUNGEN ARBEITSSCHUTZ"
+
+#: key features - index - frontend 
+msgid "EHS-Software"
+msgstr "Arbeitsschutzsoftware"
+
+
+#: key features - index - frontend 
+msgid "Serving the Chemical & Pharmaceutical Industry"
+msgstr "Ihr Branchenspezialist für die Chemie- und Pharmaindustrie"
 
 #: key features - index - frontend
 msgid "Awareness training to complement your internal training."
@@ -31324,6 +31333,11 @@ msgstr "Online-Unterweisungen"
 #: Course about pages
 msgid "e-Learning"
 msgstr "Online-Unterweisungen"
+
+#: Course about pages
+msgid "ONLINE TRAINING"
+msgstr "ONLINE-UNTERWEISUNGEN"
+
 
 #: About pages
 msgid "NOTE: This is a on-demand training. As of now it is not available in our course database."
