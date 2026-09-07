@@ -502,5 +502,17 @@
   "footer.shop.consulting": "Beratung",
   "footer.cert.zfu.alt": "Staatliche Zentralstelle für Fernunterricht (ZFU) Zertifizierung",
   "footer.cert.iso.alt": "ISO 9001 Qualitätszertifizierung",
-  "footer.copyright.finishingx": "© {year} FinishingX. Alle Rechte vorbehalten."
+  "footer.copyright.finishingx": "© {year} FinishingX. Alle Rechte vorbehalten.",
+  "header.nav.dashboard": "Meine Unterweisungen",
+  "header.nav.about": "Impressum",
+  "header.nav.contact": "Kontakt",
+  "header.nav.faq": "FAQ",
+  "header.actions.signIn": "Anmelden",
+  "header.actions.register": "Registrieren",
+  "header.mobile.menu": "Menü",
+  "header.user.menu": "Benutzeroptionen",
+  "header.user.profile": "Profil",
+  "header.user.account": "Einstellungen",
+  "header.user.studio": "Studioheim",
+  "header.user.logout": "Abmelden"
 }

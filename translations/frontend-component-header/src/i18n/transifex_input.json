@@ -32,5 +32,17 @@
   "header.menu.aria-label": "User Options",
   "header.user.menu.studio": "Studio Home",
   "header.label.courseOutline": "Back to course outline in Studio",
-  "header.label.search.nav": "Search content"
+  "header.label.search.nav": "Search content",
+  "header.nav.dashboard": "Dashboard",
+  "header.nav.about": "About Us",
+  "header.nav.contact": "Contact Us",
+  "header.nav.faq": "FAQ",
+  "header.actions.signIn": "Sign In",
+  "header.actions.register": "Register",
+  "header.mobile.menu": "Menu",
+  "header.user.menu": "User Menu",
+  "header.user.profile": "Profile",
+  "header.user.account": "Account",
+  "header.user.studio": "Studio",
+  "header.user.logout": "Sign Out"
 }

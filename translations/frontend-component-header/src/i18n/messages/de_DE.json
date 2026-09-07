@@ -32,5 +32,17 @@
   "header.menu.aria-label": "Einstellungenoptionen",
   "header.user.menu.studio": "Studioheim",
   "header.label.courseOutline": "Zurück zur Kursübersicht im Studio",
-  "header.label.search.nav": "Inhalte durchsuchen"
+  "header.label.search.nav": "Inhalte durchsuchen",
+  "header.nav.dashboard": "Meine Unterweisungen",
+  "header.nav.about": "Impressum",
+  "header.nav.contact": "Kontakt",
+  "header.nav.faq": "FAQ",
+  "header.actions.signIn": "Anmelden",
+  "header.actions.register": "Registrieren",
+  "header.mobile.menu": "Menü",
+  "header.user.menu": "Benutzeroptionen",
+  "header.user.profile": "Profil",
+  "header.user.account": "Einstellungen",
+  "header.user.studio": "Studioheim",
+  "header.user.logout": "Abmelden"
 }
