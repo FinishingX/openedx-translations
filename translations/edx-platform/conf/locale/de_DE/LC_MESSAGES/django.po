@@ -36857,3 +36857,11 @@ msgstr "{years} · {rule} · bald fällig {warn} T · Rezert. {grace} T · Erstf
 msgctxt "training_compliance"
 msgid "… and {n} more – see the dashboard."
 msgstr "… und {n} weitere – siehe Dashboard."
+
+#: SafetySlides checkout (static_templates/safetyslides_checkout.html)
+msgid "Please log in to submit this form"
+msgstr "Bitte melden Sie sich an, um dieses Formular abzusenden"
+
+#: SafetySlides checkout (static_templates/safetyslides_checkout.html)
+msgid "Only logged-in users can submit a training request. Log in first, so that your entries and uploaded documents are not lost."
+msgstr "Nur angemeldete Benutzer können eine Schulungsanfrage absenden. Bitte melden Sie sich zuerst an, damit Ihre Eingaben und hochgeladenen Dokumente nicht verloren gehen."
