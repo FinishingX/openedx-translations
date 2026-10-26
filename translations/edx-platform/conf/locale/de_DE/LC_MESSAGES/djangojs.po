@@ -13167,3 +13167,2090 @@ msgstr "Haben Sie bereits ein Benutzerkonto?"
 
 msgid "Create a free Account"
 msgstr "Kostenloses Benutzerkonto erstellen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(date)s at night"
+msgstr "%(date)s nachts"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(department)s: Progress Tracking"
+msgstr "%(department)s: Lernfortschritt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(enrolled)s enrolled, %(unenrolled)s un-enrolled, %(freq)s frequency change(s), %(recert)s re-certified, %(failed)s failed"
+msgstr "%(enrolled)s eingeschrieben, %(unenrolled)s ausgetragen, %(freq)s Intervalländerung(en), %(recert)s rezertifiziert, %(failed)s fehlgeschlagen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s added"
+msgstr "%(n)s hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s change is being sent to the LMS (nightly run incl. re-certification)."
+msgid_plural "%(n)s changes are being sent to the LMS (nightly run incl. re-certification)."
+msgstr[0] "%(n)s Änderung wird an das LMS übertragen (nächtlicher Lauf inkl. Rezertifizierung)."
+msgstr[1] "%(n)s Änderungen werden an das LMS übertragen (nächtlicher Lauf inkl. Rezertifizierung)."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s change is being sent to the LMS."
+msgid_plural "%(n)s changes are being sent to the LMS."
+msgstr[0] "%(n)s Änderung wird an das LMS übertragen."
+msgstr[1] "%(n)s Änderungen werden an das LMS übertragen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s change reverted"
+msgid_plural "%(n)s changes reverted"
+msgstr[0] "%(n)s Änderung zurückgesetzt"
+msgstr[1] "%(n)s Änderungen zurückgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s change since %(time)s will be reverted."
+msgid_plural "%(n)s changes since %(time)s will be reverted."
+msgstr[0] "%(n)s Änderung seit %(time)s wird zurückgesetzt."
+msgstr[1] "%(n)s Änderungen seit %(time)s werden zurückgesetzt."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s course"
+msgid_plural "%(n)s courses"
+msgstr[0] "%(n)s Kurs"
+msgstr[1] "%(n)s Kurse"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s course selected"
+msgid_plural "%(n)s courses selected"
+msgstr[0] "%(n)s Kurs ausgewählt"
+msgstr[1] "%(n)s Kurse ausgewählt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s course → %(source)s"
+msgid_plural "%(n)s courses → %(source)s"
+msgstr[0] "%(n)s Kurs → %(source)s"
+msgstr[1] "%(n)s Kurse → %(source)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s day"
+msgid_plural "%(n)s days"
+msgstr[0] "%(n)s Tag"
+msgstr[1] "%(n)s Tage"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s days before expiry"
+msgstr "%(n)s Tage vor Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s days to complete"
+msgstr "%(n)s Tage zum Abschließen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s days to re-certify"
+msgstr "%(n)s Tage zum Rezertifizieren"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s employee"
+msgid_plural "%(n)s employees"
+msgstr[0] "%(n)s Mitarbeiter/in"
+msgstr[1] "%(n)s Mitarbeitende"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s employee affected"
+msgid_plural "%(n)s employees affected"
+msgstr[0] "%(n)s Mitarbeiter/in betroffen"
+msgstr[1] "%(n)s Mitarbeitende betroffen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s employee below 80 % compliance"
+msgid_plural "%(n)s employees below 80 % compliance"
+msgstr[0] "%(n)s Mitarbeiter/in unter 80 % Compliance"
+msgstr[1] "%(n)s Mitarbeitende unter 80 % Compliance"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s enrollment"
+msgid_plural "%(n)s enrollments"
+msgstr[0] "%(n)s Einschreibung"
+msgstr[1] "%(n)s Einschreibungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s enrolment kept (“Remove training courses” unchecked)"
+msgid_plural "%(n)s enrolments kept (“Remove training courses” unchecked)"
+msgstr[0] "%(n)s Einschreibung beibehalten („Schulungen entfernen“ deaktiviert)"
+msgstr[1] "%(n)s Einschreibungen beibehalten („Schulungen entfernen“ deaktiviert)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s enrolment was kept because “Remove training courses” was unchecked."
+msgid_plural "%(n)s enrolments were kept because “Remove training courses” was unchecked."
+msgstr[0] "%(n)s Einschreibung wurde beibehalten, weil „Schulungen entfernen“ deaktiviert war."
+msgstr[1] "%(n)s Einschreibungen wurden beibehalten, weil „Schulungen entfernen“ deaktiviert war."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s entry"
+msgid_plural "%(n)s entries"
+msgstr[0] "%(n)s Eintrag"
+msgstr[1] "%(n)s Einträge"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s kept"
+msgstr "%(n)s beibehalten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s removed"
+msgstr "%(n)s entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s rows – scroll to see all"
+msgstr "%(n)s Zeilen – scrollen, um alle zu sehen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s stays enrolled"
+msgid_plural "%(n)s stay enrolled"
+msgstr[0] "%(n)s bleibt eingeschrieben"
+msgstr[1] "%(n)s bleiben eingeschrieben"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training"
+msgid_plural "%(n)s trainings"
+msgstr[0] "%(n)s Schulung"
+msgstr[1] "%(n)s Schulungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training assigned"
+msgid_plural "%(n)s trainings assigned"
+msgstr[0] "%(n)s Schulung zugewiesen"
+msgstr[1] "%(n)s Schulungen zugewiesen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training change"
+msgid_plural "%(n)s training changes"
+msgstr[0] "%(n)s Schulungsänderung"
+msgstr[1] "%(n)s Schulungsänderungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training needs your attention, %(overdue)s overdue."
+msgid_plural "%(n)s trainings need your attention, %(overdue)s overdue."
+msgstr[0] "%(n)s Schulung erfordert Ihre Aufmerksamkeit, %(overdue)s überfällig."
+msgstr[1] "%(n)s Schulungen erfordern Ihre Aufmerksamkeit, %(overdue)s überfällig."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training needs your attention."
+msgid_plural "%(n)s trainings need your attention."
+msgstr[0] "%(n)s Schulung erfordert Ihre Aufmerksamkeit."
+msgstr[1] "%(n)s Schulungen erfordern Ihre Aufmerksamkeit."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s training removed"
+msgid_plural "%(n)s trainings removed"
+msgstr[0] "%(n)s Schulung entfernt"
+msgstr[1] "%(n)s Schulungen entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s workplace"
+msgid_plural "%(n)s workplaces"
+msgstr[0] "%(n)s Arbeitsplatz"
+msgstr[1] "%(n)s Arbeitsplätze"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s year"
+msgid_plural "%(n)s years"
+msgstr[0] "%(n)s Jahr"
+msgstr[1] "%(n)s Jahre"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(n)s year after completion"
+msgid_plural "%(n)s years after completion"
+msgstr[0] "%(n)s Jahr nach Abschluss"
+msgstr[1] "%(n)s Jahre nach Abschluss"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(names)s and %(n)s more"
+msgstr "%(names)s und %(n)s weitere"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(pct)s compliant (Valid + Due soon)"
+msgstr "%(pct)s konform (Gültig + Bald fällig)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(type)s, weight %(weight)s%"
+msgstr "%(type)s, Gewichtung %(weight)s %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "%(validity)s · %(rule)s · due soon %(warn)s d · re-cert. %(grace)s d · first time %(initial)s d"
+msgstr "%(validity)s · %(rule)s · bald fällig %(warn)s T · Rezert. %(grace)s T · Erstfrist %(initial)s T"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "(PDF kept)"
+msgstr "(PDF aufbewahrt)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "(completed)"
+msgstr "(abgeschlossen)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "(current cycle)"
+msgstr "(aktueller Zyklus)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "1x"
+msgstr "1x"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "1x – never expires"
+msgstr "1x – läuft nie ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "<strong>%(n)s</strong> assignment"
+msgid_plural "<strong>%(n)s</strong> assignments"
+msgstr[0] "<strong>%(n)s</strong> Zuweisung"
+msgstr[1] "<strong>%(n)s</strong> Zuweisungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "<strong>%(n)s</strong> change saved – not yet in the LMS."
+msgid_plural "<strong>%(n)s</strong> changes saved – not yet in the LMS."
+msgstr[0] "<strong>%(n)s</strong> Änderung gespeichert – noch nicht im LMS."
+msgstr[1] "<strong>%(n)s</strong> Änderungen gespeichert – noch nicht im LMS."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "<strong>Triggered by:</strong> a new assignment (switch or workplace) for a learner who never completed the course.<br>Status Due soon until the deadline, then <strong>Overdue</strong>."
+msgstr "<strong>Ausgelöst durch:</strong> eine neue Zuweisung (Schalter oder Arbeitsplatz) für Lernende, die den Kurs noch nie abgeschlossen haben.<br>Status Bald fällig bis zur Frist, danach <strong>Überfällig</strong>."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "<strong>Triggered by:</strong> a valid certificate getting close to its expiry date.<br>The certificate is <strong>still valid</strong> and nothing is reset yet – the learner is only warned: status Valid → <strong>Due soon</strong> and the reminder e-mail (see Notifications)."
+msgstr "<strong>Ausgelöst durch:</strong> ein gültiges Zertifikat, dessen Ablaufdatum näher rückt.<br>Das Zertifikat ist <strong>noch gültig</strong> und es wird noch nichts zurückgesetzt – die Lernenden werden nur gewarnt: Status Gültig → <strong>Bald fällig</strong> und die Erinnerungs-E-Mail (siehe Benachrichtigungen)."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "<strong>Triggered by:</strong> the expiry date – the certificate is archived and the course is reset.<br>The learner has this many days to complete the course again (status stays Due soon); after that the status becomes <strong>Overdue</strong>."
+msgstr "<strong>Ausgelöst durch:</strong> das Ablaufdatum – das Zertifikat wird archiviert und der Kurs zurückgesetzt.<br>Die Lernenden haben so viele Tage Zeit, den Kurs erneut abzuschließen (Status bleibt Bald fällig); danach wird der Status <strong>Überfällig</strong>."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "A sync is already running for this site"
+msgstr "Für diese Seite läuft bereits eine Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Account"
+msgstr "Konto"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Account since %(date)s"
+msgstr "Konto seit %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Action"
+msgstr "Aktion"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Action required (%(n)s)"
+msgstr "Handlungsbedarf (%(n)s)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Active"
+msgstr "Aktiv"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Add a new workplace"
+msgstr "Neuen Arbeitsplatz hinzufügen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Add employee"
+msgstr "Mitarbeiter/in hinzufügen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Added"
+msgstr "Hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Added to the dashboard"
+msgstr "Zum Dashboard hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "After saving, switch on the trainings that belong to the new workplace, then assign employees in the Compliance Matrix."
+msgstr "Schalten Sie nach dem Speichern die Schulungen des neuen Arbeitsplatzes ein und ordnen Sie dann in der Compliance-Matrix Mitarbeitende zu."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All certificates of a cycle expire on the same day of the year, no matter when they were completed."
+msgstr "Alle Zertifikate eines Zyklus laufen am selben Tag des Jahres ab, unabhängig vom Abschlussdatum."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All departments"
+msgstr "Alle Abteilungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All statuses"
+msgstr "Alle Status"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All three apply <strong>at the same time</strong> – each one is triggered by a different event and changes the status shown in Progress tracking."
+msgstr "Alle drei gelten <strong>gleichzeitig</strong> – jede wird durch ein anderes Ereignis ausgelöst und ändert den im Lernfortschritt angezeigten Status."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All workplaces"
+msgstr "Alle Arbeitsplätze"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "All workplaces assigned."
+msgstr "Alle Arbeitsplätze zugewiesen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Always kept – also assigned individually: %(courses)s."
+msgstr "Bleibt immer erhalten – auch einzeln zugewiesen: %(courses)s."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Answers, progress and grades cleared; learner stays enrolled; cycle %(cycle)s started"
+msgstr "Antworten, Fortschritt und Noten gelöscht; Einschreibung bleibt bestehen; Zyklus %(cycle)s gestartet"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Applied"
+msgstr "Übernommen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Apply"
+msgstr "Anwenden"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Apply changes"
+msgstr "Änderungen übernehmen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Apply policy to selected courses"
+msgstr "Richtlinie auf ausgewählte Kurse anwenden"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Archived · expired %(date)s"
+msgstr "Archiviert · abgelaufen %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assign to %(workplace)s"
+msgstr "%(workplace)s zuweisen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assigned"
+msgstr "Zugewiesen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assigned since the last sync. The enrolment takes place at the next sync."
+msgstr "Seit der letzten Synchronisierung zugewiesen. Die Einschreibung erfolgt bei der nächsten Synchronisierung."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assigned to you – please complete by %(date)s."
+msgstr "Ihnen zugewiesen – bitte bis %(date)s abschließen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assigned workplace"
+msgstr "Zugewiesene Arbeitsplätze"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assignment added"
+msgstr "Zuweisung hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Assignment removed"
+msgstr "Zuweisung entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Audit Log"
+msgstr "Änderungsprotokoll"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Available"
+msgstr "Verfügbar"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Average grade"
+msgstr "Durchschnittsnote"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Avg. grade"
+msgstr "Ø Note"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Avg. grade %"
+msgstr "Ø Note %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "CSV: %(file)s"
+msgstr "CSV: %(file)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate"
+msgstr "Zertifikat"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate %(cert)s archived & invalidated, progress/grades reset, cycle %(cycle)s started"
+msgstr "Zertifikat %(cert)s archiviert & ungültig gemacht, Fortschritt/Noten zurückgesetzt, Zyklus %(cycle)s gestartet"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate ID"
+msgstr "Zertifikats-ID"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate archive · run %(time)s"
+msgstr "Zertifikatsarchiv · Lauf %(time)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate expires on %(date)s (in %(n)s day). The course will reopen for re-certification after that date."
+msgid_plural "Certificate expires on %(date)s (in %(n)s days). The course will reopen for re-certification after that date."
+msgstr[0] "Zertifikat läuft am %(date)s ab (in %(n)s Tag). Danach wird der Kurs zur Rezertifizierung wieder geöffnet."
+msgstr[1] "Zertifikat läuft am %(date)s ab (in %(n)s Tagen). Danach wird der Kurs zur Rezertifizierung wieder geöffnet."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate expires soon"
+msgstr "Zertifikat läuft bald ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate history"
+msgstr "Zertifikatshistorie"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate history (%(n)s)"
+msgstr "Zertifikatshistorie (%(n)s)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate issued"
+msgstr "Zertifikat ausgestellt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate valid"
+msgstr "Zertifikat gültig"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate valid until %(date)s"
+msgstr "Zertifikat gültig bis %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate validity"
+msgstr "Gültigkeit des Zertifikats"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Certificate validity / re-certification frequency"
+msgstr "Zertifikatsgültigkeit / Rezertifizierungsintervall"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Changes"
+msgstr "Änderungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Changes pending"
+msgstr "Ausstehende Änderungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Changes since last synchronisation"
+msgstr "Änderungen seit der letzten Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Checked: trainings that no other workplace or individual assignment covers are un-enrolled at the next synchronisation. Unchecked: only the workplace is removed – all enrolments stay unchanged."
+msgstr "Aktiviert: Schulungen, die kein anderer Arbeitsplatz und keine Einzelzuweisung abdeckt, werden bei der nächsten Synchronisierung ausgetragen. Deaktiviert: Nur der Arbeitsplatz wird entfernt – alle Einschreibungen bleiben unverändert."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Choose “Site default policy” or “Custom policy” first"
+msgstr "Wählen Sie zuerst „Standardrichtlinie der Seite“ oder „Eigene Richtlinie“"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Close"
+msgstr "Schließen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Completed (current cycle)"
+msgstr "Abgeschlossen (aktueller Zyklus)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Completed with errors"
+msgstr "Mit Fehlern abgeschlossen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Completion %"
+msgstr "Abschluss %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Compliance"
+msgstr "Compliance"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Compliance %"
+msgstr "Compliance %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Compliance Dashboard"
+msgstr "Compliance-Dashboard"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Compliance Matrix"
+msgstr "Compliance-Matrix"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Continue course"
+msgstr "Kurs fortsetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Continue now"
+msgstr "Jetzt fortsetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Continue re-certification"
+msgstr "Rezertifizierung fortsetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Could not load the data. Please reload the page."
+msgstr "Die Daten konnten nicht geladen werden. Bitte laden Sie die Seite neu."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Course"
+msgstr "Kurs"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Course key"
+msgstr "Kurs-ID"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Current · no expiry"
+msgstr "Aktuell · kein Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Current · valid until %(date)s"
+msgstr "Aktuell · gültig bis %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Custom"
+msgstr "Eigene"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Custom policy"
+msgstr "Eigene Richtlinie"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Cycle"
+msgstr "Zyklus"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Daily changes reset"
+msgstr "Tagesänderungen zurückgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Date"
+msgstr "Datum"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Day"
+msgstr "Tag"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Deadline %(date)s has passed."
+msgstr "Die Frist %(date)s ist abgelaufen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Deadlines & warnings"
+msgstr "Fristen & Warnungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Delete"
+msgstr "Löschen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Delete %(workplace)s? %(n)s employee loses this workplace. Trainings that no other workplace or individual assignment of theirs covers:"
+msgid_plural "Delete %(workplace)s? %(n)s employees lose this workplace. Trainings that no other workplace or individual assignment of theirs covers:"
+msgstr[0] "%(workplace)s löschen? %(n)s Mitarbeiter/in verliert diesen Arbeitsplatz. Schulungen, die kein anderer Arbeitsplatz und keine Einzelzuweisung abdeckt:"
+msgstr[1] "%(workplace)s löschen? %(n)s Mitarbeitende verlieren diesen Arbeitsplatz. Schulungen, die kein anderer Arbeitsplatz und keine Einzelzuweisung abdeckt:"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Delete workplace"
+msgstr "Arbeitsplatz löschen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Department"
+msgstr "Abteilung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Description"
+msgstr "Beschreibung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Details"
+msgstr "Details"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Done"
+msgstr "Erledigt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Due soon"
+msgstr "Bald fällig"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Edit name / description"
+msgstr "Name / Beschreibung bearbeiten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Edit policy"
+msgstr "Richtlinie bearbeiten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Edit workplace"
+msgstr "Arbeitsplatz bearbeiten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Employee"
+msgstr "Mitarbeiter/in"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Employee changed"
+msgstr "Mitarbeiter/in geändert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Employee workplaces changed"
+msgstr "Arbeitsplätze von Mitarbeitenden geändert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Employees"
+msgstr "Mitarbeitende"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Employees %(from)s–%(to)s of %(total)s"
+msgstr "Mitarbeitende %(from)s–%(to)s von %(total)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Enrolled"
+msgstr "Eingeschrieben"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Enrolled courses"
+msgstr "Eingeschriebene Kurse"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Enrolled on"
+msgstr "Eingeschrieben am"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Every change in the curriculum (switches, workplaces, frequencies) is saved here immediately but is NOT sent to the LMS right away. The LMS is updated once every 24 hours at night (enrolment / un-enrolment, frequency changes, re-certification resets, refresh of compliance data). “Sync with LMS now” sends only the saved changes as one queued background job – one job per site at a time, so the LMS is never overloaded."
+msgstr "Jede Änderung im Lehrplan (Schalter, Arbeitsplätze, Intervalle) wird hier sofort gespeichert, aber NICHT sofort an das LMS übertragen. Das LMS wird einmal alle 24 Stunden nachts aktualisiert (Ein-/Austragung, Intervalländerungen, Rezertifizierungs-Resets, Aktualisierung der Compliance-Daten). „Jetzt mit LMS synchronisieren“ überträgt nur die gespeicherten Änderungen als einen Hintergrundauftrag – pro Seite immer nur einer, damit das LMS nie überlastet wird."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Every learner gets their own expiry date, counted from the day they completed the course."
+msgstr "Alle Lernenden erhalten ein eigenes Ablaufdatum, gerechnet ab dem Tag des Kursabschlusses."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Example (%(validity)s): completed %(date)s → valid until %(until)s."
+msgstr "Beispiel (%(validity)s): abgeschlossen am %(date)s → gültig bis %(until)s."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Example (%(validity)s, %(date)s): completed any day in %(year)s → valid until %(until)s."
+msgstr "Beispiel (%(validity)s, %(date)s): an einem beliebigen Tag %(year)s abgeschlossen → gültig bis %(until)s."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Example dates"
+msgstr "Beispieldaten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expired – re-certification in progress"
+msgstr "Abgelaufen – Rezertifizierung läuft"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expired – re-certification overdue"
+msgstr "Abgelaufen – Rezertifizierung überfällig"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expires on %(date)s"
+msgstr "Läuft ab am %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expiring"
+msgstr "Laufen ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expiry date"
+msgstr "Ablaufdatum"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expiry rule"
+msgstr "Ablaufregel"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Expiry run · %(date)s"
+msgstr "Ablauflauf · %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "First-time deadline"
+msgstr "Erstfrist"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Fixed date · %(date)s"
+msgstr "Fester Termin · %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Frequency"
+msgstr "Intervall"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Frequency change saved – applied at the next synchronisation"
+msgstr "Intervalländerung gespeichert – wird bei der nächsten Synchronisierung übernommen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Frequency changed"
+msgstr "Intervall geändert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Grade"
+msgstr "Note"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Grade %"
+msgstr "Note %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Hello %(name)s – %(n)s assigned training, %(valid)s with a valid certificate."
+msgid_plural "Hello %(name)s – %(n)s assigned trainings, %(valid)s with a valid certificate."
+msgstr[0] "Hallo %(name)s – %(n)s zugewiesene Schulung, %(valid)s mit gültigem Zertifikat."
+msgstr[1] "Hallo %(name)s – %(n)s zugewiesene Schulungen, %(valid)s mit gültigem Zertifikat."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Help"
+msgstr "Hilfe"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "How long a certificate is valid, and on which day it expires. For the expiry day choose <strong>one</strong> of the two rules."
+msgstr "Wie lange ein Zertifikat gültig ist und an welchem Tag es abläuft. Wählen Sie für den Ablauftag <strong>eine</strong> der beiden Regeln."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "How long a certificate stays valid after completion. <strong>1x</strong> = one-time training: it never expires and is never reset, so the expiry rule, the “Due soon” warning and the re-certification deadline are not used."
+msgstr "Wie lange ein Zertifikat nach dem Abschluss gültig bleibt. <strong>1x</strong> = einmalige Schulung: läuft nie ab und wird nie zurückgesetzt; Ablaufregel, „Bald fällig“-Warnung und Rezertifizierungsfrist werden daher nicht verwendet."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Include %(course)s in workplace %(workplace)s."
+msgstr "%(course)s in den Arbeitsplatz %(workplace)s aufnehmen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Issued"
+msgstr "Ausgestellt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Kept"
+msgstr "Bleibt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "LMS synchronisation"
+msgstr "LMS-Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Language"
+msgstr "Sprache"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Last sync"
+msgstr "Letzte Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Learner"
+msgstr "Lernende/r"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Learners who registered on this site or are enrolled in one of its courses are added automatically every night."
+msgstr "Lernende, die sich auf dieser Seite registriert haben oder in einen ihrer Kurse eingeschrieben sind, werden jede Nacht automatisch hinzugefügt."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Manual"
+msgstr "Manuell"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Menu"
+msgstr "Menü"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Month"
+msgstr "Monat"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "My Trainings"
+msgstr "Meine Schulungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "N years after completion"
+msgstr "N Jahre nach Abschluss"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Name"
+msgstr "Name"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Never expires"
+msgstr "Läuft nie ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "New assignment"
+msgstr "Neue Zuweisung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "New assignment – not completed yet"
+msgstr "Neue Zuweisung – noch nicht abgeschlossen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Next automatic sync"
+msgstr "Nächste automatische Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Next expiry"
+msgstr "Nächster Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Nightly run"
+msgstr "Nächtlicher Lauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Nightly synchronisation"
+msgstr "Nächtliche Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No certificate yet."
+msgstr "Noch kein Zertifikat."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No certificates expire in the next 15 months."
+msgstr "In den nächsten 15 Monaten laufen keine Zertifikate ab."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No changes."
+msgstr "Keine Änderungen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No completions yet"
+msgstr "Noch keine Abschlüsse"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No courses."
+msgstr "Keine Kurse."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No employee is affected (nobody is assigned to this workplace yet, or all of them already have this training)."
+msgstr "Keine Mitarbeitenden betroffen (diesem Arbeitsplatz ist noch niemand zugeordnet, oder alle haben diese Schulung bereits)."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No employees match the filter."
+msgstr "Keine Mitarbeitenden für diesen Filter."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No enrolment is removed (nobody is assigned to this workplace, or the training is covered by another workplace or an individual assignment)."
+msgstr "Keine Einschreibung wird entfernt (diesem Arbeitsplatz ist niemand zugeordnet, oder die Schulung ist durch einen anderen Arbeitsplatz oder eine Einzelzuweisung abgedeckt)."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No entries."
+msgstr "Keine Einträge."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No new trainings – all are already assigned."
+msgstr "Keine neuen Schulungen – alle sind bereits zugewiesen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No pending changes – the LMS is up to date."
+msgstr "Keine ausstehenden Änderungen – das LMS ist aktuell."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No re-certification runs yet."
+msgstr "Noch keine Rezertifizierungsläufe."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No trainings are removed."
+msgstr "Es werden keine Schulungen entfernt."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No trainings removed – they are still covered by another workplace, assigned individually, or already off."
+msgstr "Keine Schulungen entfernt – sie sind durch einen anderen Arbeitsplatz abgedeckt, einzeln zugewiesen oder bereits ausgeschaltet."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No trainings were affected."
+msgstr "Keine Schulungen betroffen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No workplace assigned."
+msgstr "Kein Arbeitsplatz zugewiesen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Not assigned"
+msgstr "Nicht zugewiesen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Not completed – deadline passed"
+msgstr "Nicht abgeschlossen – Frist überschritten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Not found."
+msgstr "Nicht gefunden."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Not possible while a sync is running"
+msgstr "Nicht möglich, solange eine Synchronisierung läuft"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Nothing here – well done!"
+msgstr "Nichts zu tun – gut gemacht!"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Off"
+msgstr "Aus"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Off → On (enrolment at next sync)"
+msgstr "Aus → Ein (Einschreibung bei der nächsten Synchronisierung)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "On"
+msgstr "Ein"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "On %(date)s these certificates will be archived and the learners' progress reset."
+msgstr "Am %(date)s werden diese Zertifikate archiviert und der Fortschritt der Lernenden zurückgesetzt."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "On %(date)s these certificates will be archived and the learners' progress reset. Learners are notified %(days)s days in advance."
+msgstr "Am %(date)s werden diese Zertifikate archiviert und der Fortschritt der Lernenden zurückgesetzt. Die Lernenden werden %(days)s Tage vorher benachrichtigt."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "On a fixed date"
+msgstr "An einem festen Termin"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "On → Off (un-enrolment at next sync)"
+msgstr "Ein → Aus (Austragung bei der nächsten Synchronisierung)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "One-time training"
+msgstr "Einmalige Schulung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Only changes made since the last synchronisation are reverted, including workplace changes. Training history and certificates are not affected."
+msgstr "Es werden nur Änderungen seit der letzten Synchronisierung zurückgesetzt, auch Arbeitsplatzänderungen. Schulungshistorie und Zertifikate bleiben unverändert."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Only the saved changes are processed (enrol / un-enrol, frequency) – not the whole site."
+msgstr "Nur die gespeicherten Änderungen werden verarbeitet (Ein-/Austragung, Intervall) – nicht die ganze Seite."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Only the workplace is removed; all enrolments stay unchanged."
+msgstr "Nur der Arbeitsplatz wird entfernt; alle Einschreibungen bleiben unverändert."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Open course"
+msgstr "Kurs öffnen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Open in Studio"
+msgstr "In Studio öffnen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Overall compliance"
+msgstr "Gesamt-Compliance"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Overdue"
+msgstr "Überfällig"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Overdue from"
+msgstr "Überfällig ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "PDF"
+msgstr "PDF"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Page %(page)s / %(pages)s"
+msgstr "Seite %(page)s / %(pages)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Paused"
+msgstr "Pausiert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Performed by"
+msgstr "Durchgeführt von"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Please enter a name."
+msgstr "Bitte geben Sie einen Namen ein."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Please enter a username or e-mail"
+msgstr "Bitte geben Sie einen Benutzernamen oder eine E-Mail-Adresse ein"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Policy changed"
+msgstr "Richtlinie geändert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Preview"
+msgstr "Vorschau"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Profile"
+msgstr "Profil"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Progress"
+msgstr "Fortschritt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Progress %"
+msgstr "Fortschritt %"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Progress Tracking"
+msgstr "Lernfortschritt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Queued"
+msgstr "In Warteschlange"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification"
+msgstr "Rezertifizierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification active"
+msgstr "Rezertifizierung aktiv"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification deadline"
+msgstr "Rezertifizierungsfrist"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification paused"
+msgstr "Rezertifizierung pausiert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification reset"
+msgstr "Rezertifizierungs-Reset"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification resets and the full nightly check still run at night."
+msgstr "Rezertifizierungs-Resets und die vollständige nächtliche Prüfung laufen weiterhin nachts."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification resumed"
+msgstr "Rezertifizierung fortgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Re-certification was due on %(date)s. Please complete the course as soon as possible."
+msgstr "Die Rezertifizierung war am %(date)s fällig. Bitte schließen Sie den Kurs so bald wie möglich ab."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Recertification cycle"
+msgstr "Rezertifizierungszyklus"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Remove %(course)s from workplace %(workplace)s."
+msgstr "%(course)s aus dem Arbeitsplatz %(workplace)s entfernen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Remove from %(workplace)s"
+msgstr "Aus %(workplace)s entfernen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Remove training courses"
+msgstr "Schulungen entfernen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Removed"
+msgstr "Entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Removed since the last sync. The un-enrolment takes place at the next sync."
+msgstr "Seit der letzten Synchronisierung entfernt. Die Austragung erfolgt bei der nächsten Synchronisierung."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Reset all changes made since the last synchronisation?"
+msgstr "Alle Änderungen seit der letzten Synchronisierung zurücksetzen?"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Reset daily changes"
+msgstr "Tagesänderungen zurücksetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Retry failed"
+msgstr "Fehlgeschlagene wiederholen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Retry queued – the failed resets run in the background"
+msgstr "Wiederholung eingeplant – die fehlgeschlagenen Resets laufen im Hintergrund"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Reverted"
+msgstr "Zurückgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Reverts all changes made since the last synchronisation"
+msgstr "Verwirft alle Änderungen seit der letzten Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Running…"
+msgstr "Läuft…"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Runs as one background job in the queue; only one sync per site can run at a time."
+msgstr "Läuft als ein Hintergrundauftrag in der Warteschlange; pro Seite kann immer nur eine Synchronisierung laufen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Save"
+msgstr "Speichern"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved automatically with original state, new state, source and date. They are sent to the LMS at the next synchronisation."
+msgstr "Automatisch gespeichert mit ursprünglichem Zustand, neuem Zustand, Quelle und Datum. Sie werden bei der nächsten Synchronisierung an das LMS übertragen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved now; enrolment changes reach the LMS at the next synchronisation."
+msgstr "Jetzt gespeichert; Einschreibungsänderungen erreichen das LMS bei der nächsten Synchronisierung."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(name)s"
+msgstr "Gespeichert: %(name)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(name)s – %(added)s assigned, %(kept)s kept"
+msgstr "Gespeichert: %(name)s – %(added)s zugewiesen, %(kept)s beibehalten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(name)s – %(added)s assigned, %(removed)s removed"
+msgstr "Gespeichert: %(name)s – %(added)s zugewiesen, %(removed)s entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(name)s – %(course)s: off (un-enrolment at the next sync)"
+msgstr "Gespeichert: %(name)s – %(course)s: aus (Austragung bei der nächsten Synchronisierung)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(name)s – %(course)s: on (enrolment at the next sync)"
+msgstr "Gespeichert: %(name)s – %(course)s: ein (Einschreibung bei der nächsten Synchronisierung)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: %(workplace)s – %(n)s enrolment change"
+msgid_plural "Saved: %(workplace)s – %(n)s enrolment changes"
+msgstr[0] "Gespeichert: %(workplace)s – %(n)s Einschreibungsänderung"
+msgstr[1] "Gespeichert: %(workplace)s – %(n)s Einschreibungsänderungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: policy of %(n)s course"
+msgid_plural "Saved: policy of %(n)s courses"
+msgstr[0] "Gespeichert: Richtlinie von %(n)s Kurs"
+msgstr[1] "Gespeichert: Richtlinie von %(n)s Kursen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: re-certification paused – no resets will run for this course"
+msgstr "Gespeichert: Rezertifizierung pausiert – für diesen Kurs laufen keine Resets"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: re-certification resumed for this course"
+msgstr "Gespeichert: Rezertifizierung für diesen Kurs fortgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: workplace %(workplace)s"
+msgstr "Gespeichert: Arbeitsplatz %(workplace)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: workplace %(workplace)s added"
+msgstr "Gespeichert: Arbeitsplatz %(workplace)s hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: workplace %(workplace)s deleted"
+msgstr "Gespeichert: Arbeitsplatz %(workplace)s gelöscht"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Saved: workplace %(workplace)s deleted – enrolments unchanged"
+msgstr "Gespeichert: Arbeitsplatz %(workplace)s gelöscht – Einschreibungen unverändert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Select %(name)s"
+msgstr "%(name)s auswählen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Selected courses use different rules – leave both unselected to keep each course’s rule."
+msgstr "Die ausgewählten Kurse verwenden unterschiedliche Regeln – lassen Sie beide Optionen leer, um die Regel jedes Kurses beizubehalten."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sends the <strong>%(n)s</strong> saved change to the LMS now instead of waiting for %(time)s."
+msgid_plural "Sends the <strong>%(n)s</strong> saved changes to the LMS now instead of waiting for %(time)s."
+msgstr[0] "Überträgt die <strong>%(n)s</strong> gespeicherte Änderung jetzt an das LMS, statt bis %(time)s zu warten."
+msgstr[1] "Überträgt die <strong>%(n)s</strong> gespeicherten Änderungen jetzt an das LMS, statt bis %(time)s zu warten."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Short description"
+msgstr "Kurzbeschreibung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Short description of the workplace"
+msgstr "Kurzbeschreibung des Arbeitsplatzes"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Showing %(shown)s of %(total)s"
+msgstr "%(shown)s von %(total)s angezeigt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sign Out"
+msgstr "Abmelden"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Site"
+msgstr "Seite"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Site default"
+msgstr "Seitenstandard"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Site default policy"
+msgstr "Standardrichtlinie der Seite"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Site default policy updated"
+msgstr "Standardrichtlinie der Seite aktualisiert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Snapshot taken before the reset. These records stay available in the employee's certificate history and the progress reports."
+msgstr "Kopie vor dem Zurücksetzen. Diese Einträge bleiben in der Zertifikatshistorie der Mitarbeitenden und in den Fortschrittsberichten verfügbar."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Source"
+msgstr "Quelle"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Start course"
+msgstr "Kurs starten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Start now"
+msgstr "Jetzt starten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Start re-certification"
+msgstr "Rezertifizierung starten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Start sync"
+msgstr "Synchronisierung starten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "State"
+msgstr "Zustand"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Status"
+msgstr "Status"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync failed"
+msgstr "Synchronisierung fehlgeschlagen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync finished: %(enrolled)s enrolled, %(unenrolled)s un-enrolled, %(freq)s frequency change(s), %(failed)s failed"
+msgstr "Synchronisierung abgeschlossen: %(enrolled)s eingeschrieben, %(unenrolled)s ausgetragen, %(freq)s Intervalländerung(en), %(failed)s fehlgeschlagen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync in progress"
+msgstr "Synchronisierung läuft"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync in progress: the job runs in the background"
+msgstr "Synchronisierung läuft: Der Auftrag läuft im Hintergrund"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync in progress…"
+msgstr "Synchronisierung läuft…"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Sync with LMS now"
+msgstr "Jetzt mit LMS synchronisieren"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Synchronisation (manual)"
+msgstr "Synchronisierung (manuell)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "System"
+msgstr "System"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "The export is being prepared – the download starts shortly."
+msgstr "Der Export wird vorbereitet – der Download startet gleich."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "The selected courses currently use different policies: %(inherit)s site default, %(custom)s custom. Choose one for all of them."
+msgstr "Die ausgewählten Kurse verwenden derzeit unterschiedliche Richtlinien: %(inherit)s Seitenstandard, %(custom)s eigene. Wählen Sie eine für alle."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "The status and expiry dates of current certificates are recalculated immediately. Archived certificates are not changed."
+msgstr "Status und Ablaufdaten aktueller Zertifikate werden sofort neu berechnet. Archivierte Zertifikate bleiben unverändert."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "These courses were reset to zero when your previous certificate expired (or the training is new to you). Earlier certificates stay in your history."
+msgstr "Diese Kurse wurden auf null zurückgesetzt, als Ihr vorheriges Zertifikat abgelaufen ist (oder die Schulung ist neu für Sie). Frühere Zertifikate bleiben in Ihrer Historie."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Timed out"
+msgstr "Zeitüberschreitung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Training"
+msgstr "Schulung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Training added to workplace"
+msgstr "Schulung zum Arbeitsplatz hinzugefügt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Training history"
+msgstr "Schulungshistorie"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Training removed from workplace"
+msgstr "Schulung aus Arbeitsplatz entfernt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Trainings"
+msgstr "Schulungen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Update <strong>%(n)s</strong> course to <strong>a custom policy</strong>?"
+msgid_plural "Update <strong>%(n)s</strong> courses to <strong>a custom policy</strong>?"
+msgstr[0] "<strong>%(n)s</strong> Kurs auf <strong>eine eigene Richtlinie</strong> umstellen?"
+msgstr[1] "<strong>%(n)s</strong> Kurse auf <strong>eine eigene Richtlinie</strong> umstellen?"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Update <strong>%(n)s</strong> course to <strong>the site default policy</strong>?"
+msgid_plural "Update <strong>%(n)s</strong> courses to <strong>the site default policy</strong>?"
+msgstr[0] "<strong>%(n)s</strong> Kurs auf <strong>die Standardrichtlinie der Seite</strong> umstellen?"
+msgstr[1] "<strong>%(n)s</strong> Kurse auf <strong>die Standardrichtlinie der Seite</strong> umstellen?"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Used to filter Progress tracking and the Compliance Matrix. It does not change any assignment."
+msgstr "Dient zum Filtern im Lernfortschritt und in der Compliance-Matrix. Ändert keine Zuweisung."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Username or e-mail"
+msgstr "Benutzername oder E-Mail"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Valid"
+msgstr "Gültig"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Valid certificates"
+msgstr "Gültige Zertifikate"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Valid until"
+msgstr "Gültig bis"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Validity"
+msgstr "Gültigkeit"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Validity & expiry"
+msgstr "Gültigkeit & Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Via"
+msgstr "Über"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "View"
+msgstr "Ansehen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "View certificate"
+msgstr "Zertifikat ansehen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "View changes"
+msgstr "Änderungen anzeigen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "What happens when – with the values above"
+msgstr "Was wann passiert – mit den Werten oben"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplace"
+msgstr "Arbeitsplatz"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplace created"
+msgstr "Arbeitsplatz angelegt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplace deleted"
+msgstr "Arbeitsplatz gelöscht"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplace edited"
+msgstr "Arbeitsplatz bearbeitet"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplaces"
+msgstr "Arbeitsplätze"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Workplaces of %(name)s"
+msgstr "Arbeitsplätze von %(name)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Your certificate expired on %(expiry)s. The course was reset on %(reset)s. Please complete it again by %(due)s."
+msgstr "Ihr Zertifikat ist am %(expiry)s abgelaufen. Der Kurs wurde am %(reset)s zurückgesetzt. Bitte schließen Sie ihn bis %(due)s erneut ab."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "after completion"
+msgstr "nach Abschluss"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "after expiry"
+msgstr "nach Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "all employees"
+msgstr "alle Mitarbeitenden"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "archived"
+msgstr "archiviert"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "archived + course reset"
+msgstr "archiviert + Kurs zurückgesetzt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "archived + course reset on"
+msgstr "archiviert + Kurs zurückgesetzt am"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "assign to workplace %(workplace)s"
+msgstr "dem Arbeitsplatz %(workplace)s zuweisen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "before expiry"
+msgstr "vor Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "completed"
+msgstr "abgeschlossen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "completion + %(validity)s"
+msgstr "Abschluss + %(validity)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "continues above"
+msgstr "weiter wie oben"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "current"
+msgstr "aktuell"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "days after assignment"
+msgstr "Tage nach Zuweisung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "days after reset"
+msgstr "Tage nach dem Zurücksetzen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "days before expiry"
+msgstr "Tage vor Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "due %(date)s"
+msgstr "fällig %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "e.g. Paint shop"
+msgstr "z. B. Lackiererei"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "either / or"
+msgstr "entweder / oder"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "every %(validity)s"
+msgstr "alle %(validity)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "exp. %(date)s"
+msgstr "Abl. %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "expired %(date)s"
+msgstr "abgelaufen %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "expires %(date)s"
+msgstr "läuft ab %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "fixed date"
+msgstr "fester Termin"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "fixed date %(date)s"
+msgstr "fester Termin %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "forever (1x)"
+msgstr "dauerhaft (1x)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "from completion"
+msgstr "ab Abschluss"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "included"
+msgstr "enthalten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "individual assignment"
+msgstr "Einzelzuweisung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "issued %(date)s"
+msgstr "ausgestellt %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "mixed"
+msgstr "gemischt"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "never completed"
+msgstr "nie abgeschlossen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "never expires"
+msgstr "läuft nie ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "new assignment"
+msgstr "neue Zuweisung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "no expiry"
+msgstr "kein Ablauf"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "not included"
+msgstr "nicht enthalten"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "re-certify by"
+msgstr "rezertifizieren bis"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "remove from workplace %(workplace)s"
+msgstr "aus dem Arbeitsplatz %(workplace)s entfernen"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "started %(time)s by %(name)s"
+msgstr "gestartet %(time)s von %(name)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "valid until"
+msgstr "gültig bis"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "valid until %(date)s"
+msgstr "gültig bis %(date)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "valid – never expires"
+msgstr "gültig – läuft nie ab"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "© %(year)s FinishingX. All rights reserved."
+msgstr "© %(year)s FinishingX. Alle Rechte vorbehalten."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "— mixed: keep each course’s value —"
+msgstr "— gemischt: Wert jedes Kurses beibehalten —"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "“Due soon” includes %(n)s certificate expiring within %(days)s days."
+msgid_plural "“Due soon” includes %(n)s certificates expiring within %(days)s days."
+msgstr[0] "„Bald fällig“ enthält %(n)s Zertifikat, das innerhalb von %(days)s Tagen abläuft."
+msgstr[1] "„Bald fällig“ enthält %(n)s Zertifikate, die innerhalb von %(days)s Tagen ablaufen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "“Due soon” warning"
+msgstr "„Bald fällig“-Warnung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "“Due soon” warning from (certificate still valid)"
+msgstr "„Bald fällig“-Warnung ab (Zertifikat noch gültig)"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "“Sync with LMS now” and “Reset” are disabled until the job has finished. You can keep working – new changes are saved and sent with the next sync."
+msgstr "„Jetzt mit LMS synchronisieren“ und „Zurücksetzen“ sind deaktiviert, bis der Auftrag beendet ist. Sie können weiterarbeiten – neue Änderungen werden gespeichert und mit der nächsten Synchronisierung übertragen."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "→ %(source)s"
+msgstr "→ %(source)s"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "→ %(validity)s at next sync"
+msgstr "→ %(validity)s bei nächster Synchronisierung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Status and expiry dates are being recalculated in the background – this can take a few minutes."
+msgstr "Status und Ablaufdaten werden im Hintergrund neu berechnet – das kann einige Minuten dauern."

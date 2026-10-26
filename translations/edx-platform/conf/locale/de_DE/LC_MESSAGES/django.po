@@ -35648,3 +35648,1212 @@ msgstr "Bitte geben Sie den Namen des/der Verbraucher(s) ein"
 
 msgid "Please enter Address of the consumer(s)"
 msgstr "Bitte geben Sie die Adresse des/der Verbraucher(s) ein"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "- {name}: {course} (due {due})"
+msgstr "- {name}: {course} (fällig am {due})"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "1 year"
+msgstr "1 Jahr"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "1x (never expires)"
+msgstr "1x (läuft nie ab)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "1x – never expires"
+msgstr "1x – läuft nie ab"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "2 years"
+msgstr "2 Jahre"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "3 years"
+msgstr "3 Jahre"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "5 years"
+msgstr "5 Jahre"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>1x:</strong> never expires, never reset."
+msgstr "<strong>1x:</strong> läuft nie ab, wird nie zurückgesetzt."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Compliance %</strong> = (Valid + Due soon) ÷ assigned trainings, refreshed every 24 h. Green ≥ 95 %, yellow 80–94 %, red &lt; 80 %."
+msgstr "<strong>Compliance %</strong> = (Gültig + Bald fällig) ÷ zugewiesene Schulungen, Aktualisierung alle 24 Std. Grün ≥ 95 %, gelb 80–94 %, rot &lt; 80 %."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Example – “Fire and Safety”, 1 year, fixed date 31.12:</strong> 10 learners complete the course at any time in 2026 → certificates valid until 31.12.2026. On 01.01.2027 the system archives the 10 certificates and resets the course for these learners. They redo the same course in 2027 → valid until 31.12.2027. No new course, no re-enrolment, no date changes."
+msgstr "<strong>Beispiel – „Brandschutz“, 1 Jahr, fester Termin 31.12.:</strong> 10 Lernende schließen den Kurs irgendwann 2026 ab → Zertifikate gültig bis 31.12.2026. Am 01.01.2027 archiviert das System die 10 Zertifikate und setzt den Kurs für diese Lernenden zurück. 2027 wird derselbe Kurs erneut absolviert → gültig bis 31.12.2027. Kein neuer Kurs, keine neue Einschreibung, keine Datumsänderungen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Expiry, fixed date:</strong> completed in year Y → valid until DD.MM of year Y + (N − 1). For 1 year / 31.12 that is the end of the same year."
+msgstr "<strong>Ablauf, fester Termin:</strong> Abschluss im Jahr J → gültig bis TT.MM. des Jahres J + (N − 1). Bei 1 Jahr / 31.12. ist das das Ende desselben Jahres."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Expiry, from completion:</strong> completion date + N years − 1 day (e.g. 15.03.2026 → 14.03.2027)."
+msgstr "<strong>Ablauf, ab Abschluss:</strong> Abschlussdatum + N Jahre − 1 Tag (z. B. 15.03.2026 → 14.03.2027)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Reset</strong> reverts all changes saved since the last sync, including workplace changes."
+msgstr "<strong>Zurücksetzen</strong> verwirft alle seit der letzten Synchronisierung gespeicherten Änderungen, auch Arbeitsplatzänderungen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "<strong>Sync with LMS now</strong> sends only the saved changes as one queued background job. Only one sync per site can run at a time. While it runs, the button is disabled and a “Sync in progress” message is shown (also in the header on every page); you can keep working, and new changes go with the next sync."
+msgstr "<strong>Jetzt mit LMS synchronisieren</strong> überträgt nur die gespeicherten Änderungen als einen Hintergrundauftrag in der Warteschlange. Pro Seite läuft immer nur eine Synchronisierung. Währenddessen ist die Schaltfläche deaktiviert und „Synchronisierung läuft“ wird angezeigt (auch in der Kopfzeile jeder Seite); Sie können weiterarbeiten, neue Änderungen werden mit der nächsten Synchronisierung übertragen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "A sync is already running for this site."
+msgstr "Für diese Seite läuft bereits eine Synchronisierung."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "ARCHIVED on {date} by the re-certification reset – no longer valid"
+msgstr "ARCHIVIERT am {date} durch die Rezertifizierung – nicht mehr gültig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Action"
+msgstr "Aktion"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Add employee"
+msgstr "Mitarbeiter/in hinzufügen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "All actions"
+msgstr "Alle Aktionen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "All sources"
+msgstr "Alle Quellen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "All states"
+msgstr "Alle Zustände"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "All trainings"
+msgstr "Alle Schulungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "All validity periods"
+msgstr "Alle Gültigkeitsdauern"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "An employee gets the trainings of <em>all</em> their workplaces. Removing a workplace only removes trainings that no other workplace of the employee covers and that were not assigned individually."
+msgstr "Mitarbeitende erhalten die Schulungen <em>aller</em> ihrer Arbeitsplätze. Beim Entfernen eines Arbeitsplatzes werden nur Schulungen entfernt, die kein anderer Arbeitsplatz der Person abdeckt und die nicht einzeln zugewiesen wurden."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Applied"
+msgstr "Übernommen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Apply to selected"
+msgstr "Auf Auswahl anwenden"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Assign employees to one or more workplaces in the <a href=\"/compliance/matrix/\">Compliance Matrix</a>: click ▶ next to the name."
+msgstr "Ordnen Sie Mitarbeitende in der <a href=\"/compliance/matrix/\">Compliance-Matrix</a> einem oder mehreren Arbeitsplätzen zu: Klicken Sie auf ▶ neben dem Namen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Assignment added"
+msgstr "Zuweisung hinzugefügt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Assignment removed"
+msgstr "Zuweisung entfernt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Audit Log"
+msgstr "Änderungsprotokoll"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Avg. grade"
+msgstr "Ø Note"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Before any workplace change is applied, a pop-up lists every training that will be added or removed. Cancel leaves everything unchanged."
+msgstr "Bevor eine Arbeitsplatzänderung übernommen wird, zeigt ein Pop-up jede Schulung, die hinzugefügt oder entfernt wird. „Abbrechen“ lässt alles unverändert."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Block completion (progress, “resume” position)"
+msgstr "Abschluss der Lerneinheiten (Fortschritt, „Fortsetzen“-Position)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Business rules"
+msgstr "Regeln"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate + grades are archived (incl. PDF), the certificate is invalidated, progress is reset."
+msgstr "Zertifikat und Noten werden archiviert (inkl. PDF), das Zertifikat wird ungültig, der Fortschritt wird zurückgesetzt."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate ID: {id}"
+msgstr "Zertifikats-ID: {id}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate expires soon"
+msgstr "Zertifikat läuft bald ab"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate issued"
+msgstr "Zertifikat ausgestellt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate of Completion"
+msgstr "Teilnahmezertifikat"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate status"
+msgstr "Zertifikatsstatus"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate valid"
+msgstr "Zertifikat gültig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate valid until the expiry date (e.g. 31.12. or N years after completion). The learner is emailed before it expires."
+msgstr "Zertifikat gültig bis zum Ablaufdatum (z. B. 31.12. oder N Jahre nach Abschluss). Vor dem Ablauf erhalten die Lernenden eine E-Mail."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate {id}"
+msgstr "Zertifikat {id}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificate: ID, issue date, expiry date, grade, mode, verify link"
+msgstr "Zertifikat: ID, Ausstellungsdatum, Ablaufdatum, Note, Modus, Prüf-Link"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificates archived"
+msgstr "Archivierte Zertifikate"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Certificates are processed by the nightly job right after their expiry date (e.g. expiry 31.12.2026 → processed 01.01.2027 at night). Learners are emailed in advance, and you can preview exactly who will be reset."
+msgstr "Zertifikate werden vom nächtlichen Lauf direkt nach ihrem Ablaufdatum verarbeitet (z. B. Ablauf 31.12.2026 → verarbeitet in der Nacht zum 01.01.2027). Die Lernenden werden vorab per E-Mail informiert, und Sie können genau sehen, wer zurückgesetzt wird."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Change log"
+msgstr "Änderungsprotokoll"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Choose “Site default policy” or “Custom policy”."
+msgstr "Wählen Sie „Standardrichtlinie der Seite“ oder „Eigene Richtlinie“."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Clear selection"
+msgstr "Auswahl aufheben"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Click a switch to assign / remove a training (on / off). Every click is saved automatically (no Save button); enrolment or un-enrolment happens in the LMS at the next synchronisation. Click ▶ next to a name to change the employee's workplaces."
+msgstr "Klicken Sie auf einen Schalter, um eine Schulung zuzuweisen bzw. zu entfernen (Ein / Aus). Jeder Klick wird automatisch gespeichert (keine Speichern-Schaltfläche); Ein- bzw. Austragung im LMS erfolgen bei der nächsten Synchronisierung. Mit ▶ neben einem Namen ändern Sie die Arbeitsplätze der Person."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Completed with errors"
+msgstr "Mit Fehlern abgeschlossen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Completed: {date}"
+msgstr "Abgeschlossen: {date}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Completion rate"
+msgstr "Abschlussquote"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Compliance"
+msgstr "Compliance"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Compliance Matrix"
+msgstr "Compliance-Matrix"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Compliance monitoring and training assignment"
+msgstr "Compliance-Überwachung und Schulungszuweisung"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Configure how long certificates stay valid. When a certificate expires, it is archived and the learner's progress is reset automatically in the <strong>same course</strong>, so no yearly course re-runs are needed."
+msgstr "Legen Sie fest, wie lange Zertifikate gültig sind. Läuft ein Zertifikat ab, wird es archiviert und der Fortschritt im <strong>selben Kurs</strong> automatisch zurückgesetzt – jährliche Kurswiederholungen sind nicht nötig."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Content, videos and quizzes stay unchanged. The course itself is never copied."
+msgstr "Inhalte, Videos und Tests bleiben unverändert. Der Kurs selbst wird nie kopiert."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Course"
+msgstr "Kurs"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Course / workplace"
+msgstr "Kurs / Arbeitsplatz"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Course Progress"
+msgstr "Kursfortschritt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Course policies"
+msgstr "Kursrichtlinien"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Courses"
+msgstr "Kurse"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Courses & Certificate History"
+msgstr "Kurse & Zertifikatshistorie"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Current certificate → invalidated, so a new one can be issued"
+msgstr "Aktuelles Zertifikat → ungültig, damit ein neues ausgestellt werden kann"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Custom"
+msgstr "Eigene"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Custom policy"
+msgstr "Eigene Richtlinie"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Cycle: {cycle}"
+msgstr "Zyklus: {cycle}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Daily changes reset"
+msgstr "Tagesänderungen zurückgesetzt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Date & time"
+msgstr "Datum & Uhrzeit"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Days before expiry"
+msgstr "Tage vor Ablauf"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Define which trainings belong to each workplace. Employees assigned to a workplace are enrolled in all trainings switched on here."
+msgstr "Legen Sie fest, welche Schulungen zu jedem Arbeitsplatz gehören. Mitarbeitende eines Arbeitsplatzes werden in alle hier eingeschalteten Schulungen eingeschrieben."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Define workplaces (e.g. Office, Warehouse, First Aid Team) and switch on the trainings that belong to each of them (<a href=\"/compliance/workplaces/\">Workplaces</a>)."
+msgstr "Legen Sie Arbeitsplätze an (z. B. Büro, Lager, Ersthelfer-Team) und schalten Sie die jeweils zugehörigen Schulungen ein (<a href=\"/compliance/workplaces/\">Arbeitsplätze</a>)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Department"
+msgstr "Abteilung"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Done"
+msgstr "Erledigt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Due soon"
+msgstr "Bald fällig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "E-mails sent automatically by the nightly job. Changes are saved immediately."
+msgstr "E-Mails, die der nächtliche Lauf automatisch versendet. Änderungen werden sofort gespeichert."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Email learner before the certificate expires"
+msgstr "Lernende vor Ablauf des Zertifikats per E-Mail informieren"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Email learner when re-certification becomes overdue"
+msgstr "Lernende per E-Mail informieren, wenn die Rezertifizierung überfällig ist"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Email learner when the course has been reset for re-certification"
+msgstr "Lernende per E-Mail informieren, wenn der Kurs zur Rezertifizierung zurückgesetzt wurde"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employee"
+msgstr "Mitarbeiter/in"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employee changed"
+msgstr "Mitarbeiter/in geändert"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employee workplaces changed"
+msgstr "Arbeitsplätze von Mitarbeitenden geändert"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employees"
+msgstr "Mitarbeitende"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employees × trainings with on/off assignment switches, frequency per course, tooltip with history, and the workplaces of each employee (▶ next to the name)."
+msgstr "Mitarbeitende × Schulungen mit Ein/Aus-Schaltern für die Zuweisung, Intervall je Kurs, Tooltip mit Historie und den Arbeitsplätzen je Mitarbeiter/in (▶ neben dem Namen)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Employees, trainings, overall compliance and average grade, per department. Click an employee or course for its report with enrollment date, progress, grade, certificate expiry and certificate history."
+msgstr "Mitarbeitende, Schulungen, Gesamt-Compliance und Durchschnittsnote, je Abteilung. Ein Klick auf Mitarbeiter/in oder Kurs öffnet den Bericht mit Einschreibedatum, Fortschritt, Note, Zertifikatsablauf und Zertifikatshistorie."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Enrolled"
+msgstr "Eingeschrieben"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Enrolled on"
+msgstr "Eingeschrieben am"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Enrollment date, completion date, cycle number"
+msgstr "Einschreibedatum, Abschlussdatum, Zyklusnummer"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Enrollments, completions, grades and certificate validity."
+msgstr "Einschreibungen, Abschlüsse, Noten und Zertifikatsgültigkeit."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Every Monday, to all admins of this site."
+msgstr "Jeden Montag an alle Administrator/innen dieser Seite."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Every assignment, workplace and policy change, re-certification run and synchronisation, with who did it and when. Entries can't be edited or deleted."
+msgstr "Jede Zuweisungs-, Arbeitsplatz- und Richtlinienänderung, jeder Rezertifizierungslauf und jede Synchronisierung – mit Person und Zeitpunkt. Einträge können nicht bearbeitet oder gelöscht werden."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Every change (switch, workplace, frequency) is <strong>saved immediately</strong> in the dashboard, but <strong>not sent to the LMS right away</strong>."
+msgstr "Jede Änderung (Schalter, Arbeitsplatz, Intervall) wird im Dashboard <strong>sofort gespeichert</strong>, aber <strong>nicht sofort an das LMS übertragen</strong>."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Every change with who did it and when (“View changes” shows the details), plus the history of the nightly re-certification runs and the certificate archive."
+msgstr "Jede Änderung mit Person und Zeitpunkt („Änderungen anzeigen“ zeigt die Details) sowie die Historie der nächtlichen Rezertifizierungsläufe und das Zertifikatsarchiv."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Every night the system archives the certificates that expired the day before and resets those learners' progress in the same course. This log shows each run, what was archived and any failures (which can be retried). <strong>Details</strong> opens the certificate archive of the run, with the PDF snapshots kept for audits."
+msgstr "Jede Nacht archiviert das System die am Vortag abgelaufenen Zertifikate und setzt den Fortschritt dieser Lernenden im selben Kurs zurück. Dieses Protokoll zeigt jeden Lauf, was archiviert wurde und alle Fehler (die erneut versucht werden können). <strong>Details</strong> öffnet das Zertifikatsarchiv des Laufs mit den für Audits aufbewahrten PDF-Kopien."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Expired – re-certification in progress"
+msgstr "Abgelaufen – Rezertifizierung läuft"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Expired – re-certification overdue"
+msgstr "Abgelaufen – Rezertifizierung überfällig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Expiring"
+msgstr "Laufen ab"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Expiry date"
+msgstr "Ablaufdatum"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Expiry rule"
+msgstr "Ablaufregel"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Export CSV"
+msgstr "CSV exportieren"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Final course grade and score per assignment type"
+msgstr "Endnote des Kurses und Ergebnis je Aufgabentyp"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Frequency changed"
+msgstr "Intervall geändert"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "From"
+msgstr "Von"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Grade"
+msgstr "Note"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Grade: {grade}%"
+msgstr "Note: {grade} %"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Hello {name},\n\nthe deadline for the training “{course}” was {due} and the course has not been completed yet. Please complete it as soon as possible.\n\nStart now: {course_url}\n\n{site}"
+msgstr "Hallo {name},\n\ndie Frist für die Schulung „{course}“ war der {due}, der Kurs ist noch nicht abgeschlossen. Bitte schließen Sie ihn so bald wie möglich ab.\n\nJetzt starten: {course_url}\n\n{site}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Hello {name},\n\nyour certificate for the training “{course}” expired on {expiry}. It has been archived (you can still find it in your certificate history) and the course has been reset.\nPlease complete the course again by {due}.\n\nStart now: {course_url}\n\n{site}"
+msgstr "Hallo {name},\n\nIhr Zertifikat für die Schulung „{course}“ ist am {expiry} abgelaufen. Es wurde archiviert (Sie finden es weiterhin in Ihrer Zertifikatshistorie) und der Kurs wurde zurückgesetzt.\nBitte schließen Sie den Kurs bis {due} erneut ab.\n\nJetzt starten: {course_url}\n\n{site}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Hello {name},\n\nyour certificate for the training “{course}” is valid until {expiry}.\nAfter that date the course will reopen for re-certification and you will have {grace} days to complete it again.\n\nYour trainings: {url}\n\n{site}"
+msgstr "Hallo {name},\n\nIhr Zertifikat für die Schulung „{course}“ ist bis {expiry} gültig.\nDanach wird der Kurs zur Rezertifizierung wieder geöffnet; Sie haben dann {grace} Tage Zeit, ihn erneut abzuschließen.\n\nIhre Schulungen: {url}\n\n{site}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Hello,\n\nthese training assignments are overdue:\n\n{lines}\n\nCompliance Dashboard: {url}\n"
+msgstr "Hallo,\n\nfolgende Schulungszuweisungen sind überfällig:\n\n{lines}\n\nCompliance-Dashboard: {url}\n"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Help"
+msgstr "Hilfe"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "How the Compliance Dashboard works: screens, workplaces, LMS synchronisation and re-certification."
+msgstr "So funktioniert das Compliance-Dashboard: Ansichten, Arbeitsplätze, LMS-Synchronisierung und Rezertifizierung."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "In"
+msgstr "In"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Invalid date."
+msgstr "Ungültiges Datum."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Invalid expiry rule: {value}"
+msgstr "Ungültige Ablaufregel: {value}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Invalid frequency."
+msgstr "Ungültiges Intervall."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Invalid validity: {value}"
+msgstr "Ungültige Gültigkeit: {value}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Invalid value for {field}: {value}"
+msgstr "Ungültiger Wert für {field}: {value}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "LMS synchronisation"
+msgstr "LMS-Synchronisierung"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Later changes of the site default apply automatically."
+msgstr "Spätere Änderungen der Standardrichtlinie gelten automatisch."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learner Progress"
+msgstr "Lernfortschritt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learner passes the course and receives the certificate."
+msgstr "Der Kurs wird bestanden, das Zertifikat wird ausgestellt."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learner stays enrolled and takes the same content again → new certificate."
+msgstr "Die Einschreibung bleibt bestehen, derselbe Inhalt wird erneut bearbeitet → neues Zertifikat."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learners"
+msgstr "Lernende"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learners / certificates"
+msgstr "Lernende / Zertifikate"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Learners reset"
+msgstr "Zurückgesetzte Lernende"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Loading…"
+msgstr "Wird geladen…"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Manual"
+msgstr "Manuell"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Missing: {fields}"
+msgstr "Fehlt: {fields}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "My Trainings"
+msgstr "Meine Schulungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "N years after completion"
+msgstr "N Jahre nach Abschluss"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "New assignment – not completed yet"
+msgstr "Neue Zuweisung – noch nicht abgeschlossen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "New cycle"
+msgstr "Neuer Zyklus"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "New expiry dates apply immediately to current certificates. Archived certificates are not changed."
+msgstr "Neue Ablaufdaten gelten sofort für aktuelle Zertifikate. Archivierte Zertifikate bleiben unverändert."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Next expiry"
+msgstr "Nächster Ablauf"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Next expiry run"
+msgstr "Nächster Ablauflauf"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Nightly"
+msgstr "Nächtlich"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "No active user with this username or e-mail."
+msgstr "Kein aktives Benutzerkonto mit diesem Benutzernamen oder dieser E-Mail-Adresse."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "No course selected."
+msgstr "Kein Kurs ausgewählt."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "No pending changes."
+msgstr "Keine ausstehenden Änderungen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Not completed – deadline passed"
+msgstr "Nicht abgeschlossen – Frist überschritten"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Not possible while a sync is running."
+msgstr "Nicht möglich, solange eine Synchronisierung läuft."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Off"
+msgstr "Aus"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "On"
+msgstr "Ein"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "On a fixed date"
+msgstr "An einem festen Termin"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Once every 24 hours (at night, 03:00) the system syncs with the LMS: enrolment / un-enrolment, frequency changes, re-certification resets and a refresh of all progress and compliance data."
+msgstr "Einmal alle 24 Stunden (nachts, 03:00 Uhr) synchronisiert das System mit dem LMS: Ein- und Austragungen, Intervalländerungen, Rezertifizierungs-Resets und Aktualisierung aller Fortschritts- und Compliance-Daten."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Overdue"
+msgstr "Überfällig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "PDF snapshot of the certificate (proof for audits)"
+msgstr "PDF-Kopie des Zertifikats (Nachweis für Audits)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Pending (not yet synchronised)"
+msgstr "Ausstehend (noch nicht synchronisiert)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Performed by"
+msgstr "Durchgeführt von"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Persistent grades (course + subsection)"
+msgstr "Gespeicherte Noten (Kurs + Unterabschnitte)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Please enter a name."
+msgstr "Bitte geben Sie einen Namen ein."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Please re-certify: “{course}”"
+msgstr "Bitte rezertifizieren: „{course}“"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Policies"
+msgstr "Richtlinien"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Policy changed"
+msgstr "Richtlinie geändert"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Pop-ups that remove trainings have a <strong>Remove training courses</strong> checkbox, checked by default. Unchecked, only the workplace is changed and all enrolments stay as they are."
+msgstr "Pop-ups, die Schulungen entfernen, haben das Kontrollkästchen <strong>Schulungen entfernen</strong> (standardmäßig aktiviert). Deaktiviert wird nur der Arbeitsplatz geändert; alle Einschreibungen bleiben bestehen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Problem / quiz answers and attempts, submissions"
+msgstr "Antworten und Versuche bei Aufgaben / Tests, Einreichungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Processed on"
+msgstr "Verarbeitet am"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Progress"
+msgstr "Fortschritt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Progress Tracking"
+msgstr "Lernfortschritt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Queued"
+msgstr "In Warteschlange"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification"
+msgstr "Rezertifizierung"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification lifecycle (same course, every cycle)"
+msgstr "Ablauf der Rezertifizierung (gleicher Kurs, jeder Zyklus)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification reset"
+msgstr "Rezertifizierungs-Reset"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification runs & certificate archive"
+msgstr "Rezertifizierungsläufe & Zertifikatsarchiv"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification without yearly course re-runs"
+msgstr "Rezertifizierung ohne jährliche Kurswiederholungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Re-certification: site default policy (validity 1x / 1 / 2 / 3 / 5 years, expiry on a fixed day + month <em>or</em> N years after completion, deadlines), course policies for one or many courses (site default <em>or</em> custom), notifications and upcoming expiries."
+msgstr "Rezertifizierung: Standardrichtlinie der Seite (Gültigkeit 1x / 1 / 2 / 3 / 5 Jahre, Ablauf an einem festen Tag + Monat <em>oder</em> N Jahre nach Abschluss, Fristen), Kursrichtlinien für einen oder viele Kurse (Standard <em>oder</em> eigene), Benachrichtigungen und anstehende Abläufe."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Reverted"
+msgstr "Zurückgesetzt"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Run"
+msgstr "Lauf"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Running"
+msgstr "Läuft"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Save default policy"
+msgstr "Standardrichtlinie speichern"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Screens"
+msgstr "Ansichten"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Scroll courses horizontally"
+msgstr "Kurse horizontal scrollen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Search course…"
+msgstr "Kurs suchen…"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Search employee, course, workplace or admin…"
+msgstr "Mitarbeiter/in, Kurs, Arbeitsplatz oder Admin suchen…"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Search employee…"
+msgstr "Mitarbeiter/in suchen…"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Select all"
+msgstr "Alle auswählen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Sent once, this many days before the expiry date."
+msgstr "Wird einmal gesendet, so viele Tage vor dem Ablaufdatum."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Sent the night after the expiry date, when the certificate is archived and the course is reset."
+msgstr "Wird in der Nacht nach dem Ablaufdatum gesendet, wenn das Zertifikat archiviert und der Kurs zurückgesetzt wird."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Sent when the re-certification or first-time deadline has passed."
+msgstr "Wird gesendet, wenn die Rezertifizierungs- oder Erstfrist überschritten ist."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Single switches in the matrix can still be changed by hand, e.g. for an individual extra training. Such individual assignments are kept when a workplace is removed (the switch tooltip shows “Via: individual assignment”)."
+msgstr "Einzelne Schalter in der Matrix können weiterhin von Hand geändert werden, z. B. für eine zusätzliche Einzelschulung. Solche Einzelzuweisungen bleiben beim Entfernen eines Arbeitsplatzes erhalten (der Tooltip des Schalters zeigt „Über: Einzelzuweisung“)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Site default"
+msgstr "Seitenstandard"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Site default policy"
+msgstr "Standardrichtlinie der Seite"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Source"
+msgstr "Quelle"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "State"
+msgstr "Zustand"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Status"
+msgstr "Status"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Switching a training off and on again keeps its certificate history."
+msgstr "Aus- und Wiedereinschalten einer Schulung behält ihre Zertifikatshistorie."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Synchronisation"
+msgstr "Synchronisierung"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "System"
+msgstr "System"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "The course follows the site default above:"
+msgstr "Der Kurs folgt der obigen Standardrichtlinie:"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "The course gets its own settings (below). Changes of the site default no longer affect it."
+msgstr "Der Kurs erhält eigene Einstellungen (unten). Änderungen der Standardrichtlinie wirken sich nicht mehr aus."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "The course stays the same; on the certificate's expiry date the system archives the certificate and resets the learner's progress in that course automatically."
+msgstr "Der Kurs bleibt derselbe; am Ablaufdatum des Zertifikats archiviert das System das Zertifikat und setzt den Fortschritt im Kurs automatisch zurück."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "The training is switched ON in the matrix (by hand or through a workplace). The learner is enrolled at the next sync."
+msgstr "Die Schulung ist in der Matrix eingeschaltet (von Hand oder über einen Arbeitsplatz). Die Einschreibung erfolgt bei der nächsten Synchronisierung."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "These statuses are shown in Progress tracking. The matrix switches only show <strong>on / off</strong> (assigned or not)."
+msgstr "Diese Status werden im Lernfortschritt angezeigt. Die Schalter der Matrix zeigen nur <strong>Ein / Aus</strong> (zugewiesen oder nicht)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "This certifies that"
+msgstr "Hiermit wird bestätigt, dass"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Tick one course, or several, and change their policy in the panel below (works the same for 10 or 10,000 courses)."
+msgstr "Markieren Sie einen oder mehrere Kurse und ändern Sie deren Richtlinie im Bereich darunter (funktioniert gleich für 10 oder 10.000 Kurse)."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Tick one or more courses in the table below to change their re-certification policy."
+msgstr "Markieren Sie einen oder mehrere Kurse in der Tabelle unten, um deren Rezertifizierungsrichtlinie zu ändern."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "To"
+msgstr "Bis"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Training Compliance Matrix"
+msgstr "Schulungs-Compliance-Matrix"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Training overdue: “{course}”"
+msgstr "Schulung überfällig: „{course}“"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Trigger"
+msgstr "Auslöser"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Unknown course"
+msgstr "Unbekannter Kurs"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Unknown employee"
+msgstr "Unbekannte/r Mitarbeiter/in"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Unknown workplace"
+msgstr "Unbekannter Arbeitsplatz"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Unsaved changes"
+msgstr "Ungespeicherte Änderungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Upcoming expiries"
+msgstr "Anstehende Abläufe"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Used by every course set to “Site default policy” (see Course policies below). Applies only to this site. All settings below are set at the same time and work together: each one controls a different step of the certificate lifecycle."
+msgstr "Gilt für jeden Kurs mit „Standardrichtlinie der Seite“ (siehe Kursrichtlinien unten) und nur für diese Seite. Alle Einstellungen unten gelten gleichzeitig und greifen ineinander: Jede steuert einen anderen Schritt im Lebenszyklus des Zertifikats."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Valid"
+msgstr "Gültig"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Valid certs"
+msgstr "Gültige Zert."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Valid until"
+msgstr "Gültig bis"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Valid until: {date}"
+msgstr "Gültig bis: {date}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Valid: no expiry"
+msgstr "Gültig: kein Ablauf"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Validity"
+msgstr "Gültigkeit"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Weekly summary to site admins on overdue assignments"
+msgstr "Wöchentliche Übersicht überfälliger Zuweisungen an die Administrator/innen der Seite"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "What a learner sees: assigned trainings, deadlines, status and their certificate history including archived certificates."
+msgstr "Die Sicht der Lernenden: zugewiesene Schulungen, Fristen, Status und Zertifikatshistorie inklusive archivierter Zertifikate."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "What is archived (kept forever)"
+msgstr "Was archiviert wird (dauerhaft aufbewahrt)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "What is reset (like a new enrollment)"
+msgstr "Was zurückgesetzt wird (wie bei einer neuen Einschreibung)"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Which policy should the selected course(s) use?"
+msgstr "Welche Richtlinie sollen die ausgewählten Kurse verwenden?"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Workplace"
+msgstr "Arbeitsplatz"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Workplace changed"
+msgstr "Arbeitsplatz geändert"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Workplaces"
+msgstr "Arbeitsplätze"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Workplaces × trainings. A workplace is a set of trainings; employees assigned to it are enrolled in all of them. Add, rename or delete workplaces."
+msgstr "Arbeitsplätze × Schulungen. Ein Arbeitsplatz ist eine Gruppe von Schulungen; zugewiesene Mitarbeitende werden in alle eingeschrieben. Arbeitsplätze anlegen, umbenennen oder löschen."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "Your certificate for “{course}” expires on {expiry}"
+msgstr "Ihr Zertifikat für „{course}“ läuft am {expiry} ab"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "after completion"
+msgstr "nach Abschluss"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "certificate expires within the warning period, <em>or</em> it expired and the learner is still within the re-certification deadline, <em>or</em> a new assignment within its first deadline."
+msgstr "Zertifikat läuft innerhalb der Warnfrist ab, <em>oder</em> es ist abgelaufen und die Rezertifizierungsfrist läuft noch, <em>oder</em> eine neue Zuweisung innerhalb der Erstfrist."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "days before"
+msgstr "Tage vorher"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "either / or"
+msgstr "entweder / oder"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "fixed date {date}"
+msgstr "fester Termin {date}"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "re-certification or first-time deadline passed without completion."
+msgstr "Rezertifizierungs- oder Erstfrist ohne Abschluss überschritten."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "successfully completed the course"
+msgstr "den folgenden Kurs erfolgreich abgeschlossen hat"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "valid certificate, expiry more than the warning period away."
+msgstr "gültiges Zertifikat, Ablauf außerhalb der Warnfrist."
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "{n} year"
+msgid_plural "{n} years"
+msgstr[0] "{n} Jahr"
+msgstr[1] "{n} Jahre"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "{site}: {n} overdue training assignment"
+msgid_plural "{site}: {n} overdue training assignments"
+msgstr[0] "{site}: {n} überfällige Schulungszuweisung"
+msgstr[1] "{site}: {n} überfällige Schulungszuweisungen"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "{years} · {rule} · due soon {warn} d · re-cert. {grace} d · first time {initial} d"
+msgstr "{years} · {rule} · bald fällig {warn} T · Rezert. {grace} T · Erstfrist {initial} T"
+
+#: training_compliance (Python, Mako)
+msgctxt "training_compliance"
+msgid "… and {n} more – see the dashboard."
+msgstr "… und {n} weitere – siehe Dashboard."
