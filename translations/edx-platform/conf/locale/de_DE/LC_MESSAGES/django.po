@@ -32643,8 +32643,8 @@ msgid "Incident response plan: We have an incident response plan in place to han
 msgstr "Datenschutzvorfälle: Sollte es zu einem Datenschutzvorfall kommen, werden die betroffenen Personen und die zuständigen Behörden unverzüglich informiert."
 
 #: Data protection policy
-msgid "(4) Changes to this Policy"
-msgstr "(4) Änderungen dieser Datenschutzerklärung"
+msgid "Changes to this Policy"
+msgstr "Änderungen dieser Datenschutzerklärung"
 
 #: Data protection policy
 msgid "We may update this privacy policy from time to time, and the latest version will be posted on our website. In such case, users will be notified via email."
