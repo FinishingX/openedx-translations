@@ -36865,3 +36865,371 @@ msgstr "Bitte melden Sie sich an, um dieses Formular abzusenden"
 #: SafetySlides checkout (static_templates/safetyslides_checkout.html)
 msgid "Only logged-in users can submit a training request. Log in first, so that your entries and uploaded documents are not lost."
 msgstr "Nur angemeldete Benutzer können eine Schulungsanfrage absenden. Bitte melden Sie sich zuerst an, damit Ihre Eingaben und hochgeladenen Dokumente nicht verloren gehen."
+
+
+#: SafetySlides checkout
+msgid "FishingX SafetySlides"
+msgstr "FishingX SafetySlides"
+
+#: SafetySlides checkout
+msgid "Uploading your documents and submitting your request. Please keep this page open."
+msgstr "Ihre Unterlagen werden hochgeladen und Ihre Anfrage wird übermittelt. Bitte lassen Sie diese Seite geöffnet."
+
+#: SafetySlides checkout
+msgid "Your training request has been submitted successfully."
+msgstr "Ihre Anfrage zur Erstellung einer Unterweisung wurde erfolgreich übermittelt."
+
+#: SafetySlides checkout
+msgid "Request reference:"
+msgstr "Referenznummer der Anfrage:"
+
+#: SafetySlides checkout
+msgid "Unable to confirm submission. Check your connection and the request status before trying again."
+msgstr "Die Übermittlung konnte nicht bestätigt werden. Prüfen Sie Ihre Internetverbindung und den Status Ihrer Anfrage, bevor Sie es erneut versuchen."
+
+#: SafetySlides checkout
+msgid "The server did not return the expected confirmation. Please check the submission endpoint configuration and request status before trying again."
+msgstr "Der Server hat nicht die erwartete Bestätigung zurückgegeben. Bitte prüfen Sie die Konfiguration des Übermittlungsendpunkts und den Status der Anfrage, bevor Sie es erneut versuchen."
+
+#: SafetySlides checkout
+msgid "The request was rejected. Your session may have expired, or you may not have permission. Refresh the page and try again."
+msgstr "Die Anfrage wurde abgelehnt. Möglicherweise ist Ihre Sitzung abgelaufen oder Ihnen fehlt die erforderliche Berechtigung. Laden Sie die Seite neu und versuchen Sie es erneut."
+
+#: SafetySlides checkout
+msgid "The submission endpoint was not found. Please check the form action URL."
+msgstr "Der Übermittlungsendpunkt wurde nicht gefunden. Bitte prüfen Sie die im Formular hinterlegte Ziel-URL."
+
+#: SafetySlides checkout
+msgid "The uploaded files exceed the server upload limit. Please reduce the file sizes and try again."
+msgstr "Die hochgeladenen Dateien überschreiten die serverseitig zulässige Upload-Größe. Bitte verkleinern Sie die Dateien und versuchen Sie es erneut."
+
+#: SafetySlides checkout
+msgid "The server could not confirm the request. Please check its status before trying again."
+msgstr "Der Server konnte die Anfrage nicht bestätigen. Bitte prüfen Sie den Status Ihrer Anfrage, bevor Sie es erneut versuchen."
+
+#: SafetySlides checkout
+msgid "The submission endpoint must be on this website. Please check the form configuration."
+msgstr "Der Übermittlungsendpunkt muss zu dieser Website gehören. Bitte prüfen Sie die Formularkonfiguration."
+
+#: SafetySlides checkout
+msgid "Product"
+msgstr "Produkt"
+
+#: SafetySlides checkout
+msgid "Get ready for the revolution in the field of occupational safety training!"
+msgstr "Erleben Sie die Revolution bei Unterweisungen im Arbeitsschutz!"
+
+#: SafetySlides checkout
+msgid "Fields marked with * are required."
+msgstr "Mit * gekennzeichnete Felder sind Pflichtfelder."
+
+#: SafetySlides checkout
+msgid "Training title"
+msgstr "Titel der Unterweisung"
+
+#: SafetySlides checkout
+msgid "Please enter a training title."
+msgstr "Bitte geben Sie einen Titel für die Unterweisung ein."
+
+#: SafetySlides checkout
+msgid "What do you want to create?"
+msgstr "Was möchten Sie erstellen?"
+
+#: SafetySlides checkout
+msgid "Please select a training format."
+msgstr "Bitte wählen Sie ein Unterweisungsformat aus."
+
+#: SafetySlides checkout
+msgid "Please select"
+msgstr "Bitte auswählen"
+
+#: SafetySlides checkout
+msgid "PowerPoint Presentation"
+msgstr "PowerPoint-Präsentation"
+
+#: SafetySlides checkout
+msgid "Request type"
+msgstr "Art der Anfrage"
+
+#: SafetySlides checkout
+msgid "New training"
+msgstr "Neue Unterweisung"
+
+#: SafetySlides checkout
+msgid "Extension"
+msgstr "Erweiterung"
+
+#: SafetySlides checkout
+msgid "New training:"
+msgstr "Neue Unterweisung:"
+
+#: SafetySlides checkout
+msgid "New training based on materials provided."
+msgstr "Erstellung einer neuen Unterweisung auf Grundlage der bereitgestellten Unterlagen."
+
+#: SafetySlides checkout
+msgid "Extension:"
+msgstr "Erweiterung:"
+
+#: SafetySlides checkout
+msgid "For this option, existing PowerPoint slides must be provided. We will review them and create complementary content based on your requirements. This avoids duplicate content and allows existing approved slides to be reused. The final training will contain the existing and new content as separate sections."
+msgstr "Für diese Option müssen vorhandene PowerPoint-Folien bereitgestellt werden. Wir prüfen diese und erstellen ergänzende Inhalte entsprechend Ihren Anforderungen. Dadurch werden doppelte Inhalte vermieden und bereits freigegebene Folien können weiterverwendet werden. Die fertige Unterweisung enthält die vorhandenen und die neuen Inhalte in getrennten Abschnitten."
+
+#: SafetySlides checkout
+msgid "Training content"
+msgstr "Inhalte der Unterweisung"
+
+#: SafetySlides checkout
+msgid "Please describe the training content."
+msgstr "Bitte beschreiben Sie die gewünschten Unterweisungsinhalte."
+
+#: SafetySlides checkout
+msgid "Describe the topics, target audience, learning objectives, and any specific requirements."
+msgstr "Beschreiben Sie die Themen, die Zielgruppe, die Lernziele und gegebenenfalls besondere Anforderungen."
+
+#: SafetySlides checkout
+msgid "Training duration (minutes)"
+msgstr "Dauer der Unterweisung (Minuten)"
+
+#: SafetySlides checkout
+msgid "Please enter the training duration."
+msgstr "Bitte geben Sie die Dauer der Unterweisung ein."
+
+#: SafetySlides checkout
+msgid "Please enter a whole number between 1 and 30."
+msgstr "Bitte geben Sie eine ganze Zahl zwischen 1 und 30 ein."
+
+#: SafetySlides checkout
+msgid "Currently the upper limit is 30 minutes. If you wish to create more extensive trainings, create multiple requests. Trainings can be easily merged once created."
+msgstr "Derzeit beträgt die maximale Dauer 30 Minuten. Für umfangreichere Unterweisungen stellen Sie bitte mehrere Anfragen. Die erstellten Unterweisungen lassen sich anschließend einfach zusammenführen."
+
+#: SafetySlides checkout
+msgid "Quick selection"
+msgstr "Schnellauswahl"
+
+#: SafetySlides checkout
+msgid "Please select a language option."
+msgstr "Bitte wählen Sie eine Sprachoption aus."
+
+#: SafetySlides checkout
+msgid "German only"
+msgstr "Nur Deutsch"
+
+#: SafetySlides checkout
+msgid "English only"
+msgstr "Nur Englisch"
+
+#: SafetySlides checkout
+msgid "German and English"
+msgstr "Deutsch und Englisch"
+
+#: SafetySlides checkout
+msgid "All major business languages"
+msgstr "Alle wichtigen Geschäftssprachen"
+
+#: SafetySlides checkout
+msgid "Which 14 languages are included?"
+msgstr "Welche 14 Sprachen sind enthalten?"
+
+#: SafetySlides checkout
+msgid "Additional languages"
+msgstr "Zusätzliche Sprachen"
+
+#: SafetySlides checkout
+msgid "Optional: select additional languages to add to your quick selection. On a computer, hold Ctrl (Windows) or Command (Mac) to select or deselect multiple options."
+msgstr "Optional: Wählen Sie zusätzliche Sprachen zur Ergänzung Ihrer Schnellauswahl aus. Halten Sie am Computer die Strg-Taste (Windows) oder die Command-Taste (Mac) gedrückt, um mehrere Optionen auszuwählen oder deren Auswahl aufzuheben."
+
+#: SafetySlides checkout
+msgid "For special topics such as dangerous goods the language selection is limited. For general topics such as \"office safety training\" the selection is unlimited."
+msgstr "Bei speziellen Themen wie Gefahrgut ist die Sprachauswahl eingeschränkt. Bei allgemeinen Themen wie \"Arbeitsschutz im Büro\" stehen alle angebotenen Sprachen zur Verfügung."
+
+#: SafetySlides checkout
+msgid "Additional settings"
+msgstr "Zusätzliche Einstellungen"
+
+#: SafetySlides checkout
+msgid "Include test"
+msgstr "Lernerfolgskontrolle hinzufügen"
+
+#: SafetySlides checkout
+msgid "Upload your documents"
+msgstr "Unterlagen hochladen"
+
+#: SafetySlides checkout
+msgid "Please upload your existing PowerPoint slides."
+msgstr "Bitte laden Sie Ihre vorhandenen PowerPoint-Folien hoch."
+
+#: SafetySlides checkout
+msgid "An extension requires at least one PowerPoint file (.ppt or .pptx)."
+msgstr "Für eine Erweiterung ist mindestens eine PowerPoint-Datei (.ppt oder .pptx) erforderlich."
+
+#: SafetySlides checkout
+msgid "File type not allowed. Allowed types: {types}."
+msgstr "Dieser Dateityp ist nicht zulässig. Zulässige Dateitypen: {types}."
+
+#: SafetySlides checkout
+msgid "The file is empty."
+msgstr "Die Datei ist leer."
+
+#: SafetySlides checkout
+msgid "The file must not exceed {size}."
+msgstr "Die Datei darf nicht größer als {size} sein."
+
+#: SafetySlides checkout
+msgid "The file content does not match its file type."
+msgstr "Der Dateiinhalt stimmt nicht mit dem angegebenen Dateityp überein."
+
+#: SafetySlides checkout
+msgid "The file is damaged or not a genuine document."
+msgstr "Die Datei ist beschädigt oder kein gültiges Dokument."
+
+#: SafetySlides checkout
+msgid "Documents with macros, scripts or ActiveX controls are not allowed."
+msgstr "Dokumente mit Makros, Skripten oder ActiveX-Steuerelementen sind nicht zulässig."
+
+#: SafetySlides checkout
+msgid "Password-protected or encrypted documents are not allowed."
+msgstr "Passwortgeschützte oder verschlüsselte Dokumente sind nicht zulässig."
+
+#: SafetySlides checkout
+msgid "The document contains an embedded file that is not allowed."
+msgstr "Das Dokument enthält eine eingebettete Datei, die nicht zulässig ist."
+
+#: SafetySlides checkout
+msgid "The file name is invalid."
+msgstr "Der Dateiname ist ungültig."
+
+#: SafetySlides checkout
+msgid "The document structure is not allowed."
+msgstr "Die Dokumentstruktur ist nicht zulässig."
+
+#: SafetySlides checkout
+msgid "The document is abnormally compressed and was rejected."
+msgstr "Das Dokument weist eine ungewöhnlich hohe Komprimierung auf und wurde abgelehnt."
+
+#: SafetySlides checkout
+msgid "PDF files with scripts, embedded files or automatic actions are not allowed."
+msgstr "PDF-Dateien mit Skripten, eingebetteten Dateien oder automatischen Aktionen sind nicht zulässig."
+
+#: SafetySlides checkout
+msgid "The image dimensions are too large."
+msgstr "Die Bildabmessungen sind zu groß."
+
+#: SafetySlides checkout
+msgid "The file is not a plain text file."
+msgstr "Die Datei ist keine reine Textdatei."
+
+#: SafetySlides checkout
+msgid "You can upload at most {count} files."
+msgstr "Sie können höchstens {count} Dateien hochladen."
+
+#: SafetySlides checkout
+msgid "The uploaded files together must not exceed {size}."
+msgstr "Die Gesamtgröße der hochgeladenen Dateien darf {size} nicht überschreiten."
+
+#: SafetySlides checkout
+msgid "Some selected documents cannot be uploaded. Please remove the files marked in red."
+msgstr "Einige ausgewählte Dokumente können nicht hochgeladen werden. Bitte entfernen Sie die rot markierten Dateien."
+
+#: SafetySlides checkout
+msgid "The file could not be read. Please select it again."
+msgstr "Die Datei konnte nicht gelesen werden. Bitte wählen Sie sie erneut aus."
+
+#: SafetySlides checkout
+msgid "You can upload one or more documents, such as existing slides, internal procedures, risk assessments, or other reference materials."
+msgstr "Sie können ein oder mehrere Dokumente hochladen, beispielsweise vorhandene Präsentationsfolien, betriebliche Verfahrensanweisungen, Gefährdungsbeurteilungen oder weitere Referenzunterlagen."
+
+#: SafetySlides checkout
+msgid "Allowed file types: {types}. Up to {count} files, maximum {size} per file and {total} in total. Documents with macros, scripts, embedded programs or password protection are not accepted."
+msgstr "Zulässige Dateitypen: {types}. Bis zu {count} Dateien, maximal {size} pro Datei und {total} insgesamt. Dokumente mit Makros, Skripten, eingebetteten Programmen oder Passwortschutz werden nicht akzeptiert."
+
+#: SafetySlides checkout
+msgid "Safety Note"
+msgstr "Sicherheitshinweis"
+
+#: SafetySlides checkout
+msgid "Strictly avoid uploading any confidential documents."
+msgstr "Laden Sie keinesfalls vertrauliche Unterlagen hoch."
+
+#: SafetySlides checkout
+msgid "Where possible, avoid uploading files containing personal data. Do not upload any information that could be misused, such as bank account information."
+msgstr "Vermeiden Sie nach Möglichkeit das Hochladen von Dateien mit personenbezogenen Daten. Laden Sie keine Informationen hoch, die missbraucht werden könnten, beispielsweise Bankverbindungsdaten."
+
+#: SafetySlides checkout
+msgid "For an extension, upload your existing PowerPoint slides as a .ppt or .pptx file."
+msgstr "Laden Sie für eine Erweiterung Ihre vorhandenen PowerPoint-Folien als .ppt- oder .pptx-Datei hoch."
+
+#: SafetySlides checkout
+msgid "Selected files"
+msgstr "Ausgewählte Dateien"
+
+#: SafetySlides checkout
+msgid "Remove invalid files"
+msgstr "Ungültige Dateien entfernen"
+
+#: SafetySlides checkout
+msgid "Please accept our Privacy Policy."
+msgstr "Bitte stimmen Sie der Nutzung Ihrer personenbezogenen Daten gemäß unserer Datenschutzerklärung zu."
+
+#: SafetySlides checkout
+msgid "Please accept the Terms of Use."
+msgstr "Bitte akzeptieren Sie die Nutzungsbedingungen."
+
+#: SafetySlides checkout
+msgid "Submitting data"
+msgstr "Daten werden übermittelt"
+
+#: SafetySlides checkout
+msgid "Submit request"
+msgstr "Anfrage absenden"
+
+#: SafetySlides checkout
+msgid "How long does it take to create the training?"
+msgstr "Wie lange dauert die Erstellung der Unterweisung?"
+
+#: SafetySlides checkout
+msgid "2 working days."
+msgstr "2 Arbeitstage."
+
+#: SafetySlides checkout
+msgid "Can the tool be used to create site-specific training materials?"
+msgstr "Können mit dem Tool betriebsspezifische Unterweisungsunterlagen erstellt werden?"
+
+#: SafetySlides checkout
+msgid "In general the tool is designed to tackle the issue of online training not being site-specific. That does not mean it creates ready-to-use site-specific training material. You will receive general safety training which considers any internal documents uploaded, such as procedures or risk assessments. This helps to avoid conflicts with site-specific rules and requirements. However, you must generally provide the site-specific content. For instance, for annual fire safety training, you should supply slides covering emergency exits, assembly points and site procedures. The tool will then add general fire safety content to create a complete training package. If any obvious information is missing (e.g. information about emergency exits in fire safety training), you will be provided with a summary of recommended additional content."
+msgstr "Das Tool soll grundsätzlich dabei helfen, Online-Unterweisungen besser auf betriebliche Gegebenheiten abzustimmen. Das bedeutet jedoch nicht, dass es unmittelbar einsatzbereite, betriebsspezifische Unterweisungsunterlagen erstellt. Sie erhalten eine allgemeine Sicherheitsunterweisung, bei deren Erstellung hochgeladene betriebliche Unterlagen wie Verfahrensanweisungen oder Gefährdungsbeurteilungen berücksichtigt werden. Dies hilft, Widersprüche zu betriebsspezifischen Regelungen und Anforderungen zu vermeiden. Die betriebsspezifischen Inhalte müssen Sie jedoch grundsätzlich selbst bereitstellen. Für die jährliche Brandschutzunterweisung sollten Sie beispielsweise Folien zu Notausgängen, Sammelstellen und betrieblichen Abläufen bereitstellen. Das Tool ergänzt diese um allgemeine Brandschutzinhalte zu einem vollständigen Unterweisungspaket. Fehlen offensichtlich wichtige Angaben, beispielsweise zu Notausgängen in einer Brandschutzunterweisung, erhalten Sie eine Übersicht mit Empfehlungen für ergänzende Inhalte."
+
+#: SafetySlides checkout
+msgid "Does the tool use AI to create slides?"
+msgstr "Erstellt das Tool die Folien mithilfe künstlicher Intelligenz?"
+
+#: SafetySlides checkout
+msgid "No, all slides are created by humans. AI assists with the selection of topics and the translation process."
+msgstr "Nein, alle Folien werden von Menschen erstellt. Künstliche Intelligenz unterstützt bei der Themenauswahl und beim Übersetzungsprozess."
+
+#: SafetySlides checkout
+msgid "How is data protection handled?"
+msgstr "Wie wird der Datenschutz gewährleistet?"
+
+#: SafetySlides checkout
+msgid "We take data protection seriously and use only GDPR-compliant software."
+msgstr "Wir nehmen den Datenschutz ernst und setzen ausschließlich DSGVO-konforme Software ein."
+
+#: SafetySlides checkout
+msgid "Does FinishingX guarantee the legal compliance of the training?"
+msgstr "Garantiert FinishingX die Rechtskonformität der Unterweisung?"
+
+#: SafetySlides checkout
+msgid "We take every effort possible to ensure the quality of the resulting training. The user must check the material before use."
+msgstr "Wir unternehmen alle möglichen Anstrengungen, um die Qualität der erstellten Unterweisung sicherzustellen. Die Unterlagen müssen vor der Verwendung durch den Anwender geprüft werden."
+
+#: SafetySlides checkout
+msgid "Does the training include videos?"
+msgstr "Enthält die Unterweisung Videos?"
+
+#: SafetySlides checkout
+msgid "The online training is video-based. PowerPoint training is generally not video-based; however, in some cases, videos are included on hidden slides to complement the PowerPoint content. Users can choose whether to include these slides in the PowerPoint training by unhiding them."
+msgstr "Die Online-Unterweisung ist videobasiert. PowerPoint-Unterweisungen sind in der Regel nicht videobasiert. In einigen Fällen sind jedoch auf ausgeblendeten Folien Videos enthalten, die die PowerPoint-Inhalte ergänzen. Anwender können selbst entscheiden, ob sie diese Folien in die PowerPoint-Unterweisung aufnehmen möchten, indem sie die Folien wieder einblenden."
+
+
+
