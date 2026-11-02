@@ -37717,4 +37717,623 @@ msgid "No additional fee will be charged without the prior agreement with the Bu
 msgstr "Ohne vorherige Vereinbarung mit dem Käufer wird kein zusätzliches Entgelt berechnet."
 
 
+# Privacy SafetySlides
+msgid "PRIVACY INFORMATION FOR SAFETYSLIDES"
+msgstr "DATENSCHUTZHINWEISE FÜR SAFETYSLIDES"
+
+# Privacy SafetySlides
+msgid "SCOPE"
+msgstr "GELTUNGSBEREICH"
+
+# Privacy SafetySlides
+msgid "These Privacy Information provisions apply to the customer-specific creation of presentations and training materials offered under the name \"SafetySlides\"."
+msgstr "Diese Datenschutzhinweise gelten für die kundenspezifische Erstellung von Präsentationen und Unterweisungsunterlagen, die unter dem Namen \"SafetySlides\" angeboten wird."
+
+# Privacy SafetySlides
+msgid "SafetySlides is separate from the FinishingX membership, learning platform, user-account administration and training-participation management. The other sections of the FinishingX Privacy Policy continue to apply to those processing activities."
+msgstr "SafetySlides ist von der FinishingX-Mitgliedschaft, der Lernplattform, der Benutzerkontenverwaltung und der Verwaltung der Unterweisungsteilnahme getrennt. Für diese Verarbeitungstätigkeiten gelten weiterhin die übrigen Abschnitte der Datenschutzerklärung von FinishingX."
+
+# Privacy SafetySlides
+msgid "CONTROLLER AND PROCESSOR ROLES"
+msgstr "ROLLEN ALS VERANTWORTLICHER UND AUFTRAGSVERARBEITER"
+
+# Privacy SafetySlides
+msgid "Where a business customer provides FinishingX with materials containing personal data, the customer generally determines why these data are processed and is therefore the controller within the meaning of Article 4(7) GDPR."
+msgstr "Stellt ein Geschäftskunde FinishingX Materialien mit personenbezogenen Daten zur Verfügung, bestimmt der Kunde grundsätzlich, zu welchem Zweck diese Daten verarbeitet werden, und ist daher Verantwortlicher im Sinne von Artikel 4 Nummer 7 DSGVO."
+
+# Privacy SafetySlides
+msgid "FinishingX generally processes these data exclusively to carry out the order of the customer and according to the documented instructions of the customer. FinishingX therefore acts as processor within the meaning of Articles 4(8) and 28 GDPR."
+msgstr "FinishingX verarbeitet diese Daten grundsätzlich ausschließlich zur Durchführung des Kundenauftrags und gemäß den dokumentierten Weisungen des Kunden. FinishingX handelt daher als Auftragsverarbeiter im Sinne von Artikel 4 Nummer 8 und Artikel 28 DSGVO."
+
+# Privacy SafetySlides
+msgid "FinishingX acts as an independent controller where it processes personal data for its own purposes, including:"
+msgstr "FinishingX handelt als eigenständig Verantwortlicher, soweit personenbezogene Daten für eigene Zwecke verarbeitet werden, darunter:"
+
+# Privacy SafetySlides
+msgid "processing orders and enquiries;"
+msgstr "Bearbeitung von Aufträgen und Anfragen;"
+
+# Privacy SafetySlides
+msgid "communicating with customer representatives;"
+msgstr "Kommunikation mit Vertretern des Kunden;"
+
+# Privacy SafetySlides
+msgid "contract administration;"
+msgstr "Vertragsverwaltung;"
+
+# Privacy SafetySlides
+msgid "invoicing and accounting;"
+msgstr "Rechnungsstellung und Buchhaltung;"
+
+# Privacy SafetySlides
+msgid "IT security;"
+msgstr "IT-Sicherheit;"
+
+# Privacy SafetySlides
+msgid "prevention of fraud and misuse; and"
+msgstr "Verhinderung von Betrug und Missbrauch; und"
+
+# Privacy SafetySlides
+msgid "compliance with legal obligations."
+msgstr "Erfüllung gesetzlicher Verpflichtungen."
+
+# Privacy SafetySlides
+msgid "PURPOSE OF PROCESSING"
+msgstr "ZWECK DER VERARBEITUNG"
+
+# Privacy SafetySlides
+msgid "Customers may provide FinishingX with documents and information such as risk assessments, standard operating procedures, operating instructions, policies, presentations, images or other workplace-related materials."
+msgstr "Kunden können FinishingX Dokumente und Informationen wie Gefährdungsbeurteilungen, betriebliche Verfahrensanweisungen, Betriebsanweisungen, Richtlinien, Präsentationen, Bilder oder andere arbeitsplatzbezogene Materialien zur Verfügung stellen."
+
+# Privacy SafetySlides
+msgid "FinishingX processes these materials to:"
+msgstr "FinishingX verarbeitet diese Materialien, um:"
+
+# Privacy SafetySlides
+msgid "understand the customer's workplace and training requirements;"
+msgstr "die Gegebenheiten am Arbeitsplatz und den Unterweisungsbedarf des Kunden zu verstehen;"
+
+# Privacy SafetySlides
+msgid "structure and analyse the provided information;"
+msgstr "die bereitgestellten Informationen zu strukturieren und zu analysieren;"
+
+# Privacy SafetySlides
+msgid "identify relevant activities, hazards and company requirements;"
+msgstr "relevante Tätigkeiten, Gefährdungen und betriebliche Anforderungen zu ermitteln;"
+
+# Privacy SafetySlides
+msgid "select suitable content from the FinishingX content library;"
+msgstr "geeignete Inhalte aus der Inhaltsbibliothek von FinishingX auszuwählen;"
+
+# Privacy SafetySlides
+msgid "create customer-specific training materials;"
+msgstr "kundenspezifische Unterweisungsunterlagen zu erstellen;"
+
+# Privacy SafetySlides
+msgid "communicate with the customer and process corrections; and"
+msgstr "mit dem Kunden zu kommunizieren und Korrekturen zu bearbeiten; und"
+
+# Privacy SafetySlides
+msgid "deliver the completed training materials."
+msgstr "die fertiggestellten Unterweisungsunterlagen zu liefern."
+
+# Privacy SafetySlides
+msgid "FinishingX may use AI-assisted tools to support the analysis and structuring of the submitted materials."
+msgstr "FinishingX darf KI-gestützte Werkzeuge einsetzen, um die Analyse und Strukturierung der eingereichten Materialien zu unterstützen."
+
+# Privacy SafetySlides
+msgid "The delivered training is based on content created or lawfully licensed by FinishingX. Customer Materials are used to determine which FinishingX content is suitable and how it should be adapted."
+msgstr "Die gelieferte Unterweisung basiert auf Inhalten, die von FinishingX erstellt oder rechtmäßig lizenziert wurden. Kundenmaterialien werden verwendet, um festzustellen, welche Inhalte von FinishingX geeignet sind und wie diese angepasst werden sollen."
+
+# Privacy SafetySlides
+msgid "Customer Materials are not incorporated into the general FinishingX content library and are not used to create products for other customers."
+msgstr "Kundenmaterialien werden nicht in die allgemeine Inhaltsbibliothek von FinishingX aufgenommen und nicht zur Erstellung von Produkten für andere Kunden verwendet."
+
+# Privacy SafetySlides
+msgid "CATEGORIES OF PERSONAL DATA"
+msgstr "KATEGORIEN PERSONENBEZOGENER DATEN"
+
+# Privacy SafetySlides
+msgid "Depending on the materials submitted by the customer, FinishingX may process:"
+msgstr "Abhängig von den vom Kunden eingereichten Materialien kann FinishingX Folgendes verarbeiten:"
+
+# Privacy SafetySlides
+msgid "names and business contact details;"
+msgstr "Namen und geschäftliche Kontaktdaten;"
+
+# Privacy SafetySlides
+msgid "job titles, functions and responsibilities;"
+msgstr "Berufsbezeichnungen, Funktionen und Zuständigkeiten;"
+
+# Privacy SafetySlides
+msgid "workplace, department and activity information;"
+msgstr "Informationen zu Arbeitsplätzen, Abteilungen und Tätigkeiten;"
+
+# Privacy SafetySlides
+msgid "risk assessments;"
+msgstr "Gefährdungsbeurteilungen;"
+
+# Privacy SafetySlides
+msgid "operating instructions and standard operating procedures;"
+msgstr "Betriebsanweisungen und betriebliche Verfahrensanweisungen;"
+
+# Privacy SafetySlides
+msgid "information concerning equipment, machinery, substances and working procedures;"
+msgstr "Informationen zu Arbeitsmitteln, Maschinen, Stoffen und Arbeitsverfahren;"
+
+# Privacy SafetySlides
+msgid "company safety and emergency information;"
+msgstr "betriebliche Sicherheits- und Notfallinformationen;"
+
+# Privacy SafetySlides
+msgid "document content, filenames and document metadata;"
+msgstr "Dokumentinhalte, Dateinamen und Dokumentmetadaten;"
+
+# Privacy SafetySlides
+msgid "photographs, illustrations, presentations, PDF files and other submitted files;"
+msgstr "Fotografien, Illustrationen, Präsentationen, PDF-Dateien und andere eingereichte Dateien;"
+
+# Privacy SafetySlides
+msgid "names or other information concerning employees, witnesses or other persons;"
+msgstr "Namen oder andere Informationen zu Beschäftigten, Zeugen oder anderen Personen;"
+
+# Privacy SafetySlides
+msgid "information concerning accidents, near misses or workplace events; and"
+msgstr "Informationen zu Unfällen, Beinaheunfällen oder betrieblichen Ereignissen; und"
+
+# Privacy SafetySlides
+msgid "in exceptional cases, health information or other special categories of personal data contained in the submitted materials."
+msgstr "in Ausnahmefällen Gesundheitsinformationen oder andere besondere Kategorien personenbezogener Daten, die in den eingereichten Materialien enthalten sind."
+
+# Privacy SafetySlides
+msgid "Customers must remove or anonymise personal data that is not necessary for the preparation of the requested training."
+msgstr "Kunden müssen personenbezogene Daten entfernen oder anonymisieren, die für die Erstellung der angefragten Unterweisung nicht erforderlich sind."
+
+# Privacy SafetySlides
+msgid "Special-category data, particularly health information, should be submitted only where necessary and where an appropriate legal basis under Article 9 GDPR exists."
+msgstr "Besondere Kategorien personenbezogener Daten, insbesondere Gesundheitsinformationen, sollten nur eingereicht werden, wenn dies erforderlich ist und eine geeignete Rechtsgrundlage gemäß Artikel 9 DSGVO besteht."
+
+# Privacy SafetySlides
+msgid "CATEGORIES OF DATA SUBJECTS"
+msgstr "KATEGORIEN BETROFFENER PERSONEN"
+
+# Privacy SafetySlides
+msgid "Customer Materials may contain personal data relating to:"
+msgstr "Kundenmaterialien können personenbezogene Daten zu folgenden Personen enthalten:"
+
+# Privacy SafetySlides
+msgid "employees of the customer;"
+msgstr "Beschäftigten des Kunden;"
+
+# Privacy SafetySlides
+msgid "managers and company representatives;"
+msgstr "Führungskräften und Unternehmensvertretern;"
+
+# Privacy SafetySlides
+msgid "temporary workers;"
+msgstr "Leiharbeitnehmern;"
+
+# Privacy SafetySlides
+msgid "employees of contractors;"
+msgstr "Beschäftigten von Auftragnehmern;"
+
+# Privacy SafetySlides
+msgid "trainees and interns;"
+msgstr "Auszubildenden und Praktikanten;"
+
+# Privacy SafetySlides
+msgid "occupational-safety specialists;"
+msgstr "Fachkräften für Arbeitssicherheit;"
+
+# Privacy SafetySlides
+msgid "company doctors;"
+msgstr "Betriebsärzten;"
+
+# Privacy SafetySlides
+msgid "first-aiders and emergency personnel;"
+msgstr "Ersthelfern und Notfallpersonal;"
+
+# Privacy SafetySlides
+msgid "visitors;"
+msgstr "Besuchern;"
+
+# Privacy SafetySlides
+msgid "persons involved in or witnessing accidents; and"
+msgstr "an Unfällen beteiligten Personen oder Unfallzeugen; und"
+
+# Privacy SafetySlides
+msgid "other persons identified in submitted documents, images or reports."
+msgstr "anderen Personen, die in eingereichten Dokumenten, Bildern oder Berichten identifiziert werden."
+
+# Privacy SafetySlides
+msgid "LEGAL BASIS"
+msgstr "RECHTSGRUNDLAGE"
+
+# Privacy SafetySlides
+msgid "Where FinishingX processes personal data as processor, the customer is responsible for identifying and documenting the applicable legal basis."
+msgstr "Soweit FinishingX personenbezogene Daten als Auftragsverarbeiter verarbeitet, ist der Kunde für die Ermittlung und Dokumentation der einschlägigen Rechtsgrundlage verantwortlich."
+
+# Privacy SafetySlides
+msgid "Depending on the circumstances, the processing may be based on statutory employer obligations, the employment relationship, a collective agreement, legitimate interests or another appropriate legal basis."
+msgstr "Je nach den Umständen kann die Verarbeitung auf gesetzlichen Arbeitgeberpflichten, dem Beschäftigungsverhältnis, einer Kollektivvereinbarung, berechtigten Interessen oder einer anderen geeigneten Rechtsgrundlage beruhen."
+
+# Privacy SafetySlides
+msgid "Where special categories of personal data are processed, the customer is also responsible for identifying an applicable condition under Article 9(2) GDPR."
+msgstr "Werden besondere Kategorien personenbezogener Daten verarbeitet, ist der Kunde außerdem dafür verantwortlich, einen einschlägigen Erlaubnistatbestand gemäß Artikel 9 Absatz 2 DSGVO zu ermitteln."
+
+# Privacy SafetySlides
+msgid "Where FinishingX acts as an independent controller, processing is based, as applicable, on:"
+msgstr "Soweit FinishingX als eigenständig Verantwortlicher handelt, erfolgt die Verarbeitung je nach Anwendungsfall auf Grundlage von:"
+
+# Privacy SafetySlides
+msgid "Article 6(1)(b) GDPR for pre-contractual measures and contract performance;"
+msgstr "Artikel 6 Absatz 1 Buchstabe b DSGVO für vorvertragliche Maßnahmen und die Vertragserfüllung;"
+
+# Privacy SafetySlides
+msgid "Article 6(1)(c) GDPR for compliance with legal obligations; or"
+msgstr "Artikel 6 Absatz 1 Buchstabe c DSGVO zur Erfüllung gesetzlicher Verpflichtungen; oder"
+
+# Privacy SafetySlides
+msgid "Article 6(1)(f) GDPR for legitimate interests relating to secure communication, IT security, prevention of misuse, documentation and proper business administration."
+msgstr "Artikel 6 Absatz 1 Buchstabe f DSGVO für berechtigte Interessen im Zusammenhang mit sicherer Kommunikation, IT-Sicherheit, der Verhinderung von Missbrauch, der Dokumentation und einer ordnungsgemäßen Geschäftsverwaltung."
+
+# Privacy SafetySlides
+msgid "Consent is not automatically the required or appropriate legal basis for the processing of employee data. The customer is responsible for determining the appropriate legal basis in the particular employment context."
+msgstr "Eine Einwilligung ist nicht automatisch die erforderliche oder geeignete Rechtsgrundlage für die Verarbeitung von Beschäftigtendaten. Der Kunde ist dafür verantwortlich, die geeignete Rechtsgrundlage im jeweiligen Beschäftigungskontext zu bestimmen."
+
+# Privacy SafetySlides
+msgid "AI-ASSISTED ANALYSIS"
+msgstr "KI-GESTÜTZTE ANALYSE"
+
+# Privacy SafetySlides
+msgid "FinishingX uses AI-assisted tools to analyse and structure Customer Materials and to determine which FinishingX content is suitable for the requested training."
+msgstr "FinishingX verwendet KI-gestützte Werkzeuge, um Kundenmaterialien zu analysieren und zu strukturieren sowie festzustellen, welche Inhalte von FinishingX für die angefragte Unterweisung geeignet sind."
+
+# Privacy SafetySlides
+msgid "AI-assisted analysis may include:"
+msgstr "Die KI-gestützte Analyse kann Folgendes umfassen:"
+
+# Privacy SafetySlides
+msgid "thematic classification of documents;"
+msgstr "thematische Einordnung von Dokumenten;"
+
+# Privacy SafetySlides
+msgid "identification of relevant activities and hazards;"
+msgstr "Ermittlung relevanter Tätigkeiten und Gefährdungen;"
+
+# Privacy SafetySlides
+msgid "extraction and structuring of relevant information;"
+msgstr "Extraktion und Strukturierung relevanter Informationen;"
+
+# Privacy SafetySlides
+msgid "identification of possible information gaps or inconsistencies; and"
+msgstr "Erkennung möglicher Informationslücken oder Unstimmigkeiten; und"
+
+# Privacy SafetySlides
+msgid "support for selecting and arranging suitable FinishingX content."
+msgstr "Unterstützung bei der Auswahl und Anordnung geeigneter Inhalte von FinishingX."
+
+# Privacy SafetySlides
+msgid "The analysis is used only to support the preparation of training materials."
+msgstr "Die Analyse dient ausschließlich der Unterstützung bei der Erstellung von Unterweisungsunterlagen."
+
+# Privacy SafetySlides
+msgid "The AI-supported analysis does not evaluate employees and does not make automated employment, disciplinary, suitability or performance decisions concerning individuals."
+msgstr "Die KI-gestützte Analyse bewertet keine Beschäftigten und trifft keine automatisierten Entscheidungen über einzelne Personen in Bezug auf Beschäftigung, Disziplinarmaßnahmen, Eignung oder Leistung."
+
+# Privacy SafetySlides
+msgid "No decision producing legal or similarly significant effects for a person is made solely through automated processing."
+msgstr "Es werden keine Entscheidungen ausschließlich durch automatisierte Verarbeitung getroffen, die gegenüber einer Person rechtliche Wirkung entfalten oder sie in ähnlich erheblicher Weise beeinträchtigen."
+
+# Privacy SafetySlides
+msgid "RECIPIENTS AND PROCESSORS"
+msgstr "EMPFÄNGER UND AUFTRAGSVERARBEITER"
+
+# Privacy SafetySlides
+msgid "FinishingX provides personal data to processors only where this is necessary to provide the SafetySlides service or where disclosure is required by law."
+msgstr "FinishingX übermittelt personenbezogene Daten nur dann an Auftragsverarbeiter, wenn dies zur Erbringung der SafetySlides-Dienstleistung erforderlich oder die Offenlegung gesetzlich vorgeschrieben ist."
+
+# Privacy SafetySlides
+msgid "For AI-assisted analysis, FinishingX currently uses:"
+msgstr "Für die KI-gestützte Analyse setzt FinishingX derzeit folgenden Anbieter ein:"
+
+# Privacy SafetySlides
+msgid "Germany"
+msgstr "Deutschland"
+
+# Privacy SafetySlides
+msgid "The provider supports the secure AI-assisted analysis and structuring of submitted information."
+msgstr "Der Anbieter unterstützt die sichere KI-gestützte Analyse und Strukturierung der eingereichten Informationen."
+
+# Privacy SafetySlides
+msgid "Relevant files, file extracts, prompts and associated metadata may be transmitted to DeutschlandGPT GmbH where necessary to provide the service."
+msgstr "Relevante Dateien, Dateiauszüge, Prompts und zugehörige Metadaten dürfen an die DeutschlandGPT GmbH übermittelt werden, soweit dies zur Erbringung der Dienstleistung erforderlich ist."
+
+# Privacy SafetySlides
+msgid "DeutschlandGPT GmbH may engage properly authorised infrastructure and AI model providers as subprocessors. See also https://www.deutschlandgpt.de/"
+msgstr "Die DeutschlandGPT GmbH darf ordnungsgemäß autorisierte Infrastruktur- und KI-Modellanbieter als Unterauftragsverarbeiter einsetzen. Siehe auch https://www.deutschlandgpt.de/"
+
+# Privacy SafetySlides
+msgid "FinishingX concludes appropriate agreements under Article 28 GDPR with its processors and requires them to process personal data only on documented instructions, maintain confidentiality and implement appropriate technical and organisational measures."
+msgstr "FinishingX schließt mit seinen Auftragsverarbeitern geeignete Vereinbarungen gemäß Artikel 28 DSGVO und verpflichtet sie, personenbezogene Daten ausschließlich auf dokumentierte Weisung zu verarbeiten, Vertraulichkeit zu wahren und angemessene technische und organisatorische Maßnahmen umzusetzen."
+
+# Privacy SafetySlides
+msgid "FinishingX may replace a processor where the replacement provides an appropriate and substantially comparable level of data protection and security. Customers will be informed of material changes in accordance with the applicable Data Processing Agreement."
+msgstr "FinishingX darf einen Auftragsverarbeiter ersetzen, wenn der neue Auftragsverarbeiter ein angemessenes und im Wesentlichen vergleichbares Datenschutz- und Sicherheitsniveau bietet. Kunden werden gemäß der geltenden Vereinbarung zur Auftragsverarbeitung über wesentliche Änderungen informiert."
+
+# Privacy SafetySlides
+msgid "PROCESSING LOCATIONS AND INTERNATIONAL TRANSFERS"
+msgstr "VERARBEITUNGSORTE UND INTERNATIONALE DATENÜBERMITTLUNGEN"
+
+# Privacy SafetySlides
+msgid "Under the configuration currently used by FinishingX, core data processed through DeutschlandGPT GmbH is stored in Germany and AI model processing takes place through enterprise services in the European Union."
+msgstr "Bei der derzeit von FinishingX verwendeten Konfiguration werden die über die DeutschlandGPT GmbH verarbeiteten Kerndaten in Deutschland gespeichert, und die Verarbeitung durch KI-Modelle erfolgt über Unternehmensdienste in der Europäischen Union."
+
+# Privacy SafetySlides
+msgid "Personal data will be transferred to a country outside the European Union or European Economic Area only where the applicable requirements of Articles 44 to 49 GDPR are fulfilled."
+msgstr "Personenbezogene Daten werden nur dann in ein Land außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums übermittelt, wenn die einschlägigen Anforderungen der Artikel 44 bis 49 DSGVO erfüllt sind."
+
+# Privacy SafetySlides
+msgid "Where necessary, FinishingX or its processors will use an adequacy decision, approved Standard Contractual Clauses or other legally recognised safeguards together with any required supplementary measures."
+msgstr "Soweit erforderlich, stützen sich FinishingX oder seine Auftragsverarbeiter auf einen Angemessenheitsbeschluss, genehmigte Standardvertragsklauseln oder andere rechtlich anerkannte Garantien zusammen mit gegebenenfalls erforderlichen ergänzenden Maßnahmen."
+
+# Privacy SafetySlides
+msgid "Customer Materials, prompts, file extracts and project-related analysis results are used only to provide the ordered SafetySlides service."
+msgstr "Kundenmaterialien, Prompts, Dateiauszüge und projektbezogene Analyseergebnisse werden ausschließlich zur Erbringung der bestellten SafetySlides-Dienstleistung verwendet."
+
+# Privacy SafetySlides
+msgid "They are not used by FinishingX, its processors or the providers of the AI models used to train, fine-tune or generally improve general-purpose or customer-external AI models."
+msgstr "Sie werden weder von FinishingX noch von seinen Auftragsverarbeitern oder den Anbietern der eingesetzten KI-Modelle zum Training, zur Feinabstimmung oder zur allgemeinen Verbesserung von KI-Modellen für allgemeine Zwecke oder für Zwecke außerhalb des jeweiligen Kundenauftrags verwendet."
+
+# Privacy SafetySlides
+msgid "Any use for another purpose requires a separate legal basis and, where required, a separate express agreement with the customer."
+msgstr "Jede Verwendung für einen anderen Zweck erfordert eine gesonderte Rechtsgrundlage und, soweit erforderlich, eine gesonderte ausdrückliche Vereinbarung mit dem Kunden."
+
+# Privacy SafetySlides
+msgid "CONFIDENTIALITY AND HUMAN ACCESS"
+msgstr "VERTRAULICHKEIT UND ZUGRIFF DURCH PERSONEN"
+
+# Privacy SafetySlides
+msgid "Only authorised FinishingX personnel and processors who require access to perform the order, conduct quality checks, communicate with the customer, provide support or maintain security may access Customer Materials."
+msgstr "Nur autorisierte Mitarbeiter von FinishingX und Auftragsverarbeiter, die den Zugriff zur Durchführung des Auftrags, für Qualitätsprüfungen, zur Kommunikation mit dem Kunden, zur Bereitstellung von Support oder zur Aufrechterhaltung der Sicherheit benötigen, dürfen auf Kundenmaterialien zugreifen."
+
+# Privacy SafetySlides
+msgid "These persons are subject to contractual or statutory confidentiality obligations."
+msgstr "Diese Personen unterliegen vertraglichen oder gesetzlichen Vertraulichkeitspflichten."
+
+# Privacy SafetySlides
+msgid "Customer Materials are not:"
+msgstr "Kundenmaterialien werden nicht:"
+
+# Privacy SafetySlides
+msgid "incorporated into the general FinishingX content library;"
+msgstr "in die allgemeine Inhaltsbibliothek von FinishingX aufgenommen;"
+
+# Privacy SafetySlides
+msgid "used to create products for other customers;"
+msgstr "zur Erstellung von Produkten für andere Kunden verwendet;"
+
+# Privacy SafetySlides
+msgid "publicly disclosed;"
+msgstr "öffentlich offengelegt;"
+
+# Privacy SafetySlides
+msgid "sold or used for advertising;"
+msgstr "verkauft oder für Werbung verwendet;"
+
+# Privacy SafetySlides
+msgid "used to train general-purpose or customer-external AI models."
+msgstr "zum Training von KI-Modellen für allgemeine Zwecke oder für Zwecke außerhalb des jeweiligen Kundenauftrags verwendet."
+
+# Privacy SafetySlides
+msgid "STORAGE AND DELETION"
+msgstr "SPEICHERUNG UND LÖSCHUNG"
+
+# Privacy SafetySlides
+msgid "Active processing normally takes approximately two working days. The actual processing time may vary depending on the volume, quality and complexity of the submitted materials."
+msgstr "Die aktive Bearbeitung dauert normalerweise etwa zwei Arbeitstage. Die tatsächliche Bearbeitungszeit kann je nach Umfang, Qualität und Komplexität der eingereichten Materialien variieren."
+
+# Privacy SafetySlides
+msgid "Customer Materials, temporary files, prompts, file extracts and project-related analysis results are deleted no later than 30 calendar days after delivery of the completed training materials."
+msgstr "Kundenmaterialien, temporäre Dateien, Prompts, Dateiauszüge und projektbezogene Analyseergebnisse werden spätestens 30 Kalendertage nach Lieferung der fertiggestellten Unterweisungsunterlagen gelöscht."
+
+# Privacy SafetySlides
+msgid "The period begins when the completed training materials are sent to the customer or made available to the customer for download."
+msgstr "Die Frist beginnt, sobald die fertiggestellten Unterweisungsunterlagen an den Kunden versandt oder dem Kunden zum Herunterladen bereitgestellt werden."
+
+# Privacy SafetySlides
+msgid "The customer may request earlier deletion after delivery where the data are no longer required to complete the order and no legal obligation prevents deletion."
+msgstr "Der Kunde kann nach der Lieferung eine frühere Löschung verlangen, sofern die Daten nicht mehr zur Fertigstellung des Auftrags benötigt werden und keine gesetzliche Verpflichtung der Löschung entgegensteht."
+
+# Privacy SafetySlides
+msgid "Data contained in backups will be deleted or overwritten according to the applicable backup cycle. Backup data will not be used again for ordinary operational processing."
+msgstr "In Sicherungskopien enthaltene Daten werden gemäß dem jeweiligen Sicherungszyklus gelöscht oder überschrieben. Daten aus Sicherungskopien werden nicht erneut für die gewöhnliche betriebliche Verarbeitung verwendet."
+
+# Privacy SafetySlides
+msgid "Contractual, invoice, accounting and payment records may be retained for longer where required by law. These records will not be used for AI analysis or for the preparation of additional training materials."
+msgstr "Vertrags-, Rechnungs-, Buchhaltungs- und Zahlungsunterlagen dürfen länger aufbewahrt werden, soweit dies gesetzlich vorgeschrieben ist. Diese Unterlagen werden weder für KI-Analysen noch zur Erstellung weiterer Unterweisungsunterlagen verwendet."
+
+# Privacy SafetySlides
+msgid "TECHNICAL AND ORGANISATIONAL MEASURES"
+msgstr "TECHNISCHE UND ORGANISATORISCHE MASSNAHMEN"
+
+# Privacy SafetySlides
+msgid "FinishingX and its processors use appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure and unauthorised access."
+msgstr "FinishingX und seine Auftragsverarbeiter setzen angemessene technische und organisatorische Maßnahmen ein, um personenbezogene Daten vor unbeabsichtigter oder unrechtmäßiger Vernichtung, Verlust, Veränderung, unbefugter Offenlegung und unbefugtem Zugriff zu schützen."
+
+# Privacy SafetySlides
+msgid "Depending on the processing activity, these measures include:"
+msgstr "Je nach Verarbeitungstätigkeit umfassen diese Maßnahmen:"
+
+# Privacy SafetySlides
+msgid "encryption during transmission;"
+msgstr "Verschlüsselung bei der Übertragung;"
+
+# Privacy SafetySlides
+msgid "encryption of stored data;"
+msgstr "Verschlüsselung gespeicherter Daten;"
+
+# Privacy SafetySlides
+msgid "role-based access controls;"
+msgstr "rollenbasierte Zugriffskontrollen;"
+
+# Privacy SafetySlides
+msgid "confidentiality obligations;"
+msgstr "Vertraulichkeitspflichten;"
+
+# Privacy SafetySlides
+msgid "logging of security-relevant access;"
+msgstr "Protokollierung sicherheitsrelevanter Zugriffe;"
+
+# Privacy SafetySlides
+msgid "separation of customer data;"
+msgstr "Trennung von Kundendaten;"
+
+# Privacy SafetySlides
+msgid "secure backups;"
+msgstr "sichere Datensicherungen;"
+
+# Privacy SafetySlides
+msgid "deletion and recovery procedures;"
+msgstr "Lösch- und Wiederherstellungsverfahren;"
+
+# Privacy SafetySlides
+msgid "security-incident procedures; and"
+msgstr "Verfahren für Sicherheitsvorfälle; und"
+
+# Privacy SafetySlides
+msgid "regular review of processors and service providers."
+msgstr "regelmäßige Überprüfung von Auftragsverarbeitern und Dienstleistern."
+
+# Privacy SafetySlides
+msgid "Binding details are provided in the applicable Data Processing Agreement and its technical and organisational measures annex."
+msgstr "Verbindliche Einzelheiten sind in der geltenden Vereinbarung zur Auftragsverarbeitung und deren Anlage zu den technischen und organisatorischen Maßnahmen festgelegt."
+
+# Privacy SafetySlides
+msgid "DATA-SUBJECT RIGHTS"
+msgstr "RECHTE BETROFFENER PERSONEN"
+
+# Privacy SafetySlides
+msgid "Subject to the applicable legal requirements, affected persons have the right to:"
+msgstr "Unter den geltenden gesetzlichen Voraussetzungen haben betroffene Personen das Recht:"
+
+# Privacy SafetySlides
+msgid "access their personal data;"
+msgstr "Auskunft über ihre personenbezogenen Daten zu erhalten;"
+
+# Privacy SafetySlides
+msgid "correct inaccurate personal data;"
+msgstr "unrichtige personenbezogene Daten berichtigen zu lassen;"
+
+# Privacy SafetySlides
+msgid "request deletion;"
+msgstr "die Löschung zu verlangen;"
+
+# Privacy SafetySlides
+msgid "request restriction of processing;"
+msgstr "die Einschränkung der Verarbeitung zu verlangen;"
+
+# Privacy SafetySlides
+msgid "receive data in a portable format where applicable;"
+msgstr "gegebenenfalls Daten in einem übertragbaren Format zu erhalten;"
+
+# Privacy SafetySlides
+msgid "object to processing where applicable; and"
+msgstr "gegebenenfalls Widerspruch gegen die Verarbeitung einzulegen; und"
+
+# Privacy SafetySlides
+msgid "lodge a complaint with a competent data-protection supervisory authority."
+msgstr "Beschwerde bei einer zuständigen Datenschutzaufsichtsbehörde einzulegen."
+
+# Privacy SafetySlides
+msgid "Where FinishingX processes personal data on behalf of a business customer, affected persons should normally direct their request to the respective employer or business customer."
+msgstr "Soweit FinishingX personenbezogene Daten im Auftrag eines Geschäftskunden verarbeitet, sollten betroffene Personen ihre Anfrage normalerweise an den jeweiligen Arbeitgeber oder Geschäftskunden richten."
+
+# Privacy SafetySlides
+msgid "If FinishingX receives such a request directly, FinishingX will generally forward it to the responsible customer and assist the customer as required under the applicable Data Processing Agreement."
+msgstr "Geht eine solche Anfrage unmittelbar bei FinishingX ein, leitet FinishingX sie grundsätzlich an den verantwortlichen Kunden weiter und unterstützt den Kunden gemäß den Anforderungen der geltenden Vereinbarung zur Auftragsverarbeitung."
+
+# Privacy SafetySlides
+msgid "PERSONAL-DATA BREACHES"
+msgstr "VERLETZUNGEN DES SCHUTZES PERSONENBEZOGENER DATEN"
+
+# Privacy SafetySlides
+msgid "Where FinishingX becomes aware of a personal-data breach affecting data processed on behalf of a customer, FinishingX will inform the responsible customer without undue delay."
+msgstr "Wird FinishingX eine Verletzung des Schutzes personenbezogener Daten bekannt, die im Auftrag eines Kunden verarbeitete Daten betrifft, informiert FinishingX den verantwortlichen Kunden unverzüglich."
+
+# Privacy SafetySlides
+msgid "FinishingX will provide the reasonably available information required to assist the customer in fulfilling its obligations under Articles 33 and 34 GDPR."
+msgstr "FinishingX stellt die mit vertretbarem Aufwand verfügbaren Informationen bereit, die erforderlich sind, um den Kunden bei der Erfüllung seiner Pflichten gemäß den Artikeln 33 und 34 DSGVO zu unterstützen."
+
+# Privacy SafetySlides
+msgid "Where FinishingX acts as controller, FinishingX will notify the competent supervisory authority and, where required, the affected persons if the applicable legal requirements are fulfilled."
+msgstr "Soweit FinishingX als Verantwortlicher handelt, benachrichtigt FinishingX die zuständige Aufsichtsbehörde und, soweit erforderlich, die betroffenen Personen, sofern die einschlägigen gesetzlichen Voraussetzungen erfüllt sind."
+
+# Privacy SafetySlides
+msgid "DATA PROCESSING AGREEMENT"
+msgstr "VEREINBARUNG ZUR AUFTRAGSVERARBEITUNG"
+
+# Privacy SafetySlides
+msgid "Where FinishingX processes personal data on behalf of a business customer, FinishingX and the customer will enter into a Data Processing Agreement under Article 28 GDPR."
+msgstr "Soweit FinishingX personenbezogene Daten im Auftrag eines Geschäftskunden verarbeitet, schließen FinishingX und der Kunde eine Vereinbarung zur Auftragsverarbeitung gemäß Artikel 28 DSGVO."
+
+# Privacy SafetySlides
+msgid "The Data Processing Agreement governs, in particular:"
+msgstr "Die Vereinbarung zur Auftragsverarbeitung regelt insbesondere:"
+
+# Privacy SafetySlides
+msgid "the subject matter and duration of processing;"
+msgstr "den Gegenstand und die Dauer der Verarbeitung;"
+
+# Privacy SafetySlides
+msgid "the nature and purpose of processing;"
+msgstr "die Art und den Zweck der Verarbeitung;"
+
+# Privacy SafetySlides
+msgid "the categories of personal data and data subjects;"
+msgstr "die Kategorien personenbezogener Daten und betroffener Personen;"
+
+# Privacy SafetySlides
+msgid "documented instructions;"
+msgstr "dokumentierte Weisungen;"
+
+# Privacy SafetySlides
+msgid "confidentiality;"
+msgstr "Vertraulichkeit;"
+
+# Privacy SafetySlides
+msgid "technical and organisational measures;"
+msgstr "technische und organisatorische Maßnahmen;"
+
+# Privacy SafetySlides
+msgid "processors and subprocessors;"
+msgstr "Auftragsverarbeiter und Unterauftragsverarbeiter;"
+
+# Privacy SafetySlides
+msgid "assistance with data-subject requests;"
+msgstr "Unterstützung bei Anfragen betroffener Personen;"
+
+# Privacy SafetySlides
+msgid "personal-data breaches;"
+msgstr "Verletzungen des Schutzes personenbezogener Daten;"
+
+# Privacy SafetySlides
+msgid "assistance with data-protection impact assessments;"
+msgstr "Unterstützung bei Datenschutz-Folgenabschätzungen;"
+
+# Privacy SafetySlides
+msgid "audit and information rights; and"
+msgstr "Prüfungs- und Informationsrechte; und"
+
+# Privacy SafetySlides
+msgid "return or deletion of personal data."
+msgstr "die Rückgabe oder Löschung personenbezogener Daten."
+
+# Privacy SafetySlides
+msgid "This Privacy Policy does not replace the required Data Processing Agreement."
+msgstr "Diese Datenschutzerklärung ersetzt nicht die erforderliche Vereinbarung zur Auftragsverarbeitung."
+
+
+
+
 
