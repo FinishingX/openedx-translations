@@ -37231,5 +37231,490 @@ msgstr "Enthält die Unterweisung Videos?"
 msgid "The online training is video-based. PowerPoint training is generally not video-based; however, in some cases, videos are included on hidden slides to complement the PowerPoint content. Users can choose whether to include these slides in the PowerPoint training by unhiding them."
 msgstr "Die Online-Unterweisung ist videobasiert. PowerPoint-Unterweisungen sind in der Regel nicht videobasiert. In einigen Fällen sind jedoch auf ausgeblendeten Folien Videos enthalten, die die PowerPoint-Inhalte ergänzen. Anwender können selbst entscheiden, ob sie diese Folien in die PowerPoint-Unterweisung aufnehmen möchten, indem sie die Folien wieder einblenden."
 
+#: TOS SafetySlides
+msgid "SPECIAL TERMS FOR SAFETYSLIDES"
+msgstr "BESONDERE BEDINGUNGEN FÜR SAFETYSLIDES"
+
+#: TOS SafetySlides
+msgid "SCOPE AND SERVICE"
+msgstr "GELTUNGSBEREICH UND LEISTUNG"
+
+#: TOS SafetySlides
+msgid "These Special Terms apply exclusively to the Buyer-specific creation of presentations and training materials offered under the name \"SafetySlides\"."
+msgstr "Diese Besonderen Bedingungen gelten ausschließlich für die käuferspezifische Erstellung von Präsentationen und Unterweisungsunterlagen, die unter dem Namen \"SafetySlides\" angeboten wird."
+
+#: TOS SafetySlides
+msgid "SafetySlides is a separate, project-based service and does not include access to the FinishingX learning platform or the delivery and administration of training unless separately agreed."
+msgstr "SafetySlides ist eine eigenständige, projektbezogene Dienstleistung und umfasst weder den Zugang zur FinishingX-Lernplattform noch die Durchführung und Verwaltung von Unterweisungen, sofern dies nicht gesondert vereinbart wurde."
+
+#: TOS SafetySlides
+msgid "Where these Special Terms do not provide otherwise, the General Terms and Conditions of FinishingX apply. In the event of a conflict, these Special Terms take precedence for SafetySlides."
+msgstr "Soweit diese Besonderen Bedingungen nichts anderes vorsehen, gelten die Allgemeinen Geschäftsbedingungen von FinishingX. Im Falle eines Widerspruchs haben diese Besonderen Bedingungen für SafetySlides Vorrang."
+
+#: TOS SafetySlides
+msgid "The Buyer may provide FinishingX with information and materials such as risk assessments, standard operating procedures, operating instructions, policies, presentations, images or other documents. These materials are referred to below as \"Customer Materials\"."
+msgstr "Der Käufer kann FinishingX Informationen und Unterlagen wie Gefährdungsbeurteilungen, betriebliche Verfahrensanweisungen, Betriebsanweisungen, Richtlinien, Präsentationen, Bilder oder sonstige Dokumente zur Verfügung stellen. Diese Unterlagen werden nachfolgend als \"Kundenmaterialien\" bezeichnet."
+
+#: TOS SafetySlides
+msgid "FinishingX may use AI-assisted tools to analyse and structure Customer Materials and to determine which content from the FinishingX content library is suitable for the requested training."
+msgstr "FinishingX darf KI-gestützte Werkzeuge einsetzen, um Kundenmaterialien zu analysieren und zu strukturieren sowie festzustellen, welche Inhalte aus der Inhaltsbibliothek von FinishingX für die angefragte Unterweisung geeignet sind."
+
+#: TOS SafetySlides
+msgid "The delivered training is based on content created or lawfully licensed by FinishingX. Customer Materials are used to select and adapt suitable FinishingX content. They are not incorporated into the general FinishingX content library or used to create products for other customers."
+msgstr "Die gelieferte Unterweisung basiert auf Inhalten, die von FinishingX erstellt oder rechtmäßig lizenziert wurden. Kundenmaterialien werden verwendet, um geeignete Inhalte von FinishingX auszuwählen und anzupassen. Sie werden weder in die allgemeine Inhaltsbibliothek von FinishingX aufgenommen noch zur Erstellung von Produkten für andere Kunden verwendet."
+
+#: TOS SafetySlides
+msgid "CUSTOMER MATERIALS"
+msgstr "KUNDENMATERIALIEN"
+
+#: TOS SafetySlides
+msgid "All rights in Customer Materials (materials submitted by the Buyer) remain with the Buyer or the respective rights holder."
+msgstr "Sämtliche Rechte an Kundenmaterialien (vom Käufer eingereichten Materialien) verbleiben beim Käufer oder dem jeweiligen Rechteinhaber."
+
+#: TOS SafetySlides
+msgid "For the duration of the order, the Buyer grants FinishingX a non-exclusive, non-transferable and purpose-limited right to store, analyse, reproduce, technically process and transmit Customer Materials to authorised processors where this is necessary to provide the ordered service."
+msgstr "Für die Dauer des Auftrags räumt der Käufer FinishingX ein nicht ausschließliches, nicht übertragbares und zweckgebundenes Recht ein, Kundenmaterialien zu speichern, zu analysieren, zu vervielfältigen, technisch zu bearbeiten und an autorisierte Auftragsverarbeiter zu übermitteln, soweit dies zur Erbringung der bestellten Leistung erforderlich ist."
+
+#: TOS SafetySlides
+msgid "FinishingX may not sell, publish or use Customer Materials for other customers or for the general development of its training content."
+msgstr "FinishingX darf Kundenmaterialien weder verkaufen noch veröffentlichen oder für andere Kunden oder zur allgemeinen Weiterentwicklung seiner Unterweisungsinhalte verwenden."
+
+#: TOS SafetySlides
+msgid "The Buyer confirms that:"
+msgstr "Der Käufer bestätigt, dass:"
+
+#: TOS SafetySlides
+msgid "they possess an autorisation to provide the Customer Materials;"
+msgstr "er zur Bereitstellung der Kundenmaterialien berechtigt ist;"
+
+#: TOS SafetySlides
+msgid "the Customer Materials were lawfully obtained;"
+msgstr "die Kundenmaterialien rechtmäßig beschafft wurden;"
+
+#: TOS SafetySlides
+msgid "their processing does not unlawfully infringe copyright, confidentiality obligations, personal rights, data-protection rights or other third-party rights;"
+msgstr "ihre Verarbeitung keine rechtswidrige Verletzung von Urheberrechten, Vertraulichkeitspflichten, Persönlichkeitsrechten, Datenschutzrechten oder sonstigen Rechten Dritter darstellt;"
+
+#: TOS SafetySlides
+msgid "all necessary employment-law and data-protection requirements have been fulfilled;"
+msgstr "alle erforderlichen arbeitsrechtlichen und datenschutzrechtlichen Anforderungen erfüllt wurden;"
+
+#: TOS SafetySlides
+msgid "affected persons have received any legally required privacy information;"
+msgstr "betroffene Personen alle gesetzlich vorgeschriebenen Datenschutzinformationen erhalten haben;"
+
+#: TOS SafetySlides
+msgid "an appropriate legal basis exists for the processing of personal data; and"
+msgstr "eine geeignete Rechtsgrundlage für die Verarbeitung personenbezogener Daten besteht; und"
+
+#: TOS SafetySlides
+msgid "the information provided is accurate, current and sufficiently complete for the requested service"
+msgstr "die bereitgestellten Informationen richtig, aktuell und für die angefragte Leistung hinreichend vollständig sind"
+
+#: TOS SafetySlides
+msgid "The Buyer confirms that FinishingX is permitted to process the Customer Materials."
+msgstr "Der Käufer bestätigt, dass FinishingX zur Verarbeitung der Kundenmaterialien berechtigt ist."
+
+#: TOS SafetySlides
+msgid "The Buyer must provide only personal data that is necessary for the creation of the requested training."
+msgstr "Der Käufer darf nur personenbezogene Daten bereitstellen, die für die Erstellung der angefragten Unterweisung erforderlich sind."
+
+#: TOS SafetySlides
+msgid "Unless strictly necessary for the training purpose, the Buyer is advised to remove or anonymise any personal data such as contact information, medical information, identities of accident victims or witnesses, disciplinary information, passwords, access credentials and unrelated employee information before submitting Customer Materials."
+msgstr "Sofern diese Angaben für den Unterweisungszweck nicht zwingend erforderlich sind, wird dem Käufer empfohlen, personenbezogene Daten wie Kontaktdaten, medizinische Informationen, Angaben zur Identität von Unfallopfern oder Zeugen, Informationen zu Disziplinarmaßnahmen, Passwörter, Zugangsdaten und nicht relevante Mitarbeiterinformationen vor der Einreichung der Kundenmaterialien zu entfernen oder zu anonymisieren."
+
+#: TOS SafetySlides
+msgid "The Buyer must remove any confidential information such as bank account information, passwords, site security data before submitting Customer Materials."
+msgstr "Der Käufer muss sämtliche vertraulichen Informationen wie Bankverbindungsdaten, Passwörter und Angaben zur Standortsicherheit vor der Einreichung der Kundenmaterialien entfernen."
+
+#: TOS SafetySlides
+msgid "Where Customer Materials contain health data or other special categories of personal data, the Buyer is responsible for ensuring that the requirements of Article 9 GDPR and any other applicable laws are fulfilled."
+msgstr "Enthalten Kundenmaterialien Gesundheitsdaten oder andere besondere Kategorien personenbezogener Daten, ist der Käufer dafür verantwortlich, dass die Anforderungen des Artikels 9 DSGVO und aller weiteren anwendbaren Gesetze erfüllt sind."
+
+#: TOS SafetySlides
+msgid "The Buyer must inform FinishingX without undue delay if Customer Materials were submitted in error or may no longer be lawfully processed."
+msgstr "Der Käufer muss FinishingX unverzüglich informieren, wenn Kundenmaterialien irrtümlich eingereicht wurden oder nicht mehr rechtmäßig verarbeitet werden dürfen."
+
+#: TOS SafetySlides
+msgid "NO AI MODEL TRAINING"
+msgstr "KEIN TRAINING VON KI-MODELLEN"
+
+#: TOS SafetySlides
+msgid "FinishingX uses Customer Materials, prompts, file extracts and project-related analysis results only to provide the ordered SafetySlides service."
+msgstr "FinishingX verwendet Kundenmaterialien, Prompts, Dateiauszüge und projektbezogene Analyseergebnisse ausschließlich zur Erbringung der bestellten SafetySlides-Dienstleistung."
+
+#: TOS SafetySlides
+msgid "Any use for another purpose requires a separate legal basis and, where required, a separate express agreement with the Buyer."
+msgstr "Jede Verwendung für einen anderen Zweck erfordert eine gesonderte Rechtsgrundlage und, soweit erforderlich, eine gesonderte ausdrückliche Vereinbarung mit dem Käufer."
+
+#: TOS SafetySlides
+msgid "RIGHTS IN THE DELIVERED TRAINING MATERIALS"
+msgstr "RECHTE AN DEN GELIEFERTEN UNTERWEISUNGSUNTERLAGEN"
+
+#: TOS SafetySlides
+msgid "All rights in content provided, selected, adapted or compiled by FinishingX remain with FinishingX or the respective licensor. This includes texts, illustrations, graphics, layouts, templates, presentation structures, didactic concepts and other design elements."
+msgstr "Sämtliche Rechte an Inhalten, die von FinishingX bereitgestellt, ausgewählt, angepasst oder zusammengestellt werden, verbleiben bei FinishingX oder dem jeweiligen Lizenzgeber. Dies umfasst Texte, Illustrationen, Grafiken, Layouts, Vorlagen, Präsentationsstrukturen, didaktische Konzepte und sonstige Gestaltungselemente."
+
+#: TOS SafetySlides
+msgid "FinishingX reserves all rights that are not expressly granted to the Buyer under these Special Terms."
+msgstr "FinishingX behält sich sämtliche Rechte vor, die dem Käufer durch diese Besonderen Bedingungen nicht ausdrücklich eingeräumt werden."
+
+#: TOS SafetySlides
+msgid "After full payment, the Buyer receives a non-exclusive, permanent, non-transferable and non-sublicensable right to:"
+msgstr "Nach vollständiger Zahlung erhält der Käufer ein nicht ausschließliches, zeitlich unbefristetes, nicht übertragbares und nicht unterlizenzierbares Recht, die Unterlagen wie folgt zu nutzen:"
+
+#: TOS SafetySlides
+msgid "use the delivered training materials internally within its own organisation;"
+msgstr "die gelieferten Unterweisungsunterlagen intern innerhalb seiner eigenen Organisation zu verwenden;"
+
+#: TOS SafetySlides
+msgid "reproduce and distribute the materials internally;"
+msgstr "die Unterlagen intern zu vervielfältigen und zu verbreiten;"
+
+#: TOS SafetySlides
+msgid "provide the materials to its employees, temporary workers, contractors and other internal training target groups;"
+msgstr "die Unterlagen seinen Beschäftigten, Leiharbeitnehmern, Auftragnehmern und weiteren internen Unterweisungszielgruppen zur Verfügung zu stellen;"
+
+#: TOS SafetySlides
+msgid "upload the materials to its internal learning management system; and"
+msgstr "die Unterlagen in sein internes Lernmanagementsystem hochzuladen; und"
+
+#: TOS SafetySlides
+msgid "modify, supplement, shorten and adapt the materials for its own internal training purposes."
+msgstr "die Unterlagen für seine eigenen internen Unterweisungszwecke zu ändern, zu ergänzen, zu kürzen und anzupassen."
+
+#: TOS SafetySlides
+msgid "Internal use within the ordinary business of the operations of the Buyer does not constitute prohibited commercial exploitation merely because the Buyer operates a commercial business."
+msgstr "Die interne Nutzung im Rahmen des gewöhnlichen Geschäftsbetriebs des Käufers stellt nicht allein deshalb eine unzulässige kommerzielle Verwertung dar, weil der Käufer ein gewerbliches Unternehmen betreibt."
+
+#: TOS SafetySlides
+msgid "Without a separate written agreement with FinishingX, the Buyer may not:"
+msgstr "Ohne eine gesonderte schriftliche Vereinbarung mit FinishingX darf der Käufer nicht:"
+
+#: TOS SafetySlides
+msgid "sell, sublicense, rent or otherwise commercially distribute the training materials;"
+msgstr "die Unterweisungsunterlagen verkaufen, unterlizenzieren, vermieten oder anderweitig kommerziell vertreiben;"
+
+#: TOS SafetySlides
+msgid "offer the materials to third parties as a separate training product or paid training service;"
+msgstr "die Unterlagen Dritten als eigenständiges Schulungsprodukt oder als kostenpflichtige Schulungsdienstleistung anbieten;"
+
+#: TOS SafetySlides
+msgid "publish, remarket or distribute the materials under its own brand as its own training product;"
+msgstr "die Unterlagen unter seiner eigenen Marke als eigenes Schulungsprodukt veröffentlichen, erneut vermarkten oder vertreiben;"
+
+#: TOS SafetySlides
+msgid "make the materials publicly available on websites, public learning platforms, social networks or publicly accessible file storage services;"
+msgstr "die Unterlagen auf Websites, öffentlichen Lernplattformen, in sozialen Netzwerken oder über öffentlich zugängliche Dateispeicherdienste öffentlich zugänglich machen;"
+
+#: TOS SafetySlides
+msgid "use the materials or substantial parts of them to create competing training products, templates or content libraries; or"
+msgstr "die Unterlagen oder wesentliche Teile davon zur Erstellung konkurrierender Schulungsprodukte, Vorlagen oder Inhaltsbibliotheken verwenden; oder"
+
+#: TOS SafetySlides
+msgid "remove copyright notices, source information or FinishingX identification unless expressly agreed otherwise."
+msgstr "Urheberrechtshinweise, Quellenangaben oder Kennzeichnungen von FinishingX entfernen, sofern nicht ausdrücklich etwas anderes vereinbart wurde."
+
+#: TOS SafetySlides
+msgid "Customer-specific information inserted into the training remains Customer Material. The insertion or modification of such information does not transfer rights in the underlying FinishingX content to the Buyer."
+msgstr "Kundenspezifische Informationen, die in die Unterweisung eingefügt werden, bleiben Kundenmaterialien. Durch das Einfügen oder Ändern solcher Informationen werden keine Rechte an den zugrunde liegenden Inhalten von FinishingX auf den Käufer übertragen."
+
+#: TOS SafetySlides
+msgid "Use by affiliated companies, external training providers or consultants requires a separate agreement unless those persons act exclusively on behalf of the Buyer and use the materials only for the internal training of the Buyer."
+msgstr "Die Nutzung durch verbundene Unternehmen, externe Schulungsanbieter oder Berater erfordert eine gesonderte Vereinbarung, es sei denn, diese handeln ausschließlich im Auftrag des Käufers und verwenden die Unterlagen nur für die internen Unterweisungen des Käufers."
+
+#: TOS SafetySlides
+msgid "CONFIDENTIALITY AND PROCESSORS"
+msgstr "VERTRAULICHKEIT UND AUFTRAGSVERARBEITER"
+
+#: TOS SafetySlides
+msgid "FinishingX treats Customer Materials as confidential."
+msgstr "FinishingX behandelt Kundenmaterialien vertraulich."
+
+#: TOS SafetySlides
+msgid "Access to Customer Materials is limited to authorised FinishingX personnel and processors who require access to provide the service, perform quality checks, provide support or maintain security."
+msgstr "Der Zugriff auf Kundenmaterialien ist auf autorisierte Mitarbeiter von FinishingX und Auftragsverarbeiter beschränkt, die den Zugriff zur Erbringung der Leistung, zur Durchführung von Qualitätsprüfungen, zur Bereitstellung von Support oder zur Aufrechterhaltung der Sicherheit benötigen."
+
+#: TOS SafetySlides
+msgid "Persons with access to Customer Materials must be subject to contractual or statutory confidentiality obligations."
+msgstr "Personen mit Zugriff auf Kundenmaterialien müssen vertraglichen oder gesetzlichen Vertraulichkeitspflichten unterliegen."
+
+#: TOS SafetySlides
+#:. The leading "4 " is present in the template and retained here.
+msgid "4 Customer Materials that constitute trade secrets will be treated as confidential for as long as they meet the applicable legal requirements for trade-secret protection."
+msgstr "4 Kundenmaterialien, die Geschäftsgeheimnisse darstellen, werden so lange vertraulich behandelt, wie sie die geltenden gesetzlichen Voraussetzungen für den Schutz von Geschäftsgeheimnissen erfüllen."
+
+#: TOS SafetySlides
+msgid "FinishingX may use appropriate processors and technical service providers where necessary to provide the SafetySlides service."
+msgstr "FinishingX darf geeignete Auftragsverarbeiter und technische Dienstleister einsetzen, soweit dies zur Erbringung der SafetySlides-Dienstleistung erforderlich ist."
+
+#: TOS SafetySlides
+msgid "FinishingX currently uses DeutschlandGPT GmbH, Gabriele-Muenter-Strasse 3, 82110 Germering, Germany, for AI-assisted analysis."
+msgstr "FinishingX setzt derzeit die DeutschlandGPT GmbH, Gabriele-Muenter-Strasse 3, 82110 Germering, Deutschland, für KI-gestützte Analysen ein."
+
+#: TOS SafetySlides
+msgid "Where required for the order, relevant files, file extracts, prompts and associated information may be transmitted to DeutschlandGPT GmbH and its properly engaged subprocessors."
+msgstr "Soweit dies für den Auftrag erforderlich ist, dürfen relevante Dateien, Dateiauszüge, Prompts und zugehörige Informationen an die DeutschlandGPT GmbH und ihre ordnungsgemäß beauftragten Unterauftragsverarbeiter übermittelt werden."
+
+#: TOS SafetySlides
+msgid "The current processors, subprocessors, processing purposes and processing locations are identified in the Privacy Policy or in the current FinishingX subprocessor list."
+msgstr "Die aktuellen Auftragsverarbeiter, Unterauftragsverarbeiter, Verarbeitungszwecke und Verarbeitungsorte sind in der Datenschutzerklärung oder in der aktuellen Liste der Unterauftragsverarbeiter von FinishingX aufgeführt."
+
+#: TOS SafetySlides
+msgid "FinishingX may replace a processor if the replacement provides an appropriate and substantially comparable level of data protection and security. The Buyer will be informed of material changes in accordance with the applicable Data Processing Agreement."
+msgstr "FinishingX darf einen Auftragsverarbeiter ersetzen, wenn der neue Auftragsverarbeiter ein angemessenes und im Wesentlichen vergleichbares Datenschutz- und Sicherheitsniveau bietet. Der Käufer wird gemäß der geltenden Vereinbarung zur Auftragsverarbeitung über wesentliche Änderungen informiert."
+
+#: TOS SafetySlides
+msgid "FinishingX will not materially reduce the agreed level of privacy and security protection during an active order."
+msgstr "FinishingX wird das vereinbarte Datenschutz- und Sicherheitsniveau während eines laufenden Auftrags nicht wesentlich herabsetzen."
+
+#: TOS SafetySlides
+msgid "DELETION OF CUSTOMER MATERIALS"
+msgstr "LÖSCHUNG VON KUNDENMATERIALIEN"
+
+#: TOS SafetySlides
+msgid "FinishingX processes Customer Materials only for as long as necessary to complete and deliver the ordered service."
+msgstr "FinishingX verarbeitet Kundenmaterialien nur so lange, wie dies zur Fertigstellung und Lieferung der bestellten Leistung erforderlich ist."
+
+#: TOS SafetySlides
+msgid "Customer Materials, temporary files, prompts, file extracts and project-related analysis results will be deleted or anonymised no later than 30 calendar days after delivery of the completed training materials. The deletion period begins when the completed training materials are sent to the Buyer or made available to the customer for download."
+msgstr "Kundenmaterialien, temporäre Dateien, Prompts, Dateiauszüge und projektbezogene Analyseergebnisse werden spätestens 30 Kalendertage nach Lieferung der fertiggestellten Unterweisungsunterlagen gelöscht oder anonymisiert. Die Löschfrist beginnt, sobald die fertiggestellten Unterweisungsunterlagen an den Käufer versandt oder dem Kunden zum Herunterladen bereitgestellt werden."
+
+#: TOS SafetySlides
+msgid "The Buyer may request earlier deletion after delivery, provided the information is no longer required to complete the order and no legal obligation prevents deletion."
+msgstr "Der Käufer kann nach der Lieferung eine frühere Löschung verlangen, sofern die Informationen nicht mehr zur Fertigstellung des Auftrags benötigt werden und keine gesetzliche Verpflichtung der Löschung entgegensteht."
+
+#: TOS SafetySlides
+msgid "Statutory retention obligations remain unaffected. Contractual, accounting, invoice and payment records may therefore be stored for longer where required by law. Such records will not be used for AI analysis or for the creation of additional training materials."
+msgstr "Gesetzliche Aufbewahrungspflichten bleiben unberührt. Vertrags-, Buchhaltungs-, Rechnungs- und Zahlungsunterlagen dürfen daher länger gespeichert werden, soweit dies gesetzlich vorgeschrieben ist. Diese Unterlagen werden weder für KI-Analysen noch zur Erstellung weiterer Unterweisungsunterlagen verwendet."
+
+#: TOS SafetySlides
+msgid "BETA TESTING STAGE"
+msgstr "BETA-TESTPHASE"
+
+#: TOS SafetySlides
+msgid "We use AI-asisted technology in a Beta testing status. AI-assisted systems may omit, misunderstand or incorrectly classify information. They may fail to recognise incomplete documents, conflicting information, technical terminology, internal abbreviations, tables, images or workplace-specific circumstances. AI-assisted systems may also produce incomplete, inaccurate, outdated, ambiguous, biased or legally incorrect suggestions or analysis results."
+msgstr "Wir setzen KI-gestützte Technologie ein, die sich in der Beta-Testphase befindet. KI-gestützte Systeme können Informationen auslassen, missverstehen oder falsch einordnen. Sie erkennen möglicherweise unvollständige Dokumente, widersprüchliche Informationen, Fachbegriffe, interne Abkürzungen, Tabellen, Bilder oder arbeitsplatzspezifische Gegebenheiten nicht. KI-gestützte Systeme können außerdem unvollständige, unrichtige, veraltete, mehrdeutige, verzerrte oder rechtlich fehlerhafte Vorschläge oder Analyseergebnisse erzeugen."
+
+#: TOS SafetySlides
+msgid "FinishingX will not knowingly use automated analysis results as binding safety information without appropriate editorial review. However, FinishingX cannot guarantee that all errors, omissions or inconsistencies will be identified."
+msgstr "FinishingX wird automatisierte Analyseergebnisse nicht wissentlich ohne angemessene redaktionelle Prüfung als verbindliche Sicherheitsinformationen verwenden. FinishingX kann jedoch nicht garantieren, dass sämtliche Fehler, Auslassungen oder Unstimmigkeiten erkannt werden."
+
+#: TOS SafetySlides
+msgid "The delivered training materials are templates requiring final review and approval by the Buyer. They are not automatically certified, legally compliant or ready for use without verification of the Buyer or their representatives."
+msgstr "Die gelieferten Unterweisungsunterlagen sind Vorlagen, die einer abschließenden Prüfung und Freigabe durch den Käufer bedürfen. Sie sind nicht automatisch zertifiziert, rechtskonform oder ohne Überprüfung durch den Käufer oder seine Vertreter einsatzbereit."
+
+#: TOS SafetySlides
+msgid "The designation of the technology as new or experimental does not restrict any mandatory statutory rights of the Buyer."
+msgstr "Die Bezeichnung der Technologie als neu oder experimentell schränkt keine zwingenden gesetzlichen Rechte des Käufers ein."
+
+#: TOS SafetySlides
+msgid "REVIEW AND APPROVAL"
+msgstr "PRÜFUNG UND FREIGABE"
+
+#: TOS SafetySlides
+msgid "Before using the delivered materials, the Buyer must have the complete training reviewed and approved by an appropriately competent person."
+msgstr "Vor der Verwendung der gelieferten Unterlagen muss der Käufer die gesamte Unterweisung durch eine entsprechend fachkundige Person prüfen und freigeben lassen."
+
+#: TOS SafetySlides
+msgid "The review must include, in particular:"
+msgstr "Die Prüfung muss insbesondere Folgendes umfassen:"
+
+#: TOS SafetySlides
+msgid "consistency with the current workplace risk assessment;"
+msgstr "Übereinstimmung mit der aktuellen Gefährdungsbeurteilung für den Arbeitsplatz;"
+
+#: TOS SafetySlides
+msgid "consistency with the actual workplace, activities, equipment, machinery, substances and procedures;"
+msgstr "Übereinstimmung mit den tatsächlichen Gegebenheiten am Arbeitsplatz, den Tätigkeiten, Arbeitsmitteln, Maschinen, Stoffen und Verfahren;"
+
+#: TOS SafetySlides
+msgid "completeness of the applicable safety, protective and emergency measures;"
+msgstr "Vollständigkeit der einschlägigen Sicherheits-, Schutz- und Notfallmaßnahmen;"
+
+#: TOS SafetySlides
+msgid "consistency with operating instructions, standard operating procedures and internal company policies;"
+msgstr "Übereinstimmung mit Betriebsanweisungen, betrieblichen Verfahrensanweisungen und internen Unternehmensrichtlinien;"
+
+#: TOS SafetySlides
+msgid "suitability for the intended target group;"
+msgstr "Eignung für die vorgesehene Zielgruppe;"
+
+#: TOS SafetySlides
+msgid "accuracy of technical data, numbers, limits, time periods and contact information;"
+msgstr "Richtigkeit von technischen Daten, Zahlen, Grenzwerten, Zeiträumen und Kontaktdaten;"
+
+#: TOS SafetySlides
+msgid "accuracy and current relevance of legal and regulatory information; and"
+msgstr "Richtigkeit und Aktualität von Informationen zu Gesetzen und Vorschriften; und"
+
+#: TOS SafetySlides
+msgid "correctness of customer-specific names, responsibilities and emergency arrangements."
+msgstr "Richtigkeit kundenspezifischer Namen, Zuständigkeiten und Notfallregelungen."
+
+#: TOS SafetySlides
+msgid "The Buyer remains responsible for the final approval, use, modification and distribution of the training materials."
+msgstr "Der Käufer bleibt für die abschließende Freigabe, Verwendung, Änderung und Verbreitung der Unterweisungsunterlagen verantwortlich."
+
+#: TOS SafetySlides
+msgid "The Buyer remains responsible for determining which persons require the training and how, when and how often the training must be delivered."
+msgstr "Der Käufer bleibt dafür verantwortlich festzulegen, welche Personen die Unterweisung benötigen und wie, wann und wie häufig sie durchgeführt werden muss."
+
+#: TOS SafetySlides
+msgid "NO REPLACEMENT OF WORKPLACE SAFETY OBLIGATIONS"
+msgstr "KEIN ERSATZ FÜR BETRIEBLICHE ARBEITSSCHUTZPFLICHTEN"
+
+#: TOS SafetySlides
+msgid "SafetySlides supports the Buyer in preparing training materials. It does not replace:"
+msgstr "SafetySlides unterstützt den Käufer bei der Erstellung von Unterweisungsunterlagen. Es ersetzt nicht:"
+
+#: TOS SafetySlides
+msgid "workplace-specific and activity-specific risk assessments;"
+msgstr "arbeitsplatz- und tätigkeitsbezogene Gefährdungsbeurteilungen;"
+
+#: TOS SafetySlides
+msgid "review by a competent occupational-safety specialist or other qualified person;"
+msgstr "die Prüfung durch eine fachkundige Fachkraft für Arbeitssicherheit oder eine andere qualifizierte Person;"
+
+#: TOS SafetySlides
+msgid "legal, regulatory or professional advice;"
+msgstr "Rechtsberatung, Beratung zu Vorschriften oder fachliche Beratung;"
+
+#: TOS SafetySlides
+msgid "practical instruction and workplace demonstrations;"
+msgstr "praktische Unterweisungen und Vorführungen am Arbeitsplatz;"
+
+#: TOS SafetySlides
+msgid "supervision, induction or practical competence assessment;"
+msgstr "Aufsicht, Einarbeitung oder die Überprüfung praktischer Fähigkeiten;"
+
+#: TOS SafetySlides
+msgid "emergency, evacuation, rescue or alarm exercises;"
+msgstr "Notfall-, Evakuierungs-, Rettungs- oder Alarmübungen;"
+
+#: TOS SafetySlides
+msgid "legally required participation or consultation of employees or employee representatives; or"
+msgstr "die gesetzlich vorgeschriebene Beteiligung oder Anhörung von Beschäftigten oder Arbeitnehmervertretungen; oder"
+
+#: TOS SafetySlides
+msgid "other required technical, organisational or personal protective measures."
+msgstr "sonstige erforderliche technische, organisatorische oder personenbezogene Schutzmaßnahmen."
+
+#: TOS SafetySlides
+msgid "The Buyer may not treat the delivered training materials as proof that all occupational-safety, employment-law or regulatory duties have been fulfilled."
+msgstr "Der Käufer darf die gelieferten Unterweisungsunterlagen nicht als Nachweis dafür ansehen, dass sämtliche arbeitsschutzrechtlichen, arbeitsrechtlichen oder sonstigen regulatorischen Pflichten erfüllt wurden."
+
+#: TOS SafetySlides
+msgid "FinishingX does not certify the workplace of the Buyer, operational procedures, occupational-safety management system or legal compliance."
+msgstr "FinishingX zertifiziert weder den Arbeitsplatz des Käufers noch dessen betriebliche Verfahren, Arbeitsschutzmanagementsystem oder Rechtskonformität."
+
+#: TOS SafetySlides
+msgid "FinishingX and the authors cannot be held liable for any errors or their consequences to the Buyer or others. Nothing in these Special Terms excludes or restricts liability where exclusion or restriction is prohibited by law, particularly in cases of intent, gross negligence or culpable injury to life, body or health."
+msgstr "FinishingX und die Autoren können nicht für etwaige Fehler oder deren Folgen für den Käufer oder andere haftbar gemacht werden. Keine Bestimmung dieser Besonderen Bedingungen schließt die Haftung aus oder beschränkt sie, soweit ein solcher Ausschluss oder eine solche Beschränkung gesetzlich unzulässig ist, insbesondere bei Vorsatz, grober Fahrlässigkeit oder schuldhafter Verletzung des Lebens, des Körpers oder der Gesundheit."
+
+#: TOS SafetySlides
+msgid "FinishingX performs the SafetySlides service with reasonable professional care. FinishingX does not guarantee that the delivered materials are completely free from errors or suitable for every workplace, activity, employee group or legal jurisdiction. FinishingX does not guarantee the completeness, accuracy, current relevance or suitability of Customer Materials."
+msgstr "FinishingX erbringt die SafetySlides-Dienstleistung mit angemessener fachlicher Sorgfalt. FinishingX garantiert nicht, dass die gelieferten Unterlagen vollständig fehlerfrei oder für jeden Arbeitsplatz, jede Tätigkeit, jede Beschäftigtengruppe oder jede Rechtsordnung geeignet sind. FinishingX garantiert weder die Vollständigkeit noch die Richtigkeit, Aktualität oder Eignung der Kundenmaterialien."
+
+#: TOS SafetySlides
+msgid "The Buyer must notify FinishingX without undue delay of any identifiable error or omission and provide FinishingX with a reasonable opportunity to correct it."
+msgstr "Der Käufer muss FinishingX unverzüglich über erkennbare Fehler oder Auslassungen informieren und FinishingX eine angemessene Gelegenheit zur Korrektur geben."
+
+#: TOS SafetySlides
+msgid "FinishingX is not responsible for errors, omissions or damage caused by:"
+msgstr "FinishingX ist nicht verantwortlich für Fehler, Auslassungen oder Schäden, die durch Folgendes verursacht werden:"
+
+#: TOS SafetySlides
+msgid "incomplete, inaccurate, outdated or misleading Customer Materials;"
+msgstr "unvollständige, unrichtige, veraltete oder irreführende Kundenmaterialien;"
+
+#: TOS SafetySlides
+msgid "the failure of the Buyer to provide relevant information;"
+msgstr "die unterlassene Bereitstellung relevanter Informationen durch den Käufer;"
+
+#: TOS SafetySlides
+msgid "use of the delivered materials without competent review and approval;"
+msgstr "die Verwendung der gelieferten Unterlagen ohne fachkundige Prüfung und Freigabe;"
+
+#: TOS SafetySlides
+msgid "modifications made by the Buyer that change the meaning or safety context;"
+msgstr "Änderungen durch den Käufer, die den Sinngehalt oder den sicherheitsrelevanten Zusammenhang verändern;"
+
+#: TOS SafetySlides
+msgid "use for a workplace, activity or target group not covered by the order;"
+msgstr "die Verwendung für einen Arbeitsplatz, eine Tätigkeit oder eine Zielgruppe, die nicht vom Auftrag erfasst sind;"
+
+#: TOS SafetySlides
+msgid "failure to report an identifiable error or inconsistency; or"
+msgstr "das Versäumnis, einen erkennbaren Fehler oder eine erkennbare Unstimmigkeit zu melden; oder"
+
+#: TOS SafetySlides
+msgid "failure to implement required practical, technical, organisational or legal safeguards."
+msgstr "das Versäumnis, erforderliche praktische, technische, organisatorische oder rechtliche Schutzvorkehrungen umzusetzen."
+
+#: TOS SafetySlides
+msgid "The purpose of the training materials is to improve safety awareness of the users. This training is NOT a substitute for practical exercises and on-site safety training that must be in line with the Buyer's workplace's risk assessment."
+msgstr "Der Zweck der Unterweisungsunterlagen besteht darin, das Sicherheitsbewusstsein der Nutzer zu verbessern. Diese Unterweisung ist KEIN Ersatz für praktische Übungen und Sicherheitsunterweisungen vor Ort, die mit der Gefährdungsbeurteilung für den Arbeitsplatz des Käufers übereinstimmen müssen."
+
+#: TOS SafetySlides
+msgid "The general liability provisions of the FinishingX General Terms and Conditions remain applicable."
+msgstr "Die allgemeinen Haftungsbestimmungen der Allgemeinen Geschäftsbedingungen von FinishingX gelten weiterhin."
+
+#: TOS SafetySlides
+msgid "ORDER ACCEPTANCE AND SCOPE"
+msgstr "AUFTRAGSANNAHME UND LEISTUNGSUMFANG"
+
+#: TOS SafetySlides
+msgid "The included scope is determined by the order form or an individual offer. This may include limits regarding file size, number of files, supported file formats, presentation length, languages, delivery format and included revisions."
+msgstr "Der enthaltene Leistungsumfang richtet sich nach dem Bestellformular oder einem individuellen Angebot. Dies kann Beschränkungen hinsichtlich der Dateigröße, der Anzahl der Dateien, der unterstützten Dateiformate, der Präsentationslänge, der Sprachen, des Lieferformats und der enthaltenen Überarbeitungen umfassen."
+
+#: TOS SafetySlides
+msgid "FinishingX may reject or suspend an order if:"
+msgstr "FinishingX darf einen Auftrag ablehnen oder dessen Bearbeitung aussetzen, wenn:"
+
+#: TOS SafetySlides
+msgid "the submitted material exceeds the offered scope;"
+msgstr "das eingereichte Material den angebotenen Leistungsumfang überschreitet;"
+
+#: TOS SafetySlides
+msgid "files are incomplete, unreadable or technically unsuitable;"
+msgstr "Dateien unvollständig, unlesbar oder technisch ungeeignet sind;"
+
+#: TOS SafetySlides
+msgid "the information is insufficient for responsible preparation of the requested training;"
+msgstr "die Informationen nicht ausreichen, um die angefragte Unterweisung verantwortungsvoll zu erstellen;"
+
+#: TOS SafetySlides
+msgid "the material appears unlawful or may infringe third-party rights;"
+msgstr "das Material rechtswidrig erscheint oder möglicherweise Rechte Dritter verletzt;"
+
+#: TOS SafetySlides
+msgid "the files contain malware or present another security risk;"
+msgstr "die Dateien Schadsoftware enthalten oder ein anderes Sicherheitsrisiko darstellen;"
+
+#: TOS SafetySlides
+msgid "the request is outside the intended occupational-safety or corporate-training purpose; or"
+msgstr "die Anfrage außerhalb des vorgesehenen Zwecks des Arbeitsschutzes oder der betrieblichen Schulung liegt; oder"
+
+#: TOS SafetySlides
+msgid "FinishingX does not have the required capacity or expertise for the requested subject."
+msgstr "FinishingX nicht über die erforderlichen Kapazitäten oder Fachkenntnisse für das angefragte Thema verfügt."
+
+#: TOS SafetySlides
+msgid "It is doubtful whether the Buyer has appropriate personnel to review the material before use. On demand the Buyer has to provide the relevant information including relevant certificates."
+msgstr "Es bestehen Zweifel daran, ob der Käufer über geeignetes Personal verfügt, um die Unterlagen vor der Verwendung zu prüfen. Auf Verlangen muss der Käufer die entsprechenden Informationen einschließlich einschlägiger Zertifikate vorlegen."
+
+#: TOS SafetySlides
+msgid "If an order is rejected before processing begins, payments made for the unperformed service will be refunded."
+msgstr "Wird ein Auftrag vor Beginn der Bearbeitung abgelehnt, werden Zahlungen für die nicht erbrachte Leistung erstattet."
+
+#: TOS SafetySlides
+msgid "If the submitted material exceeds the agreed scope, FinishingX may ask the Buyer to reduce the submission or offer additional processing for a separately agreed fee."
+msgstr "Überschreitet das eingereichte Material den vereinbarten Umfang, darf FinishingX den Käufer auffordern, den Umfang der eingereichten Unterlagen zu reduzieren, oder eine zusätzliche Bearbeitung gegen ein gesondert vereinbartes Entgelt anbieten."
+
+#: TOS SafetySlides
+msgid "No additional fee will be charged without the prior agreement with the Buyer."
+msgstr "Ohne vorherige Vereinbarung mit dem Käufer wird kein zusätzliches Entgelt berechnet."
+
 
 
