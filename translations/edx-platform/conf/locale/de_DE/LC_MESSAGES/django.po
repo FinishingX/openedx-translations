@@ -38022,10 +38022,6 @@ msgid "The AI-supported analysis does not evaluate employees and does not make a
 msgstr "Die KI-gestützte Analyse bewertet keine Beschäftigten und trifft keine automatisierten Entscheidungen über einzelne Personen in Bezug auf Beschäftigung, Disziplinarmaßnahmen, Eignung oder Leistung."
 
 # Privacy SafetySlides
-msgid "No decision producing legal or similarly significant effects for a person is made solely through automated processing."
-msgstr "Es werden keine Entscheidungen ausschließlich durch automatisierte Verarbeitung getroffen, die gegenüber einer Person rechtliche Wirkung entfalten oder sie in ähnlich erheblicher Weise beeinträchtigen."
-
-# Privacy SafetySlides
 msgid "RECIPIENTS AND PROCESSORS"
 msgstr "EMPFÄNGER UND AUFTRAGSVERARBEITER"
 
