@@ -15254,3 +15254,23 @@ msgstr "→ %(validity)s bei nächster Synchronisierung"
 msgctxt "training_compliance"
 msgid "Status and expiry dates are being recalculated in the background – this can take a few minutes."
 msgstr "Status und Ablaufdaten werden im Hintergrund neu berechnet – das kann einige Minuten dauern."
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Create new department…"
+msgstr "Neue Abteilung anlegen…"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "New department name"
+msgstr "Name der neuen Abteilung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "No department"
+msgstr "Keine Abteilung"
+
+#: training_compliance (JavaScript)
+msgctxt "training_compliance"
+msgid "Please enter a department name"
+msgstr "Bitte geben Sie einen Abteilungsnamen ein"
