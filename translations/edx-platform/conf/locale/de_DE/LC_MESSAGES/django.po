@@ -28119,6 +28119,8 @@ msgstr "bis 250"
 msgid "up to 500"
 msgstr "bis 500"
 
+msgid "up to"
+msgstr "bis zu"
 
 msgid "more than 500"
 msgstr "mehr als 500"
@@ -38329,6 +38331,105 @@ msgstr "die Rückgabe oder Löschung personenbezogener Daten."
 msgid "This Privacy Policy does not replace the required Data Processing Agreement."
 msgstr "Diese Datenschutzerklärung ersetzt nicht die erforderliche Vereinbarung zur Auftragsverarbeitung."
 
+#: Safety slides - landing  page
+msgid "Experience a revolution in occupational safety training!"
+msgstr "Erleben Sie eine Revolution in der Arbeitsschutzunterweisung!"
+
+#: Safety slides - landing  page
+msgid "SafetySlides: Safety training presentations assembled from existing, human-created materials. Supporting videos where available. Try one presentation of up to 30 minutes for free."
+msgstr "SafetySlides: Präsentationen für Arbeitsschutzunterweisungen aus vorhandenen, von Menschen erstellten Materialien. Begleitvideos, sofern verfügbar. Testen Sie kostenlos eine Präsentation mit einer Dauer von bis zu 30 Minuten."
+
+#: Safety slides - landing  page
+msgid "Professional, training materials that consider your site-specific requirements."
+msgstr "Professionelle, praxisnahe Unterweisungsmaterialien, die Ihre betrieblichen Anforderungen berücksichtigen."
+
+#: Safety slides - landing  page
+msgid "Describe your needs. SafetySlides selects the right training materials."
+msgstr "Beschreiben Sie Ihren Bedarf. SafetySlides wählt die passenden Unterweisungsmaterialien aus."
+
+#: Safety slides - landing  page
+msgid "Start with a prompt describing your topic, audience and desired duration. AI helps select suitable, human-created materials from our existing library. It does not generate slides. Upload your internal documents to help align the selection with your site requirements."
+msgstr "Beginnen Sie mit einer Beschreibung Ihres Themas, Ihrer Zielgruppe und der gewünschten Dauer. Die KI hilft dabei, geeignete, von Menschen erstellte Materialien aus unserer bestehenden Bibliothek auszuwählen. Sie erstellt keine Folien. Laden Sie Ihre internen Dokumente hoch, damit die Auswahl besser auf Ihre betrieblichen Anforderungen abgestimmt werden kann."
+
+#: Safety slides - landing  page
+msgid "Considers your risk assessments and internal documents"
+msgstr "Berücksichtigt Ihre Gefährdungsbeurteilungen und internen Dokumente"
+
+#: Safety slides - landing  page
+msgid "Extend existing materials, assemble new presentations or request a review"
+msgstr "Erweitern Sie vorhandene Materialien, stellen Sie neue Präsentationen zusammen oder bitten Sie um eine Prüfung"
+
+#: Safety slides - landing page
+msgid "Add-on"
+msgstr "Zubuchbar"
+
+#: Safety slides - landing  page
+msgid "Technical plausibility review by safety experts"
+msgstr "Technische Plausibilitätsprüfung durch Arbeitsschutzfachleute"
+
+#: Safety slides - landing  page
+msgid "No AI-generated slides"
+msgstr "Keine KI-generierten Folien"
+
+#: Safety slides - landing  page
+msgid "GDPR-compliant processing"
+msgstr "DSGVO-konforme Verarbeitung"
+
+#: Safety slides - landing  page
+msgid "Individual expert review is an optional paid service. You must provide site-specific content and check the materials before use."
+msgstr "Eine individuelle Expertenprüfung ist eine optionale kostenpflichtige Leistung. Sie müssen standortspezifische Inhalte bereitstellen und die Materialien vor der Verwendung prüfen."
+
+#: Safety slides - landing  page
+msgid "Describe your requirements"
+msgstr "Beschreiben Sie Ihren Bedarf"
+
+#: Safety slides - landing  page
+msgid "Enter your topic, target audience and desired training duration in minutes."
+msgstr "Geben Sie Ihr Thema, Ihre Zielgruppe und die gewünschte Dauer der Unterweisung in Minuten an."
+
+#: Safety slides - landing  page
+msgid "Add your documents"
+msgstr "Fügen Sie Ihre Dokumente hinzu"
+
+#: Safety slides - landing  page
+msgid "Upload existing presentations, procedures, risk assessments or other approved documents, if required."
+msgstr "Laden Sie bei Bedarf vorhandene Präsentationen, Verfahrensanweisungen, Gefährdungsbeurteilungen oder andere freigegebene Dokumente hoch."
+
+#: Safety slides - landing page
+msgid "Receive your presentation"
+msgstr "Präsentation herunterladen"
+
+#: Safety slides - landing  page
+msgid "Receive your presentation within two working days. Review it and add any required site-specific information before use."
+msgstr "Sie erhalten Ihre Präsentation innerhalb von zwei Werktagen. Prüfen Sie sie und ergänzen Sie vor der Verwendung alle erforderlichen standortspezifischen Informationen."
+
+#: Safety slides - landing  page
+msgid "Your first presentation is free"
+msgstr "Ihre erste Präsentation ist kostenlos"
+
+#: Safety slides - landing  page
+msgid "One presentation, once only. No credit card required. No automatic conversion to a paid subscription."
+msgstr "Eine einmalige Präsentation. Keine Kreditkarte erforderlich. Kein automatischer Wechsel zu einem kostenpflichtigen Abonnement."
+
+#: Safety slides - landing  page
+msgid "All plans use our existing library and consider your uploaded documents. Supporting videos are available in every plan where provided for the topic."
+msgstr "Alle Tarife greifen auf unsere bestehende Bibliothek zurück und berücksichtigen Ihre hochgeladenen Dokumente. Begleitvideos sind in jedem Tarif verfügbar, sofern sie für das jeweilige Thema angeboten werden."
+
+#: Safety slides - landing  page
+msgid "Additional technical review by safety experts"
+msgstr "Zusätzliche technische Prüfung durch Arbeitsschutzfachleute"
+
+#: Safety slides - landing  page
+msgid "SCORM conversion for integration into your learning management system"
+msgstr "SCORM-Konvertierung zur Integration in Ihr Lernmanagementsystem"
+
+#: Safety slides - landing  page
+msgid "Subscription prices are per user per month, excluding VAT. The free trial is available once. Individual expert review and SCORM conversion are not included in the plan prices."
+msgstr "Die Abonnementpreise gelten pro Nutzer und Monat, zzgl. MwSt. Das kostenlose Testangebot kann einmalig genutzt werden. Eine individuelle Expertenprüfung und die SCORM-Konvertierung sind nicht in den Tarifpreisen enthalten."
+
+#: Safety slides - landing  page
+msgid "Register and choose your plan"
+msgstr "Registrieren Sie sich und wählen Sie Ihren Tarif"
 
 
 
