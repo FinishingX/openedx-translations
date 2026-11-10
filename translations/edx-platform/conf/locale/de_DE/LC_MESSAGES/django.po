@@ -38432,10 +38432,6 @@ msgid "Register and choose your plan"
 msgstr "Registrieren Sie sich und wählen Sie Ihren Tarif"
 
 #: Safety slides - landing  page
-msgid "Free"
-msgstr "Gratis"
-
-#: Safety slides - landing  page
 msgid "free"
 msgstr "gratis"
 
