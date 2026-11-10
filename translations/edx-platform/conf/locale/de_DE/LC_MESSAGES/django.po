@@ -38443,4 +38443,11 @@ msgstr "pro Monat"
 msgid "per year"
 msgstr "pro Jahr"
 
+#: Safety slides - landing  page
+msgid "Number of trainings generated"
+msgstr "Anzahl der Schulungen"
+
+
+
+
 
