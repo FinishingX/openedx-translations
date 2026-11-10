@@ -12027,7 +12027,7 @@ msgid "On Reset"
 msgstr "Bei Zurücksetzung"
 
 #: xmodule/capa_block.py:282
-msgid "Per Student"
+msgid "Per fStudent"
 msgstr "Pro Teilnehmer"
 
 #: xmodule/capa_block.py:286
@@ -37187,7 +37187,7 @@ msgstr "Anfrage absenden"
 
 #: SafetySlides checkout
 msgid "How long does it take to create the training?"
-msgstr "Wie lange dauert die Erstellung der Unterweisung?"
+msgstr "Wie lange dauert die Erstellung der Schulungsunterlagen?"
 
 #: SafetySlides checkout
 msgid "2 working days."
@@ -37219,7 +37219,7 @@ msgstr "Wir nehmen den Datenschutz ernst und setzen ausschließlich DSGVO-konfor
 
 #: SafetySlides checkout
 msgid "Does FinishingX guarantee the legal compliance of the training?"
-msgstr "Garantiert FinishingX die Rechtskonformität der Unterweisung?"
+msgstr "Garantiert FinishingX die Rechtskonformität der Schulungsunterlagen?"
 
 #: SafetySlides checkout
 msgid "We take every effort possible to ensure the quality of the resulting training. The user must check the material before use."
@@ -38416,8 +38416,8 @@ msgid "All plans use our existing library and consider your uploaded documents. 
 msgstr "Alle Tarife greifen auf unsere bestehende Bibliothek zurück und berücksichtigen Ihre hochgeladenen Dokumente. Begleitvideos sind in jedem Tarif verfügbar, sofern sie für das jeweilige Thema angeboten werden."
 
 #: Safety slides - landing  page
-msgid "Additional technical review by safety experts"
-msgstr "Zusätzliche technische Prüfung durch Arbeitsschutzfachleute"
+msgid "Additional review by safety experts"
+msgstr "Erweiterte Prüfung durch Arbeitsschutzexperten"
 
 #: Safety slides - landing  page
 msgid "SCORM conversion for integration into your learning management system"
@@ -38431,6 +38431,20 @@ msgstr "Die Abonnementpreise gelten pro Nutzer und Monat, zzgl. MwSt. Das kosten
 msgid "Register and choose your plan"
 msgstr "Registrieren Sie sich und wählen Sie Ihren Tarif"
 
+#: Safety slides - landing  page
+msgid "Free"
+msgstr "Gratis"
 
+#: Safety slides - landing  page
+msgid "free"
+msgstr "gratis"
+
+#: Safety slides - landing  page
+msgid "per month"
+msgstr "pro Monat"
+
+#: Safety slides - landing  page
+msgid "per year"
+msgstr "pro Jahr"
 
 
