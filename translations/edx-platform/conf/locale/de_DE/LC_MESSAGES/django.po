@@ -36919,7 +36919,7 @@ msgstr "Produkt"
 
 #: SafetySlides checkout
 msgid "Get ready for the revolution in the field of occupational safety training!"
-msgstr "Erleben Sie die Revolution bei Unterweisungen im Arbeitsschutz!"
+msgstr "Erleben Sie eine Revolution im Arbeitsschutz!"
 
 #: SafetySlides checkout
 msgid "Fields marked with * are required."
@@ -38348,8 +38348,8 @@ msgid "Describe your needs. SafetySlides selects the right training materials."
 msgstr "Beschreiben Sie Ihren Bedarf. SafetySlides wählt die passenden Unterweisungsmaterialien aus."
 
 #: Safety slides - landing  page
-msgid "Safety training must always be based on a risk assessment. With FinishingX SafetySlides, you can create site-specific safety training in minutes! Simply start by providing a prompt that describes your topic, audience and desired duration. AI will then help you select suitable, human-created materials from our existing library. It does not generate slides. You can also upload your own internal documents to help align the selection with your site requirements."
-msgstr "Sicherheitsschulungen müssen stets auf einer Risikobewertung basieren. Mit FinishingX SafetySlides erstellen Sie innerhalb weniger Minuten betriebsspezifische Sicherheitsschulungen! Geben Sie dazu zunächst eine Beschreibung Ihres Themas, Ihrer Zielgruppe und der gewünschten Dauer ein. Die KI hilft Ihnen anschließend dabei, geeignete, von Menschen erstellte Materialien aus unserer bestehenden Bibliothek auszuwählen. Es werden keine KI-generierten Folien bereitgestellt. Sie können auch eigene interne Dokumente hochladen, um die Auswahl besser an die Anforderungen Ihres Betriebs anzupassen."
+msgid "Safety training must always be based on a risk assessment. With FinishingX SafetySlides, you can create site-specific safety training materials in minutes! Simply start by providing a prompt describing your topic and uploading your internal documents. AI will then help you select suitable materials created by safety experts from our existing library. It does not generate slides."
+msgstr "Unterweisungen müssen stets auf einer Gefährdungsbeurteilung basieren. Mit FinishingX SafetySlides erstellen Sie innerhalb weniger Minuten betriebsspezifische Sicherheitsschulungen. Geben Sie dazu zunächst eine Beschreibung Ihres Themas ein und laden Sie Ihre betrieblichen Dokumente hoch. Anschließend hilft Ihnen die KI dabei, geeignete Materialien aus unserer bestehenden Bibliothek auszuwählen, die von Arbeitsschutzexperten erstellt wurden. Es werden keine KI-generierten Folien bereitgestellt. Sie können auch eigene interne Dokumente hochladen, um die Auswahl besser an die Anforderungen Ihres Betriebs anzupassen."
 
 #: Safety slides - landing  page
 msgid "Considers your risk assessments and internal documents"
