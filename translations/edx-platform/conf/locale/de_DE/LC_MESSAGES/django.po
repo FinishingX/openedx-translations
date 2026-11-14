@@ -38447,3 +38447,8 @@ msgstr "pro Jahr"
 msgid "Number of trainings generated"
 msgstr "Anzahl der Schulungen"
 
+#: Safety slides - landing  page
+msgid "After a brief registration process, you will be granted access to our tool."
+msgstr "Nach einem kurzen Registrierungsvorgang erhalten Sie Zugriff auf unser Tool."
+
+
