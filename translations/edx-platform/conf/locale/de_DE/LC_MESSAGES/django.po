@@ -38348,8 +38348,8 @@ msgid "Describe your needs. SafetySlides selects the right training materials."
 msgstr "Beschreiben Sie Ihren Bedarf. SafetySlides wählt die passenden Unterweisungsmaterialien aus."
 
 #: Safety slides - landing  page
-msgid "Start with a prompt describing your topic, audience and desired duration. AI helps select suitable, human-created materials from our existing library. It does not generate slides. Upload your internal documents to help align the selection with your site requirements."
-msgstr "Beginnen Sie mit einer Beschreibung Ihres Themas, Ihrer Zielgruppe und der gewünschten Dauer. Die KI hilft dabei, geeignete, von Menschen erstellte Materialien aus unserer bestehenden Bibliothek auszuwählen. Sie erstellt keine Folien. Laden Sie Ihre internen Dokumente hoch, damit die Auswahl besser auf Ihre betrieblichen Anforderungen abgestimmt werden kann."
+msgid "Safety training must always be based on a risk assessment. With FinishingX SafetySlides, you can create site-specific safety training in minutes! Simply start by providing a prompt that describes your topic, audience and desired duration. AI will then help you select suitable, human-created materials from our existing library. It does not generate slides. You can also upload your own internal documents to help align the selection with your site requirements."
+msgstr "Sicherheitsschulungen müssen stets auf einer Risikobewertung basieren. Mit FinishingX SafetySlides erstellen Sie innerhalb weniger Minuten betriebsspezifische Sicherheitsschulungen! Geben Sie dazu zunächst eine Beschreibung Ihres Themas, Ihrer Zielgruppe und der gewünschten Dauer ein. Die KI hilft Ihnen anschließend dabei, geeignete, von Menschen erstellte Materialien aus unserer bestehenden Bibliothek auszuwählen. Es werden keine KI-generierten Folien bereitgestellt. Sie können auch eigene interne Dokumente hochladen, um die Auswahl besser an die Anforderungen Ihres Betriebs anzupassen."
 
 #: Safety slides - landing  page
 msgid "Considers your risk assessments and internal documents"
@@ -38446,8 +38446,4 @@ msgstr "pro Jahr"
 #: Safety slides - landing  page
 msgid "Number of trainings generated"
 msgstr "Anzahl der Schulungen"
-
-
-
-
 
